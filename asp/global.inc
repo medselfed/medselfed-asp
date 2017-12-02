@@ -1,6 +1,6 @@
 <%
 
-	strDomain = LCase(Request.ServerVariables("SERVER_NAME"))
+	strDomain = "preop"
 
 	for x = 1 to 10
 
