@@ -1,0 +1,220 @@
+a.altviolet2:link      {
+	color: #333399;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.altviolet2:visited   {
+	color: #333399;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.altviolet2:hover     {
+	color: #FF0000;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.altviolet2:active    {
+	color: #333399;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* General Styles */
+div, td, li, dd, dl, dt 
+				{font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+
+.formstyle		{font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666666;}
+
+.border			{border: 1px solid #666666; padding : 6px; margin : 10px 0px 10 0;}
+.border2		{border: 1px dashed #666666; padding : 6px; margin : 10px 0px 10 0;}
+
+b,strong		{font-weight: bold;}
+
+i,em			{font-style: italic;}
+
+
+a.link      {color: #000000; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+a.visited   {color: #000000; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+a.hover     {color: #000000; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+a.active    {color: #000000; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+
+a.alt:link      {color: #000000; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt:visited   {color: #000000; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt:hover     {color: #000000; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt:active    {color: #000000; font-size: 12px; font-weight: bold; text-decoration: none;}
+
+a.smlred:link      {color: #990000; font-size: 10px; text-decoration: none;}
+a.smlred:visited   {color: #990000; font-size: 10px; text-decoration: none;}
+a.smlred:hover     {color: #990000; font-size: 10px; text-decoration: none;}
+a.smlred:active    {color: #990000; font-size: 10px; text-decoration: none;}
+
+a.altblk:link      {color: #000000; font-size: 11px; font-weight: bold; text-decoration: none;}
+a.altblk:visited   {color: #000000; font-size: 11px; font-weight: bold; text-decoration: none;}
+a.altblk:hover     {color: #FF0000; font-size: 11px; font-weight: bold; text-decoration: none;}
+a.altblk:active    {color: #000000; font-size: 11px; font-weight: bold; text-decoration: none;}
+
+a.altblk2:link      {color: #000000; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.altblk2:visited   {color: #000000; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.altblk2:hover     {color: #FF0000; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.altblk2:active    {color: #000000; font-size: 12px; font-weight: bold; text-decoration: none;}
+
+
+a.alt1:link      {color: #FFFFFF; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt1:visited   {color: #FFFFFF; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt1:hover     {color: #FF3333; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt1:active    {color: #FFFFFF; font-size: 12px; font-weight: bold; text-decoration: none;}
+
+a.NavHead:link      {color: #999999; font-size: 11px; font-weight: bold; text-decoration: none;}
+a.NavHead:visited   {color: #999999; font-size: 11px; font-weight: bold; text-decoration: none;}
+a.NavHead:hover     {color: #FF3333; font-size: 11px; font-weight: bold; text-decoration: none;}
+a.NavHead:active    {color: #999999; font-size: 11px; font-weight: bold; text-decoration: none;}
+
+a.NavLink:link      {color: #999999; font-size: 10px; text-decoration: none;}
+a.NavLink:visited   {color: #999999; font-size: 10px; text-decoration: none;}
+a.NavLink:hover     {color: #FF3333; font-size: 10px; text-decoration: none;}
+a.NavLink:active    {color: #999999; font-size: 10px; text-decoration: none;}
+
+a.alt2:link      {color: #0099FF; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt2:visited   {color: #0099FF; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt2:hover     {color: #0099FF; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.alt2:active    {color: #0099FF; font-size: 12px; font-weight: bold; text-decoration: none;}
+
+a.altviolet:link      {color: #666699; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.altviolet:visited   {color: #666699; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.altviolet:hover     {color: #666699; font-size: 12px; font-weight: bold; text-decoration: none;}
+a.altviolet:active    {color: #666699; font-size: 12px; font-weight: bold; text-decoration: none;}
+
+a.altviolet2:link      {
+	color: #333399;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.altviolet2:visited   {
+	color: #333399;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.altviolet2:hover     {
+	color: #FF0000;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.altviolet2:active    {
+	color: #333399;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a.alt3:link     {text-decoration: none;}
+a.alt3:visited  {text-decoration: none;}
+a.alt3:hover    {background-color: #FAF5E6}
+a.alt3:active   {background-color: #FAF5E6}
+
+a.alt4:link     {text-decoration: none;}
+a.alt4:visited  {text-decoration: none;}
+a.alt4:hover    {background-color: #990000}
+a.alt4:active   {background-color: #990000}
+
+a.alt5:link     {text-decoration: none;}
+a.alt5:visited  {text-decoration: none;}
+
+a.alt6:link      {color: #FFFFFF; text-decoration: none;}
+a.alt6:visited   {color: #FFFFFF; text-decoration: none;}
+a.alt6:hover     {color: #FFFFFF; text-decoration: underline;}
+a.alt6:active    {color: #FFFFFF; text-decoration: underline;}
+
+.headersec  {font: bold 18px Arial, Helvetica, sans-serif; color: #CCCCCC; text-decoration: none}
+.header  {font: 14px Arial, Helvetica, sans-serif; color: #003366; text-decoration: none; font-weight: bold}
+.headerit  {font: 12px Arial, Helvetica, sans-serif; color: #FF616B; text-decoration: none; font-weight: bold}
+.headerit2  {font: italic bold 12px Arial, Helvetica, sans-serif; color: #FF616B; text-decoration: none}
+.header1 {font: 18px Arial, Helvetica, sans-serif; color: #666699; text-decoration: none; font-weight: bold}
+.header2 {font: 14px Arial, Helvetica, sans-serif; color: #FFFFFF; text-decoration: none; font-weight: bold}
+.header3 {font: 14px Arial, Helvetica, sans-serif; color: #990000; text-decoration: none; font-weight: bold}
+.header4  {font: bold 18px Arial, Helvetica, sans-serif; color: #003366; text-decoration: none}
+.header5  {font: italic bold 12px Arial, Helvetica, sans-serif; color: #FF616B; text-decoration: none}
+.centerHead {font: bold 28px "Times New Roman", Times, serif; color: #CCCCCC; }
+
+.head           	{font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #000033; font-weight: bold;}
+.headserif        	{font-family: Georgia, Times New Roman, Times, serif; font-size: 16px; line-height: 18px; color: #000033; font-weight: bold;}
+.head2				{font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #FFFFFF; font-weight: bold;}
+
+.subhead         	{font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 16px; color: #000033; font-weight: bold;}
+.subhead2        	{font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 16px; color: #FFFFFF; font-weight: bold;}
+
+.copy            	{font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666666;}
+.copy2           	{font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF;}
+
+.caption         	{font-family: Verdana, Arial, Helvetica, san-serif; font-size: 9px; line-height: 12px; color: #666666;}
+.captionserif      	{font-family: Georgia, Times New Roman, Times, serif; font-size: 9px; line-height: 12px; color: #666666;}
+.caption2        	{font-family: Verdana, Arial, Helvetica, san-serif; font-size: line-height: 12px; 9px; color: #FFFFFF;}
+
+
+/*  Colors */
+.red     {color: #990000;}
+.org     {color: #FFA429;}
+.green   {color: #666600;}
+.blue    {color: #000033;}
+.navy    {color: #19222E;}
+.white   {color: #FFFFFF;}
+.tan     {color: #FAE0B0;}
+
+
+/*  Specific Styles */
+.xsml        {font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #666666;}
+.xsmlred     {font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #990000;}
+.xsmlorg     {font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #FFA429;}
+.xsmlgreen   {font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #666600;}
+.xsmlblue    {font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #6699FF;}
+.xsmlwhite   {font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #FFFFFF;}
+.xsmltan     {font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #FAE0B0;}
+.smlx         {font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #000000;}
+
+.sml         {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #000000;}
+.smlb        {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; font-weight: bold;}
+.smlred      {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #990000;}
+.smlred2     {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #990000;}
+.smlorg      {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #FFA429;}
+.smlgreen    {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666600;}
+.smlblue     {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #6699FF;}
+.smlwhite    {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF;}
+.smltan      {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #FAE0B0;}
+.smlgray     {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #999999;}
+.smlmedgray     {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #999999; font-weight: bold;}
+.smlmedblue     {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #003366; font-weight: bold;}
+.smlmedviolet     {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333399; font-weight: bold;}
+
+.med         {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #000000; font-weight: bold;}
+.medred      {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #990000; font-weight: bold;}
+.medorg      {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #FFA429; font-weight: bold;}
+.medgreen    {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #666600; font-weight: bold;}
+.medblue     {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #CCCCCC; font-weight: bold;}
+.medwhite    {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #FFFFFF; font-weight: bold;}
+.medtan      {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #FAE0B0; font-weight: bold;}
+.medviolet   {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #666699; font-weight: bold;}
+.medgray     {font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; color: #999999; font-weight: bold;}
+
+.lrg         {font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #666666; font-weight: bold;}
+.lrgred      {font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #990000; font-weight: bold;}
+.lrgorg      {font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #FFA429; font-weight: bold;}
+.lrggreen    {font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #666600; font-weight: bold;}
+.lrgblue     {font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #000033; font-weight: bold;}
+.lrgwhite    {font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #FFFFFF; font-weight: bold;}
+.lrgtan      {font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #FAE0B0; font-weight: bold;}
+.lrggray     {font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 16px; color: #999999; font-weight: bold;}
+.largeviolet {font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 16px; color: #666699; font-weight: bold;}
+
+.xlrg        {font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #666666; font-weight: bold;}
+.xlrgred     {font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #990000; font-weight: bold;}
+.xlrgorg     {font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #FFA429; font-weight: bold;}
+.xlrggreen   {font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #666600; font-weight: bold;}
+.xlrgblue    {font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #000033; font-weight: bold;}
+.xlrgwhite   {font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #FFFFFF; font-weight: bold;}
+.xlrgtan     {font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #FAE0B0; font-weight: bold;}

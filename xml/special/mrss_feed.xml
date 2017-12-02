@@ -1,0 +1,107 @@
+<?xml version="1.0" ?> 
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>MedSelfEd PreOp Videos</title>
+  <link>http://www.medselfed.com</link>
+  <description></description>
+    <item>
+      <guid isPermaLink="false">medselfed_Myringotomy_Insertion_of_Tube_Surgery_Recovery</guid>
+      <title>Myringotomy Insertion of Tube Surgery Recovery</title>
+      <description>A myringotomy is a simple procedure in which a small tube is inserted into the eardrum in order to allow fluids to drain out of the middle, reducing pressure and allowing any infection to be treated with antibiotics.</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/339_8_myringotomy_recovery.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Myringotomy Insertion of Tube Surgery Recovery</media:title>
+      <media:description type="plain">A myringotomy is a simple procedure in which a small tube is inserted into the eardrum in order to allow fluids to drain out of the middle, reducing pressure and allowing any infection to be treated with antibiotics.</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/339-7-09b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, eardrum, tympanic, antibiotics, Children, </media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_Small_Incision_Cataract_Surgery_Recovery</guid>
+      <title>Small Incision Cataract Surgery Recovery</title>
+      <description>As we age, this lens can become cloudy and gradually lose its ability to focus properly. This is called a cataract.</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/341_8_cataract_recovery.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Small Incision Cataract Surgery Recovery</media:title>
+      <media:description type="plain">As we age, this lens can become cloudy and gradually lose its ability to focus properly. This is called a cataract.</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/341-7-19b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, doctor, vision, lens, AARP</media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_Carpal_Tunnel_Syndrome_Repair_Surgery_Recovery</guid>
+      <title>Carpal Tunnel Syndrome Repair Surgery Recovery</title>
+      <description>The median nerve, which carries sensation to the thumb and first three fingers, passes through a natural passageway in the wrist. This added pressure can cause a tingling sensation in the fingers and the thumb and may even lead to numbness, pain and restricted movement.</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/342_8_carpal_tunnel_syndrome_recovery.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Carpal Tunnel Syndrome Repair Surgery Recovery</media:title>
+      <media:description type="plain">The median nerve, which carries sensation to the thumb and first three fingers, passes through a natural passageway in the wrist. This added pressure can cause a tingling sensation in the fingers and the thumb and may even lead to numbness, pain and restricted movement.</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/342-2-06b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, wrist, ligament, computer, wrist, brace</media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_Gallbladder_Removal_Laparoscopic__Surgery_Recovery</guid>
+      <title>Gallbladder Removal Laparoscopic  Surgery Recovery</title>
+      <description>The gallbladder is a small organ located below the liver. It&apos;s function is to store bile used by the intestines to digest food.</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/343_8_gallbladder_removal_lap.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Gallbladder Removal Laparoscopic  Surgery Recovery</media:title>
+      <media:description type="plain">The gallbladder is a small organ located below the liver. It&apos;s function is to store bile used by the intestines to digest food.</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/343-7-17b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, bile, Sutures, liver</media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_Arthroscopic_Meniscus_Repair_of_Knee__Surgery_Recovery</guid>
+      <title>Arthroscopic Meniscus Repair of Knee  Surgery Recovery</title>
+      <description>Arthroscopic surgery in order to repair a torn meniscus in your knee. The meniscus is cartilage that not only protects the bone, but also acts like the leg&apos;s shock absorber. Symptoms include swelling, restricted movement, pain and even the inability to stand on the effected leg....</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/348_8_meniscus_repair_of_knee.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Arthroscopic Meniscus Repair of Knee  Surgery Recovery</media:title>
+      <media:description type="plain">Arthroscopic surgery in order to repair a torn meniscus in your knee. The meniscus is cartilage that not only protects the bone, but also acts like the leg&apos;s shock absorber. Symptoms include swelling, restricted movement, pain and even the inability to stand on the effected leg....</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/348-2-08b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, cartilage, leg, tibia, Arthroscopic, </media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_Hysterectomy_Removal_of_the_Uterus</guid>
+      <title>Hysterectomy Removal of the Uterus</title>
+      <description>...the organ that holds and protects the fetus during pregnancy.</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/349_8_hysterectomy_removal_of_uterus.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Hysterectomy Removal of the Uterus</media:title>
+      <media:description type="plain">...the organ that holds and protects the fetus during pregnancy.</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/349-7-16b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, pregnancy, menstrual, vagina, ovaries, miscarriage</media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_Dilation_and_Curettage_D_&amp;_C_Surgery_Recovery</guid>
+      <title>Dilation and Curettage D &amp; C Surgery Recovery</title>
+      <description>...are performed because the patient has complained of unusually heavy menstrual bleeding.</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/350_8_d_and_c.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Dilation and Curettage D &amp; C Surgery Recovery</media:title>
+      <media:description type="plain">...are performed because the patient has complained of unusually heavy menstrual bleeding.</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/350-7-14b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, pregnancy, menstrual, vagina, ovaries, miscarriage</media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_Hernia_Hiatal_Laparoscopic_Surgery_Recovery</guid>
+      <title>Hernia Hiatal Laparoscopic Surgery Recovery</title>
+      <description>Normally, the diaphragm has an opening for the esophagus to pass through where it connects with the stomach. A hiatal hernia occurs when part of the stomach pushes upward through this small opening.</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/351_8_hiatal_hernia_lap.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Hernia Hiatal Laparoscopic Surgery Recovery</media:title>
+      <media:description type="plain">Normally, the diaphragm has an opening for the esophagus to pass through where it connects with the stomach. A hiatal hernia occurs when part of the stomach pushes upward through this small opening.</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/351-7-25b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, heartburn, abdomen, stomach, gerd, indigestion, pregnancy, nausea, remedies, paraesophageal, reflux, acid, retrocardiac</media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_Endoscopy_of_Large_Intestine_Surgery_Recovery</guid>
+      <title>Endoscopy of Large Intestine Surgery Recovery</title>
+      <description>is a diagnostic procedure used by your doctor to inspect the inside of your rectum and colon. .</description>
+      <media:content url="http://msevideo.s3.amazonaws.com/353_8_lower_endoscopy.mp4" type="video/mp4" lang="eng" />
+      <media:title type="plain">Endoscopy of Large Intestine Surgery Recovery</media:title>
+      <media:description type="plain">is a diagnostic procedure used by your doctor to inspect the inside of your rectum and colon. .</media:description>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/353-7-08b.gif"/>
+      <media:keywords>Surgery, Patient, Education, health, medicine, rectum, colon, digestive, diagnostic, doctor, Patient, hemroids, science, clinic, cancer, polyp, bowel, colitis, intestinal, colonoscopy</media:keywords>
+      <pubDate>Thu, 20 Jan 2011 11:14:54 GMT</pubDate>
+    </item>
+</channel>
+</rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>heartclinic center</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/hc_heart.gif" />
+<centerElement prodId="364" prodImage="/image/364/364.gif">Balloon Angioplasty Coronary Angioplasty</centerElement>
+<centerElement prodId="361" prodImage="/image/361/361.gif">Cardiac Catheterization Angiography</centerElement>
+<centerElement prodId="399" prodImage="/image/399/399.gif">Permanent Pacemaker - Implant</centerElement>
+</preopData>

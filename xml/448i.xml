@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Injecting Insulin</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Injecting Insulin</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>448i</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/448i/audio_448i.mov"  audioMapWM="/448i/audio_448i.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/448i/video_448i.mov" videoMapWM="/448i/video_448i.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/448i/448i-01b.gif" image="/448i/448i-01.gif">This program will demonstrate injecting insulin.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/448i/448i-02b.gif" image="/448i/448i-02.gif">The goal is to inject the insulin into the subcutaneous tissue between the top layer of the skin, the dermis and the underlying muscle layer.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/448i/448i-03b.gif" image="/448i/448i-03.gif">The only concentration of insulin available in the United States is 100 units per milliliter. A milliliter is equal to a cubic centimeter. All insulin syringes are graduated to match this concentration.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/448i/448i-04b.gif" image="/448i/448i-04.gif">Insulin syringes are available in various volumes, for example: 3/10 cc, which would hold a maximum dose of 30 units, 1/2 cc to hold a maximum dose of 50 units and 1 cc to hold a maximum dose of 100 units.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/448i/448i-05b.gif" image="/448i/448i-05.gif">Some insulins are cloudy suspensions. To ensure uniform dispersion of the insulin in the cloudy suspension, roll the vial gently between your hands. Avoid vigorous shaking, which will produce air bubbles or foam and interfere with obtaining the accurate dose.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/448i/448i-06b.gif" image="/448i/448i-06.gif">Wipe off the top of the bottle with an alcohol swab. Discard the swab.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/448i/448i-07b.gif" image="/448i/448i-07.gif">Pick up the syringe and remove the needle cap. With the syringe held upright, pull the plunger back until the end of the plunger is at the mark of your dose,</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/448i/448i-08b.gif" image="/448i/448i-08.gif">which in this example is 20 units. There is now air in the syringe.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/448i/448i-09b.gif" image="/448i/448i-09.gif">Check the insulin bottle to ensure you have the correct type of insulin.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/448i/448i-10b.gif" image="/448i/448i-10.gif">With the insulin bottle held firmly on a counter or tabletop, insert the needle through the rubber cap into the bottle.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/448i/448i-11b.gif" image="/448i/448i-11.gif">Push the plunger down so that the air goes from the syringe into the bottle.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/448i/448i-12b.gif" image="/448i/448i-12.gif">Turn the bottle upside down so that the air in it is at the top.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/448i/448i-13b.gif" image="/448i/448i-13.gif">With the tip of the needle kept in the liquid, pull the plunger back to your dose. If any air bubbles are in the syringe, push the plunger back in and draw up the dose again.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/448i/448i-14b.gif" image="/448i/448i-14.gif">Remove the syringe and needle from the bottle. Do not let the needle touch anything else until it touches your skin for the injection.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/448i/448i-15b.gif" image="/448i/448i-15.gif">Wipe the skin of the chosen injection site with an alcohol swab and let the skin dry.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/448i/448i-16b.gif" image="/448i/448i-16.gif">Pinch up the skin and put the needle fully through the skin at an 80 to 90 degree angle and push the plunger down completely.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/448i/448i-17b.gif" image="/448i/448i-17.gif">Discard the syringe and attached needle into a puncture-proof container and replace the container's screw cap.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/448i/448i-18b.gif" image="/448i/448i-18.gif">Instead of a puncture-proof container you can purchase a special "Sharps" container with a hinged lid to store your used syringes and needles.</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/448i/448i-19b.gif" image="/448i/448i-19.gif">&lt;UL&gt;&lt;LI&gt;When your storage or "Sharps" container is 3/4 full, dispose of it according to the policies of your local authorities.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/448i/448i-20b.gif" image="/448i/448i-20.gif">The recommended sites for insulin injections are shown. Change the place of each injection by moving a couple of inches from the previous site.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/448i/448i-21b.gif" image="/448i/448i-21.gif">By doing this, you can stay in one general area for several days.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+
+</preopData>

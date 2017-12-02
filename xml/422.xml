@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Assisting with Feeding</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Assisting with Feeding</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>422</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/422/audio_422.mov"  audioMapWM="/422/audio_422.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/422/video_422.mov" videoMapWM="/422/video_422.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/422/422-01b.gif" image="/422/422-01.gif">Sometimes after surgery, your patient may need help with feeding.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/422/422-02b.gif" image="/422/422-02.gif">Before serving the food:&lt;UL&gt;&lt;LI&gt;Make the environment as attractive as possible.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/422/422-03b.gif" image="/422/422-03.gif">&lt;UL&gt;&lt;LI&gt;Complete any toileting needs your patient has.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/422/422-04b.gif" image="/422/422-04.gif">&lt;UL&gt;&lt;LI&gt;Help your patient wash his hands.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/422/422-05b.gif" image="/422/422-05.gif">&lt;UL&gt;&lt;LI&gt;Make sure the patient has any dentures, glasses or hearing aids that are used.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/422/422-06b.gif" image="/422/422-06.gif">If your patient is able to get out of bed, help him sit at the table in a straight-backed chair so that the table top is at a comfortable height and distance so that he does not have to stretch to eat.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/422/422-07b.gif" image="/422/422-07.gif">Before serving the food, wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/422/422-08b.gif" image="/422/422-08.gif">Display the food conveniently and attractively and describe it to your patient.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/422/422-09b.gif" image="/422/422-09.gif">If your patient is staying in bed, use pillows so that the patient is comfortably upright.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/422/422-10b.gif" image="/422/422-10.gif">If you are using an overbed table, remove any objects on it and wipe it with a damp paper towel.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/422/422-11b.gif" image="/422/422-11.gif">Before serving the food, wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/422/422-12b.gif" image="/422/422-12.gif">Use a towel or a bib to protect clothing and bed covers.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/422/422-13b.gif" image="/422/422-13.gif">Place a tray with the food on the overbed table and describe the food. Prepare any food, such as opening and pouring containers of fluids, buttering bread, using condiments, cutting food.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/422/422-14b.gif" image="/422/422-14.gif">Sit at the patient's side, at or below eye level. If you are right-handed, sit at the patient's right side so that your patient does not have to keep his head turned towards you.  Use a fork half full of solid food ...</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/422/422-15b.gif" image="/422/422-15.gif">... or a spoon half full of liquid. Always encourage your patient to feed himself as much as possible. Liquids should be given frequently either with the spoon or a straw.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/422/422-16b.gif" image="/422/422-16.gif">Use a napkin or paper towel to wipe your patient's mouth as needed.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/422/422-17b.gif" image="/422/422-17.gif">When the patient has finished, remove the tray, and help him to wash his hands and face and brush his teeth. If need be, help him with toileting. </procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/422/422-18b.gif" image="/422/422-18.gif">Wash and dry your hands.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Tray&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Table with Straight-backed chair (if able to get out of bed)&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Waste receptacle&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Overbed table (if unable to get out of bed)&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;Towel or a Bib&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;Napkin or Paper towel&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

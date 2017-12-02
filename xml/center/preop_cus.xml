@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Lake Regional Patient Education</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/preop_cus.gif" />
+<centerElement prodId="343" prodImage="/image/343/343.gif">Gallbladder Laparoscopic Cholecystectomy</centerElement>
+<centerElement prodId="479" prodImage="/image/479/479.gif">Rotator Cuff Repair - Arthroscopic</centerElement>
+<centerElement prodId="368" prodImage="/image/368/368.gif">Hysterectomy: Uterus, Ovaries, and Fallopian</centerElement>
+<centerElement prodId="436" prodImage="/image/436/436.gif">Cystoscopy - Female</centerElement>
+<centerElement prodId="377" prodImage="/image/377/377.gif">Coronary Artery Bypass Graft (CABG)</centerElement>
+<centerElement prodId="399" prodImage="/image/399/399.gif">Permanent Pacemaker - Implant</centerElement>
+<centerElement prodId="337" prodImage="/image/337/337.gif">Laparoscopy Diagnostic</centerElement>
+<centerElement prodId="370" prodImage="/image/370/370.gif">Stent Implantation Coronary Angioplasty</centerElement>
+<centerElement prodId="353" prodImage="/image/353/353.gif">Endoscopy of Large Intestine</centerElement>
+<centerElement prodId="348" prodImage="/image/348/348.gif">Arthroscopic Surgery Meniscus - Repair of Knee</centerElement>
+</preopData>

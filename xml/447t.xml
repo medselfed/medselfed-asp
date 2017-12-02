@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Types of Insulin</pageHeader1>
+<pageHeader2>and Their Uses</pageHeader2>
+<pageTitle>Types of Insulin</pageTitle>
+<description>This animated video: Types of Insulin "explains what insulin is, how it treats diabetes, the two main groups, concentrations and categories of how quickly they work."</description>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>447t</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/447t/audio_447t.mov"  audioMapWM="/447t/audio_447t.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/447t/video_447t.mov" videoMapWM="/447t/video_447t.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/447t/447t-01b.gif" image="/447t/447t-01.gif">Insulin is the hormone normally made in the pancreas that stimulates the flow of sugar - glucose - from the blood into the cells of the body. Glucose provides the cells with the energy they need to function.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/447t/447t-02b.gif" image="/447t/447t-02.gif">There are two main groups of insulins used in the treatment of diabetes: human insulins and analog insulins, made by recombinant DNA technology.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/447t/447t-03b.gif" image="/447t/447t-03.gif">The concentration of most insulins available in the United States is 100 units per milliliter. A milliliter is equal to a cubic centimeter. All insulin syringes are graduated to match this insulin concentration.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/447t/447t-04b.gif" image="/447t/447t-04.gif">There are four categories of insulins depending on how quickly they start to work in the body after injection:
+&lt;UL&gt;&lt;LI&gt;Very rapid acting insulin
+&lt;/LI&gt;&lt;LI&gt;Regular, or Rapid acting insulins
+&lt;/LI&gt;&lt;LI&gt;Intermediate acting insulins
+&lt;/LI&gt;&lt;LI&gt;Long acting insulin.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/447t/447t-05b.gif" image="/447t/447t-05.gif">&lt;UL&gt;&lt;LI&gt;In addition, some insulins are marketed mixed together in different proportions to provide both rapid and long acting effects. Certain insulins can also be mixed together in the same syringe immediately prior to injection.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/447t/447t-06b.gif" image="/447t/447t-06.gif">A very rapid acting form of insulin called Lispro insulin is marketed under the trade name of Humalog.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/447t/447t-07b.gif" image="/447t/447t-07.gif">A second form of very rapid acting insulin is called Aspart and is marketed under the trade name Novolog.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/447t/447t-08b.gif" image="/447t/447t-08.gif">Humalog and Novolog are:
+ &lt;UL&gt;&lt;LI&gt;clear liquids. 
+ &lt;/LI&gt;&lt;LI&gt;They begin to work 10 minutes after injection, 
+ &lt;/LI&gt;&lt;LI&gt;peak at 1 hour after injection, 
+ &lt;/LI&gt;&lt;LI&gt;and last 3-4 hours in the body.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/447t/447t-09b.gif" image="/447t/447t-09.gif">&lt;UL&gt;&lt;LI&gt;Humalog and Novolog are used as "bolus" insulins to be given 15 minutes before a meal. 
+&lt;/LI&gt;&lt;LI&gt;Most patients also need a longer-acting insulin to maintain good control of their blood sugar. Humalog and Novolog can be mixed with NPH insulin.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/447t/447t-10b.gif" image="/447t/447t-10.gif">&lt;UL&gt;&lt;LI&gt;Check your blood sugar level before giving Humalog or Novalog. 
+&lt;/LI&gt;&lt;LI&gt;Your doctor or diabetes educator will instruct you in determining your insulin dose based on your blood sugar reading and anticipated meals and exercise. 
+&lt;/LI&gt;&lt;LI&gt;Always check the bottle before drawing up the insulin. If the solution is cloudy, discard the bottle.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/447t/447t-11b.gif" image="/447t/447t-11.gif">&lt;UL&gt;&lt;LI&gt;If you are mixing Humalog or Novalog with a longer-acting insulin, always draw up the Humalog or Novalog first to maintain the purity and clarity of the Humalog and Novalog solutions.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/447t/447t-12b.gif" image="/447t/447t-12.gif">Another solution of insulin that acts rapidly is called "Regular" or "R" insulin. This insulin does not act as quickly as Humalog or Novalog.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/447t/447t-13b.gif" image="/447t/447t-13.gif">Regular insulin is: 
+&lt;UL&gt;&lt;LI&gt;a clear, colorless liquid. 
+&lt;/LI&gt;&lt;LI&gt;It begins to work 30 minutes after injection, 
+&lt;/LI&gt;&lt;LI&gt;peaks at 3-5 hours 
+&lt;/LI&gt;&lt;LI&gt;and lasts 6-10 hours in the body.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/447t/447t-14b.gif" image="/447t/447t-14.gif">Regular insulin is: 
+&lt;UL&gt;&lt;LI&gt;usually given 30 minutes before a meal. 
+&lt;/LI&gt;&lt;LI&gt;It can also be mixed with in the same syringe with longer acting NPH insulin or given separately immediately after each other. 
+&lt;/LI&gt;&lt;LI&gt;Glargine cannot be mixed with it.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/447t/447t-15b.gif" image="/447t/447t-15.gif">Regular insulin is: 
+&lt;UL&gt;&lt;LI&gt;the most stable of all the different types of insulin, 
+&lt;/LI&gt;&lt;LI&gt;but unopened regular insulin is best refrigerated. 
+&lt;/LI&gt;&lt;LI&gt;Always check the bottle before drawing up the insulin. 
+&lt;/LI&gt;&lt;LI&gt;If the solution is cloudy, discard the bottle.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/447t/447t-16b.gif" image="/447t/447t-16.gif">&lt;UL&gt;&lt;LI&gt;If you are mixing Regular with a longer-acting insulin, always draw up the Regular insulin first to maintain the purity and clarity of the Regular solution.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/447t/447t-17b.gif" image="/447t/447t-17.gif">Example of an intermediate acting insulin is NPH.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/447t/447t-18b.gif" image="/447t/447t-18.gif">Intermediate acting insulins are: 
+&lt;UL&gt;&lt;LI&gt;cloudy suspensions of crystalline insulin. 
+&lt;/LI&gt;&lt;LI&gt;They need to be gently rotated between the hands before being used. 
+&lt;/LI&gt;&lt;LI&gt;They begin to work 1 hour after injection, 
+&lt;/LI&gt;&lt;LI&gt;peak at 6-12 hours after injection 
+&lt;/LI&gt;&lt;LI&gt;and last 20-24 hours in the body.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/447t/447t-19b.gif" image="/447t/447t-19.gif">The intermediate insulins are: 
+&lt;UL&gt;&lt;LI&gt;often given before breakfast. 
+&lt;/LI&gt;&lt;LI&gt;They may also be given at bedtime, depending on your blood glucose reading. 
+&lt;/LI&gt;&lt;LI&gt;They can be mixed in the same syringe with Regular, Lispro and Aspart insulins.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/447t/447t-20b.gif" image="/447t/447t-20.gif">Ultralente is a long-acting insulin.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/447t/447t-21b.gif" image="/447t/447t-21.gif">Ultralente is: 
+&lt;UL&gt;&lt;LI&gt;a cloudy suspension. 
+&lt;/LI&gt;&lt;LI&gt;It begins to work 2-8 hours after injection, 
+&lt;/LI&gt;&lt;LI&gt;peaks at about 12 hours 
+&lt;/LI&gt;&lt;LI&gt;and lasts around 18-24 hours in the body.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/447t/447t-22b.gif" image="/447t/447t-22.gif">Ultralente insulin is: 
+&lt;UL&gt;&lt;LI&gt;often given before breakfast. 
+&lt;/LI&gt;&lt;LI&gt;It may also be given before dinner in the evenings or at bedtime, on your doctor's instruction. 
+&lt;/LI&gt;&lt;LI&gt;It can be mixed in the same syringe with regular insulin. 
+&lt;/LI&gt;&lt;LI&gt;When unopened, it is best stored in the refrigerator.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/447t/447t-23b.gif" image="/447t/447t-23.gif">Another long-acting insulin is called Glargine insulin. It is an insulin analog manufactured by recombinant DNA technology.</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/447t/447t-24b.gif" image="/447t/447t-24.gif">Unlike other long-acting insulins, Glargine insulin is: 
+&lt;UL&gt;&lt;LI&gt;a clear solution of insulin. 
+&lt;/LI&gt;&lt;LI&gt;It begins to work around 1 hour after injection. 
+&lt;/LI&gt;&lt;LI&gt;There is no pronounced peak. 
+&lt;/LI&gt;&lt;LI&gt;Small amounts of Glargine insulin are released slowly to provide a relatively constant amount of insulin in the body over 24 hours.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/447t/447t-25b.gif" image="/447t/447t-25.gif">&lt;UL&gt;&lt;LI&gt;Glargine insulin cannot be mixed with any other insulin. 
+&lt;/LI&gt;&lt;LI&gt;A change to Glargine from NPH insulins should be done under the close supervision of your medical team.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="26" slideimage="/447t/447t-26b.gif" image="/447t/447t-26.gif">There are three stable, premixed formulations of insulin. 
+&lt;UL&gt;&lt;LI&gt;One contains 70% of NPH insulin and 30% of Regular insulin. 
+&lt;/LI&gt;&lt;LI&gt;Another formulation contains 50% of NPH and 30% of Regular insulin. 
+&lt;/LI&gt;&lt;LI&gt;The third contains 75% of NPH and 25% of Humalog.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="27" slideimage="/447t/447t-27b.gif" image="/447t/447t-27.gif">These mixtures: 
+&lt;UL&gt;&lt;LI&gt;begin to work around one half hour after injection, 
+&lt;/LI&gt;&lt;LI&gt;peak in 2-8 hours 
+&lt;/LI&gt;&lt;LI&gt;and last up to 24 hours in the body. 
+&lt;/LI&gt;&lt;LI&gt;As these premixed insulins contain rapid or very rapid acting insulin, they should be taken before meals as directed by your medical team.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="28" slideimage="/447t/447t-28b.gif" image="/447t/447t-28.gif">&lt;UL&gt;&lt;LI&gt;With your doctor's instructions, several combinations of two different kinds of insulin can be mixed together in the same syringe and given as one injection. 
+&lt;/LI&gt;&lt;LI&gt;Once mixed, the combined injection must be given immediately or the effect of the regular component of the injection will be diminished.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="29" slideimage="/447t/447t-29b.gif" image="/447t/447t-29.gif">&lt;UL&gt;&lt;LI&gt;The rapid-acting insulins, Lispro, Aspart and Regular, can be mixed with the longer acting NPH insulin.. 
+&lt;/LI&gt;&lt;LI&gt;Glargine cannot be mixed with any other insulin.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+
+</preopData>

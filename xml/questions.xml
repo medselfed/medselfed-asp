@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<question questionId="2" prodId="all" secId="2">Did the information help to decrease any anxiety that you may have had about the procedure?</question>
+<question questionId="3" prodId="all" secId="2">Did the presentation help you understand the procedure any better?</question>
+<question questionId="4" prodId="all" secId="2">How would you rate the quality of the information?</question>
+<question questionId="5" prodId="all" secId="5">Would you recommend this program to others having the same procedure?</question>
+<answers answerId="1" questionId="1" correct="Yes">kris</answers>
+<answers answerId="4" questionId="2" correct="Yes">Yes, definitely.</answers>
+<answers answerId="3" questionId="1" correct="No">terry</answers>
+<answers answerId="5" questionId="2" correct="Yes">Yes, maybe. </answers>
+<answers answerId="6" questionId="2" correct="Yes">No, not at all. </answers>
+<answers answerId="7" questionId="3" correct="Yes">Yes, definitely.</answers>
+<answers answerId="8" questionId="3" correct="Yes">Yes, maybe. </answers>
+<answers answerId="9" questionId="3" correct="Yes">No, not at all. </answers>
+<answers answerId="10" questionId="4" correct="Yes">Excellent</answers>
+<answers answerId="11" questionId="4" correct="Yes">Very Good</answers>
+<answers answerId="12" questionId="4" correct="Yes">Good</answers>
+<answers answerId="13" questionId="4" correct="Yes">Fair</answers>
+<answers answerId="14" questionId="4" correct="Yes">Poor</answers>
+<answers answerId="15" questionId="5" correct="Yes">Yes, definitely. </answers>
+<answers answerId="16" questionId="5" correct="Yes">Yes, probably.</answers>
+<answers answerId="17" questionId="5" correct="Yes">No.</answers>
+<answers answerId="18" questionId="6" correct="Yes">A. Kris</answers>
+<answers answerId="19" questionId="6" correct="No">B. Bob</answers>
+<answers answerId="20" questionId="6" correct="No">C. john</answers>
+</preopData>

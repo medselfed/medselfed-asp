@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Inyectando Insulina</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Inyectando Insulina</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>448i_s</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/448i_s/audio_448i_s.mov"  audioMapWM="/448i_s/audio_448i_s.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/448i_s/video_448i_s.mov" videoMapWM="/448i_s/video_448i_s.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/448i_s/448i_s-01b.gif" image="/448i_s/448i_s-01.gif">Este programa demostrará como inyectar insulina.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/448i_s/448i_s-02b.gif" image="/448i_s/448i_s-02.gif">El objetivo es injectar la insulina en el tejido subcutaneo entre la capa superior de la piel o epidermis y la capa muscular.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/448i_s/448i_s-03b.gif" image="/448i_s/448i_s-03.gif">La única concentración de insulina disponible en los Estados Unidos es 100 unidades por mililitro.  Un mililitro equivale a 1 centrimetro cúbico.  Todas las jeringas de insulina están graduadas para cumplir con esta concentración.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/448i_s/448i_s-04b.gif" image="/448i_s/448i_s-04.gif">Las jeringas de insulina están disponible en varios volúmenes, por ejemplo: 3/10 cc contiene una dosis máxima de 30 unidades, _ cc  contiene una dosis máxima de 50 unidades y 1 cc corresponde a una dosis máxima de 100 unidades.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/448i_s/448i_s-05b.gif" image="/448i_s/448i_s-05.gif">Algunas insulinas tienen aspecto turbio.  Para asegurar la dispersión uniforme de la insulina en la suspensión, ruede el frasco suavemente entre sus manos.  Evite agitarlo vigorosamente para no crear burbujas de aire o espuma lo cual impediría la obtención de una dosis apropiada.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/448i_s/448i_s-06b.gif" image="/448i_s/448i_s-06.gif">Limpie la tapa del frasco con un algodón y alcohol.  Deseche el algodón.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/448i_s/448i_s-07b.gif" image="/448i_s/448i_s-07.gif">Tome la jeringa y remueva la tapa de la aguja.  Con la jeringa en posición vertical, hale el émbolo hasta que la punta del mismo coincida con su dosis,</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/448i_s/448i_s-08b.gif" image="/448i_s/448i_s-08.gif">en este ejemplo, la gráfica muestra la punta del émbolo en 20 unidades.  Ahora hay aire en la jeringa.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/448i_s/448i_s-09b.gif" image="/448i_s/448i_s-09.gif">Revise el frasco de insulina para asegurarse que usted tiene el tipo de insulina correcto.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/448i_s/448i_s-10b.gif" image="/448i_s/448i_s-10.gif">Con el frasco de insulina apoyado firmemente sobre una mesa, inserte la aguja en el frasco a través de la tapa de goma.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/448i_s/448i_s-11b.gif" image="/448i_s/448i_s-11.gif">Empuje el émbolo hacia abajo.  De esta manera el aire contenido en la jeringa pasará al frasco de insulina.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/448i_s/448i_s-12b.gif" image="/448i_s/448i_s-12.gif">Coloque el frasco al revés.  Esto hará que el aire contenido en el frasco permanezca en la parte de arriba.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/448i_s/448i_s-13b.gif" image="/448i_s/448i_s-13.gif">Manteniendo la punta de la aguja en el líquido, hale el émbolo y llévelo hasta coincidir con su dosis.  Si existe alguna burbuja de aire en la jeringa, empuje el contenido de vuelta al frasco y carge la jeringa nuevamente.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/448i_s/448i_s-14b.gif" image="/448i_s/448i_s-14.gif">Remueva la jeringa y la aguja del frasco.  Evite que la aguja entre en contacto con otra superficie hasta que ésta toque su piel para la inyección.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/448i_s/448i_s-15b.gif" image="/448i_s/448i_s-15.gif">Limpie la piel del área seleccionada con alcohol y deje secar.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/448i_s/448i_s-16b.gif" image="/448i_s/448i_s-16.gif">Pellizque la piel y coloque la aguja completamente dentro de la misma con un ángulo de 80-90 grados.  Empuje el émbolo completamente hacia abajo.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/448i_s/448i_s-17b.gif" image="/448i_s/448i_s-17.gif">Desheche la jeringa y la aguja en un recipiente a prueba de pinchazos y reponga la tapa del mismo.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/448i_s/448i_s-18b.gif" image="/448i_s/448i_s-18.gif">En lugar de un contenedor a prueba de pinchazos, usted puede comprar un recipiente especial para objetos cortantes, el cual tiene una trampa para almacenar las jeringas usadas.</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/448i_s/448i_s-19b.gif" image="/448i_s/448i_s-19.gif">&lt;UL&gt;&lt;LI&gt;Cuando el contenedor o recipiente de objetos cortantes esté lleno _  de su capacidad máxima, deseche el recipiente de acuerdo con el reglamento de tu autoridad local.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/448i_s/448i_s-20b.gif" image="/448i_s/448i_s-20.gif">En esta gráfica se muestran los sitios recomendados para la inyección de insulina.  Cambie el lugar de cada inyección moviéndose un par de pulgadas del sitio anterior.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/448i_s/448i_s-21b.gif" image="/448i_s/448i_s-21.gif">Haciendo esto, usted permanecerá en la misma área por varios días.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+
+</preopData>

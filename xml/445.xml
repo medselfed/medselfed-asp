@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<preopData>
+
+<pageHeader1>Male Intermittent Self-Catheterization</pageHeader1>
+
+<pageHeader2></pageHeader2>
+
+<pageTitle>Male Intermittent Self-Catheterization</pageTitle>
+
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+
+<prodId>445</prodId>
+
+<siteId>postcare</siteId>
+
+<phdivision></phdivision>
+
+<!--
+
+Input Task Name
+
+
+
+Do a 'Find & Replace All' with the new Task number
+
+
+
+//-->
+
+
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+
+
+<!--
+
+for bold text use:
+
+&lt;b&gt; B &lt;/b&gt;
+
+equals <b> B </b>
+
+
+
+for paragraphs text use:
+
+&lt;p&gt; all your text &lt;/p&gt;
+
+equals <p> all your text </p>
+
+
+
+for bullets text use:
+
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+
+equals <ul> <li> all your text </li> </ul> 
+
+
+
+//-->
+
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<!-- (2) CARE TASK //-->
+
+
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/445/audio_445.mov"  audioMapWM="/445/audio_445.wma"/>
+
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/445/video_445.mov" videoMapWM="/445/video_445.wmv"/>
+
+<topHtml secId="2" spotId="1"></topHtml>
+
+<botHtml secId="2"></botHtml>
+
+<procedureInfo secId="2" spotId="1" slideimage="/445/445-01b.gif" image="/445/445-01.gif">While you were in the hospital,</procedureInfo>
+
+<procedureInfo secId="2" spotId="2" slideimage="/445/445-02b.gif" image="/445/445-02.gif">you received instructions on how to insert a catheter into your own bladder and practiced the procedure until you could do it on your own. Before you self-catheterize at home, you will need to assemble the following equipment:</procedureInfo>
+
+<procedureInfo secId="2" spotId="3" slideimage="/445/445-03b.gif" image="/445/445-03.gif">&lt;UL&gt;&lt;LI&gt;Urine collecting hat
+
+&lt;/LI&gt;&lt;LI&gt;Warm soapy water in a basin
+
+&lt;/LI&gt;&lt;LI&gt;Clean washcloth
+
+&lt;/LI&gt;&lt;LI&gt;Catheter&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="4" slideimage="/445/445-04b.gif" image="/445/445-04.gif">&lt;UL&gt;&lt;LI&gt;Lubricant
+
+&lt;/LI&gt;&lt;LI&gt;Clean hand towel
+
+&lt;/LI&gt;&lt;LI&gt;Resealable plastic bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="5" slideimage="/445/445-05b.gif" image="/445/445-05.gif">Void into the hat. Measure the amount of urine and record it in the voided volume column on your record sheet.</procedureInfo>
+
+<procedureInfo secId="2" spotId="6" slideimage="/445/445-06b.gif" image="/445/445-06.gif">Carefully, wash and dry your hands.</procedureInfo>
+
+<procedureInfo secId="2" spotId="7" slideimage="/445/445-07b.gif" image="/445/445-07.gif">The male can sit on the toilet or lie on a bed with back and head propped up.</procedureInfo>
+
+<procedureInfo secId="2" spotId="8" slideimage="/445/445-08b.gif" image="/445/445-08.gif">Lubricate the catheter for a distance of 6 to 8 inches.</procedureInfo>
+
+<procedureInfo secId="2" spotId="9" slideimage="/445/445-09b.gif" image="/445/445-09.gif">If necessary, retract the foreskin. Clean the head of the penis with a soapy washcloth or an antibacterial wipe.</procedureInfo>
+
+<procedureInfo secId="2" spotId="10" slideimage="/445/445-10b.gif" image="/445/445-10.gif">Hold the penis upright, and insert the lubricated catheter into the urethral opening of the penis.</procedureInfo>
+
+<procedureInfo secId="2" spotId="11" slideimage="/445/445-11b.gif" image="/445/445-11.gif">Thread it in slowly until urine flows, usually a distance of 6 to 8 inches. When urine flows, allow all the urine to drain into the hat.</procedureInfo>
+
+<procedureInfo secId="2" spotId="12" slideimage="/445/445-12b.gif" image="/445/445-12.gif">Slowly, pull the catheter out.</procedureInfo>
+
+<procedureInfo secId="2" spotId="13" slideimage="/445/445-13b.gif" image="/445/445-13.gif">Wash the catheter with soap and water, dry it with a clean towel and store it in a resealable plastic bag. The catheter may be re-used for 1-2 months.</procedureInfo>
+
+<procedureInfo secId="2" spotId="14" slideimage="/445/445-14b.gif" image="/445/445-14.gif">Measure the amount of urine in the hat and note the volume in the post void residual column of your record. Discard the urine into the toilet and wash out the hat.</procedureInfo>
+
+<procedureInfo secId="2" spotId="15" slideimage="/445/445-15b.gif" image="/445/445-15.gif">Wash and dry your hands.</procedureInfo>
+
+<procedureInfo secId="2" spotId="16" slideimage="/445/445-16b.gif" image="/445/445-16.gif">&lt;UL&gt;&lt;LI&gt;During the insertion, never force the catheter.
+
+&lt;/LI&gt;&lt;LI&gt;If you meet resistance and cannot advance the catheter, remove the catheter and notify your healthcare provider.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="17" slideimage="/445/445-17b.gif" image="/445/445-17.gif">Always, measure the amount of urine in the hat and write it down in the post-void residual column of your output record.</procedureInfo>
+
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<!-- (3) SHOPPING LIST //-->
+
+
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<botHtml secId="3"></botHtml>
+
+
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Urine collecting hat&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Warm soapy water in a basin&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Clean washcloth&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Catheter&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;Lubricant&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;Clean hand towel&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="3" spotId="7" >&lt;UL&gt;&lt;LI&gt;Resealable plastic bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="3" spotId="8" >&lt;UL&gt;&lt;LI&gt;Pen or pencil&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="3" spotId="9" >&lt;UL&gt;&lt;LI&gt;Record log&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+
+
+
+</preopData>

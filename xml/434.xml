@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Using a Transfer Belt</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Using a Transfer Belt</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>434</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/434/audio_434.mov"  audioMapWM="/434/audio_434.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/434/video_434.mov" videoMapWM="/434/video_434.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/434/434-01b.gif" image="/434/434-01.gif">The key to safely helping a frail or weak patient out of bed is to use a transfer belt.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/434/434-02b.gif" image="/434/434-02.gif">This is a heavy canvas belt, 2 to 3 inches wide. It can be purchased at your surgical supply store.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/434/434-03b.gif" image="/434/434-03.gif">Use of the transfer belt: 
+&lt;UL&gt;&lt;LI&gt;provides safety for you and your patient
+&lt;/LI&gt;&lt;LI&gt;provides a feeling of comfort for your patient
+&lt;/LI&gt;&lt;LI&gt;gives you control if the patient starts to slip or fall
+&lt;/LI&gt;&lt;LI&gt;and prevents injury to you or your patient.&lt;/LI&gt;&lt;/UL&gt;
+&lt;p&gt;A regular leather or material belt should not be used as a substitute for a transfer belt.&lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/434/434-04b.gif" image="/434/434-04.gif">Do not use a transfer belt: 
+&lt;UL&gt;&lt;LI&gt;if your patient has had recent abdominal surgery
+&lt;/LI&gt;&lt;LI&gt;has a colostomy
+&lt;/LI&gt;&lt;LI&gt;or a gastrostomy with a feeding tube going directly into the stomach
+&lt;/LI&gt;&lt;LI&gt;has severe cardiac or respiratory disease
+&lt;/LI&gt;&lt;LI&gt;or has fractured ribs.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/434/434-05b.gif" image="/434/434-05.gif">If your patient has been lying flat, always sit the patient up for a few minutes before moving him out of bed.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/434/434-06b.gif" image="/434/434-06.gif">Move the bedcovers well out of the way. Bring the patient near to the side of the bed and help the patient pivot so that he is sitting with legs dangling over the side of the bed. Let the patient sit for a minute. If the patient feels weak or faint, help him back to bed.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/434/434-07b.gif" image="/434/434-07.gif">Help the patient put on a robe, socks, and shoes or sturdy slippers with low heels and non-slip soles.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/434/434-08b.gif" image="/434/434-08.gif">Place the transfer belt around the patient's waist with the buckle in front. The belt is always applied over clothes and must never touch the patient's skin</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/434/434-09b.gif" image="/434/434-09.gif">Thread the belt through the buckle, teeth side first, pull it snug and thread the belt back through the buckle for security. Tuck the loose end in the belt.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/434/434-10b.gif" image="/434/434-10.gif">The belt should be snug with enough space between the belt and the robe for your fingers side by side.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/434/434-11b.gif" image="/434/434-11.gif">Have the patient place both feet on the floor (or a footstool if necessary) about 12 inches apart and both hands palm down on the mattress at his side. Place one of your legs between the patient's legs and slightly bend your knees.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/434/434-12b.gif" image="/434/434-12.gif">Grasp the transfer belt from underneath with one hand on either side several inches away from the buckle. Have the patient lean forward and, on the count of three, push off the bed with his feet and hands to stand up.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/434/434-13b.gif" image="/434/434-13.gif">You use the belt as a support and do not pull the patient up with it.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/434/434-14b.gif" image="/434/434-14.gif">Allow the patient to stand still until he is comfortable. If the patient is weak or faint, help the patient back to bed.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/434/434-15b.gif" image="/434/434-15.gif">You stand to the side and slightly behind the patient. With one hand hold the belt with an underhand grasp at the back of the patient.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/434/434-16b.gif" image="/434/434-16.gif">Support the patient in this same way as he walks to a nearby chair or commode, both of which have arms.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/434/434-17b.gif" image="/434/434-17.gif">When the patient reaches the chair, use an underhand grasp on the belt from the front with one hand on each side of the buckle to support the patient. Have the patient pivot until her calves touch the front of the chair. The patient then bends her knees, grasps the arms of the chair with both hands and slowly sits down as you support him. The procedure is reversed to have the patient get back to bed.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/434/434-18b.gif" image="/434/434-18.gif">&lt;UL&gt;&lt;LI&gt;Always encourage the patient to do the work and be independent 
+&lt;/LI&gt;&lt;LI&gt;and remember to use the belt as a support tool and not as a pulling device.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/434/434-19b.gif" image="/434/434-19.gif">If the patient starts to fall,</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/434/434-20b.gif" image="/434/434-20.gif">grasp the belt with both hands at the back of the patient a foot apart. Pull the patient close to your body and slide him down your body to the floor. Bend your knees as you do this. Support and lower the patient's head once his body is on the floor.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Transfer belt&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Robe&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Socks&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Shoes or sturdy slippers with low heels and non-slip soles&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;Footstool (if necessary)&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

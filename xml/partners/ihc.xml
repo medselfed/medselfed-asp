@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<partnerId>ihc</partnerId>
+<name>Intermountain Health Care</name>
+<headerType>true</headerType>
+<headerName>PreOp Patient Education</headerName>
+<cssDir>/css/preop</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>false</showads>
+<questions>1</questions>
+<navlink navlinkId="homepo" url="/asp/home.asp?siteId=preop">Home</navlink>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="search" url="/asp/search.asp?siteId=preop">Search</navlink>
+<navlink navlinkId="help" url="/asp/help1.asp?siteId=preop">Help</navlink>
+<prodLink siteId="preop" prodId="348">Arthroscopic Surgery Meniscus - Repair of Knee</prodLink>
+<prodLink siteId="preop" prodId="342">Carpal Tunnel Syndrome Repair</prodLink>
+<prodLink siteId="preop" prodId="341">Cataract Small Incision</prodLink>
+<prodLink siteId="preop" prodId="353">Endoscopy of Large Intestine</prodLink>
+<prodLink siteId="preop" prodId="354">GI Endoscopy - Upper GI</prodLink>
+</preopData>

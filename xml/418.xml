@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Care and Drainage</pageHeader1>
+<pageHeader2>of a Leg Bag</pageHeader2>
+<pageTitle>Care and Drainage - Leg Bag</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>418</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/418/audio_418.mov"  audioMapWM="/418/audio_418.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/418/video_418.mov" videoMapWM="/418/video_418.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/418/418-01b.gif" image="/418/418-01.gif">The procedure to replace a bedside drainage with a leg bag to enable the patient to move about is as follows:</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/418/418-02b.gif" image="/418/418-02.gif">The equipment you will need to assemble includes:
+&lt;UL&gt;&lt;LI&gt;the leg bag,
+&lt;/LI&gt;&lt;LI&gt;alcohol wipes,
+&lt;/LI&gt;&lt;LI&gt;a cap for the drainage tube,
+&lt;/LI&gt;&lt;LI&gt;paper towels,
+&lt;/LI&gt;&lt;LI&gt;disposable gloves
+&lt;/LI&gt;&lt;LI&gt;and a sealable plastic bag.&lt;/LI&gt;&lt;/UL&gt;
+
+&lt;p&gt;Take the equipment on a tray to the bedside.&lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/418/418-03b.gif" image="/418/418-03.gif">Wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/418/418-04b.gif" image="/418/418-04.gif">Put on disposable gloves.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/418/418-05b.gif" image="/418/418-05.gif">Place a paper towel under the connection of the catheter to the drainage tube.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/418/418-06b.gif" image="/418/418-06.gif">Disconnect the catheter from the drainage tubing.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/418/418-07b.gif" image="/418/418-07.gif">Wipe the end of the drainage tubing with an alcohol wipe and discard it into the plastic bag.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/418/418-08b.gif" image="/418/418-08.gif">Cap the end of the drainage tube and place it carefully on the bed so that it does not fall on the floor.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/418/418-09b.gif" image="/418/418-09.gif">Remove the cap from the end of the leg bag connector.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/418/418-10b.gif" image="/418/418-10.gif">Connect the leg bag to the catheter.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/418/418-11b.gif" image="/418/418-11.gif">Strap the bag to the outside or front of the thigh so that there is no tension on the catheter connection. Check that the label "Top" on the leg bag is at the top. Discard the paper towel into the plastic bag.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/418/418-12b.gif" image="/418/418-12.gif">Reverse the procedure when the patient returns to bed.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/418/418-13b.gif" image="/418/418-13.gif">Take this opportunity to empty the bedside drainage bag into the toilet ...</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/418/418-14b.gif" image="/418/418-14.gif">... and wash and rinse the bag before returning it to the bedside.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/418/418-15b.gif" image="/418/418-15.gif">Remove your gloves. </procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/418/418-16b.gif" image="/418/418-16.gif">Discard them into the plastic bag. </procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/418/418-17b.gif" image="/418/418-17.gif">Seal the bag and discard it into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/418/418-18b.gif" image="/418/418-18.gif">Wash and carefully dry your hands.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;the leg bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;alcohol wipes&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;a cap for the drainage tube&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;paper towels&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;disposable gloves&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;a sealable plastic bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

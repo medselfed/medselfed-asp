@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Oncology Surgeries</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/onco_surg.gif" />
+<centerElement prodId="401" prodImage="/image/401/401.gif">Fibroid - Tumor Removal Vaginal</centerElement>
+<centerElement prodId="354" prodImage="/image/354/354.gif">GI Endoscopy - Upper GI</centerElement>
+<centerElement prodId="353" prodImage="/image/353/353.gif">Endoscopy of Large Intestine</centerElement>
+<centerElement prodId="435" prodImage="/image/435/435.gif">Cystoscopy - Male</centerElement>
+<centerElement prodId="436" prodImage="/image/436/436.gif">Cystoscopy - Female</centerElement>
+<centerElement prodId="334" prodImage="/image/334/334.gif">Breast Biopsy Wire Guide</centerElement>
+<centerElement prodId="333" prodImage="/image/333/333.gif">Breast Biopsy Needle</centerElement>
+<centerElement prodId="332" prodImage="/image/332/332.gif">Breast Biopsy Incisional</centerElement>
+<centerElement prodId="338" prodImage="/image/338/338.gif">Biopsy Surgery General Surgery</centerElement>
+<centerElement prodId="402" prodImage="/image/402/402.gif">Abdominal Fibroid Removal - Myomectomy</centerElement>
+<centerElement prodId="349" prodImage="/image/349/349.gif">Hysterectomy Removal of the Uterus</centerElement>
+<centerElement prodId="405" prodImage="/image/405/405.gif">Mastectomy Modified Radical</centerElement>
+<centerElement prodId="407" prodImage="/image/407/407.gif">Mastectomy Radical</centerElement>
+<centerElement prodId="403" prodImage="/image/403/403.gif">Mastectomy Total</centerElement>
+</preopData>

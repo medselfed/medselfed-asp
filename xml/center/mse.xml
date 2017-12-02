@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/css" href="/css/style.css"?>
+<preopData>
+
+<partnerId>mse</partnerId>
+<siteId>preop</siteId>
+
+<!-- FOR NETTRACKER PURPOSES (tagId)=   a=01 b=02 c=03 d=04 e=05 f=06 g=07 h=08 i=09 j=10 k=11 l=12 m=13 n=14 o=15 p=16 q=17 r=18 s=19 t=20 u=21 v=22 w=23 x=24 y=25 z=26  //-->
+	
+<!-- FOR (bgId) BackgroundId =  ""= stripe  "s"= sample-stripe  "w"= white //-->	
+
+<!-- FOR (PBhomelink) POWERED BY ONLY (navelements, slides, video, and picnavs would still use "homelink")=
+
+  ""= no roll-over (does nothin)
+  "javascript:window.close();"= closes window (Uses "close_window.gif" as roll-over)  
+  "<%= homelink %>"= the way it works now
+//-->
+
+	<clientElement 
+	
+	partnerId="mse"  
+	
+	tagId="131905"  
+	
+	template="/asp/prodDisplay.asp"  
+	
+	typeId=""  
+	
+	bgId="s"  
+	
+	centerId="lap"  
+	
+	PBhomelink="javascript:window.close();"  
+	
+	homelink=""  
+
+	width="575" ></clientElement>
+	
+
+	
+	
+<!-- FOR CUSTOM CENTERS (centerId="<%= partnerId %>") the centerElement show each procedure within the center //-->
+
+	<centerElement centerId="mse" prodId="361" secId="2" template="/asp/prodDisplay.asp" textImage="/image/361/361_content.gif" prodImage="/image/361/361.gif">Cardiac Catheterization - Angiography</centerElement>
+	<centerElement centerId="mse" prodId="364" secId="2" template="/asp/prodDisplay.asp" textImage="/image/364/364_content.gif" prodImage="/image/364/364.gif">Balloon Angioplasty - Coronary Angioplasty</centerElement>
+	<centerElement centerId="mse" prodId="370" secId="2" template="/asp/prodDisplay.asp" textImage="/image/370/370_content.gif" prodImage="/image/370/370.gif">Stent Implantation - Coronary Angioplasty</centerElement>		
+	
+
+</preopData>

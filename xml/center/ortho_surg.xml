@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Orthopedic Surgeries</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/ortho_surg.gif" />
+<centerElement prodId="372" prodImage="/image/372/372.gif">Bunion Removal Foot Surgery</centerElement>
+<centerElement prodId="352" prodImage="/image/352/352.gif">Achilles Tendon Repair</centerElement>
+<centerElement prodId="342" prodImage="/image/342/342.gif">Carpal Tunnel Syndrome Repair</centerElement>
+<centerElement prodId="385" prodImage="/image/385/385.gif">Anterior Cruciate Ligament - (ACL) Arhroscopic Repair</centerElement>
+<centerElement prodId="348" prodImage="/image/348/348.gif">Arthroscopic Surgery Meniscus - Repair of Knee</centerElement>
+<centerElement prodId="382" prodImage="/image/382/382.gif">Hip Replacement Surgery</centerElement>
+<centerElement prodId="478" prodImage="/image/478/478.gif">Rotator Cuff Repair - Open Surgery</centerElement>
+<centerElement prodId="450" prodImage="/image/450/450.gif">Shoulder Replacement Surgery</centerElement>
+</preopData>

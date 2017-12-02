@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Russell County Hospital</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/custom_rcn.gif" />
+<centerElement prodId="337" prodImage="/image/337/337.gif">Laparoscopy Diagnostic</centerElement>
+<centerElement prodId="343" prodImage="/image/343/343.gif">Gallbladder Laparoscopic Cholecystectomy</centerElement>
+<centerElement prodId="440" prodImage="/image/440/440.gif">Gallbladder Removal - Laparoscopic - Hassan Trocar</centerElement>
+<centerElement prodId="360" prodImage="/image/360/360.gif">Hernia Repair Inguinal (Laparoscopic)</centerElement>
+<centerElement prodId="351" prodImage="/image/351/351.gif">Hernia - Hiatal Laparoscopic</centerElement>
+<centerElement prodId="354" prodImage="/image/354/354.gif">GI Endoscopy - Upper GI</centerElement>
+<centerElement prodId="353" prodImage="/image/353/353.gif">Endoscopy of Large Intestine</centerElement>
+<centerElement prodId="334" prodImage="/image/334/334.gif">Breast Biopsy Wire Guide</centerElement>
+<centerElement prodId="349" prodImage="/image/349/349.gif">Hysterectomy Removal of the Uterus</centerElement>
+<centerElement prodId="403" prodImage="/image/403/403.gif">Mastectomy Total</centerElement>
+</preopData>

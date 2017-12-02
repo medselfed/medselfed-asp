@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<partnerId>centerpc</partnerId>
+<name>Single Heart Center Demo / Postcare</name>
+<headerType>false</headerType>
+<headerName>PreOp Patient Education</headerName>
+<cssDir>/css/main</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>false</showads>
+<navlink navlinkId="homesitemp" url="/asp/sitemap.asp?siteId=preop">Home</navlink>
+<navlink navlinkId="cardcenter" url="/asp/center.asp?centerId=heart">Cardiology Center</navlink>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="search" url="/asp/search.asp?siteId=preop">Search</navlink>
+<navlink navlinkId="help" url="/asp/help1.asp?siteId=preop">Help</navlink>
+<centerLink siteId="postcare" centerId="basic">Basic Tasks Center</centerLink>
+<centerLink siteId="preop" centerId="heart">Cardiology Center</centerLink>
+<prodLink siteId="preop" prodId="370">Stent Implantation Coronary Angioplasty</prodLink>
+<prodLink siteId="preop" prodId="399">Permanent Pacemaker - Implant</prodLink>
+<prodLink siteId="preop" prodId="377">Coronary Artery Bypass Graft (CABG)</prodLink>
+<prodLink siteId="preop" prodId="361">Cardiac Catheterization Angiography</prodLink>
+<prodLink siteId="preop" prodId="332">Breast Biopsy Incisional</prodLink>
+<prodLink siteId="preop" prodId="364">Balloon Angioplasty Coronary Angioplasty</prodLink>
+<prodLink siteId="postcare" prodId="411">Handwashing</prodLink>
+<prodLink siteId="postcare" prodId="412">Gloving</prodLink>
+<prodLink siteId="postcare" prodId="422">Assisting with Feeding</prodLink>
+<prodLink siteId="postcare" prodId="428">Use of Peak Flow Meter</prodLink>
+<prodLink siteId="postcare" prodId="417">Getting Out of Bed After Abdominal or Chest Surgery</prodLink>
+<prodLink siteId="postcare" prodId="452">Male Perineal Wash</prodLink>
+<prodLink siteId="postcare" prodId="424">Assist with Tub Bath</prodLink>
+<prodLink siteId="postcare" prodId="454">Assist with Shower</prodLink>
+<prodLink siteId="postcare" prodId="420">Wound Care</prodLink>
+</preopData>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Use of Peak Flow Meter</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Use of Peak Flow Meter</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>428</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/428/audio_428.mov"  audioMapWM="/428/audio_428.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/428/video_428.mov" videoMapWM="/428/video_428.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/428/428-01b.gif" image="/428/428-01.gif">A Peak Flow Meter ...</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/428/428-02b.gif" image="/428/428-02.gif">...is an inexpensive, portable, hand-held device. Your doctor or nurse will advise you which make and type to use.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/428/428-03b.gif" image="/428/428-03.gif">The device measures how hard and quickly you can blow air out of your lungs.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/428/428-04b.gif" image="/428/428-04.gif">The meter has a marker that slides up the scale as you blow out. The better your lung function, the harder you will be able to blow out and the higher your peak flow score will be.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/428/428-05b.gif" image="/428/428-05.gif">Monitoring your peak flow numbers shows:
+&lt;UL&gt;&lt;LI&gt;how your lung function is improving&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/428/428-06b.gif" image="/428/428-06.gif">&lt;UL&gt;&lt;LI&gt;the effect of such treatments as breathing exercises on your lung function&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/428/428-07b.gif" image="/428/428-07.gif">&lt;UL&gt;&lt;LI&gt;and when your lung function has returned to its pre- surgery level.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/428/428-08b.gif" image="/428/428-08.gif">To use your peak flow meter, first make sure the marker on the meter scale is at zero.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/428/428-09b.gif" image="/428/428-09.gif">Preferably stand or sit up straight. Remove any gum or food from your mouth. Hold the peak flow meter horizontal with your fingers away from the scale.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/428/428-10b.gif" image="/428/428-10.gif">Take as deep a breath in as you can,</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/428/428-11b.gif" image="/428/428-11.gif">close your lips firmly round the mouthpiece and blow out as hard and as fast as you can - just like blowing out candles on a birthday cake.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/428/428-12b.gif" image="/428/428-12.gif">Check the reading on the meter scale, in this case 400 liters per minute and write it down.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/428/428-13b.gif" image="/428/428-13.gif">Move the marker back to zero.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/428/428-14b.gif" image="/428/428-14.gif">Repeat the entire routine two more times for a total of three times. The three readings you get should be close together.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/428/428-15b.gif" image="/428/428-15.gif">Record the highest of the three readings in your log or diary.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/428/428-16b.gif" image="/428/428-16.gif">Your doctor or nurse will tell you how often and when each day to record your readings.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/428/428-17b.gif" image="/428/428-17.gif">Take your log with you when you return for follow-up visits to your surgical team. They will be able to monitor your progress and see when your lung function has returned to its pre-surgery value.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Peak Flow Meter&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;log or diary&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Pen or Pencil&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

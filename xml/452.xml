@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Male Perineal Wash</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Male Perineal Wash</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>452</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/452/audio_452.mov"  audioMapWM="/452/audio_452.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/452/video_452.mov" videoMapWM="/452/video_452.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/452/452-01b.gif" image="/452/452-01.gif">Once each day, or according to your doctor's instructions,</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/452/452-02b.gif" image="/452/452-02.gif">you will need to clean the urethral meatus - the opening where the catheter enters the body. The procedure to do this is as follows.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/452/452-03b.gif" image="/452/452-03.gif">Wash and dry your hands. Discard the paper towel into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/452/452-04b.gif" image="/452/452-04.gif">On a tray covered with paper towels, assemble the following equipment:
+&lt;UL&gt;&lt;LI&gt;a pair of disposable gloves
+&lt;/LI&gt;&lt;LI&gt;a bed protector
+&lt;/LI&gt;&lt;LI&gt;a sealable plastic storage bag
+&lt;/LI&gt;&lt;LI&gt;a basin of warm water with a pump of liquid soap in it
+&lt;/LI&gt;&lt;LI&gt;(2) clean washcloths and a clean hand towel.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/452/452-05b.gif" image="/452/452-05.gif">&lt;UL&gt;&lt;LI&gt;Place the equipment tray on a stable surface adjacent to the bed.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/452/452-06b.gif" image="/452/452-06.gif">Remove the bed covers, but keep the patient warm with a blanket.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/452/452-07b.gif" image="/452/452-07.gif">Wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/452/452-08b.gif" image="/452/452-08.gif">Put on your disposable gloves.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/452/452-09b.gif" image="/452/452-09.gif">Place the bed protector under the patient's thighs to keep the bed dry.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/452/452-10b.gif" image="/452/452-10.gif">Over your dominant hand, fold a washcloth into a mitt and squeeze it in the warm soapy water.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/452/452-11b.gif" image="/452/452-11.gif">With the other hand, gently grasp the penis, pull the foreskin back if uncircumcised,</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/452/452-12b.gif" image="/452/452-12.gif">and with the warm, soapy mitt clean the glans or head of the penis.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/452/452-13b.gif" image="/452/452-13.gif">Squeeze the mitt in the warm, soapy water</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/452/452-14b.gif" image="/452/452-14.gif">and then wash the first 4 inches of the catheter without pulling on it.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/452/452-15b.gif" image="/452/452-15.gif">Discard the mitt and dry the penis and catheter with the clean towel.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/452/452-16b.gif" image="/452/452-16.gif">To make the patient more comfortable, the perineum and anus can now be cleaned.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/452/452-17b.gif" image="/452/452-17.gif">Use the second washcloth as a mitt, wash from top to bottom taking great care not to touch the previously washed areas and the catheter or tubes.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/452/452-18b.gif" image="/452/452-18.gif">Dry the area carefully with the towel, again avoiding the previously washed areas.</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/452/452-19b.gif" image="/452/452-19.gif">Remove the bed protector.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/452/452-20b.gif" image="/452/452-20.gif">Check that the catheter and tubes are correctly placed.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/452/452-21b.gif" image="/452/452-21.gif">Remove your gloves and discard them into the plastic storage bag. Replace the bed covers.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/452/452-22b.gif" image="/452/452-22.gif">Take the equipment tray into the bathroom, place the washcloths and towel into the washer,</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/452/452-23b.gif" image="/452/452-23.gif">seal the plastic bag and discard it into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/452/452-24b.gif" image="/452/452-24.gif">Clean the basin, which held the warm soapy water and dry it with a paper towel.</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/452/452-25b.gif" image="/452/452-25.gif">Wash and dry the bed protector. Wash and dry your hands.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Tray&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Paper towels&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;a pair of disposable gloves&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;A bed protector&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;A sealable plastic storage bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;A basin of warm water with a pump of liquid soap in it&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="7" >&lt;UL&gt;&lt;LI&gt;Two (2) clean washcloths&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="8" >&lt;UL&gt;&lt;LI&gt;A clean hand towel&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="9" >&lt;UL&gt;&lt;LI&gt;Waste receptacle&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

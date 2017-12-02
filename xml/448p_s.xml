@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Bolígrafos de Insulina</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Bolígrafos de Insulina</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>448p_s</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/448p_s/audio_448p_s.mov"  audioMapWM="/448p_s/audio_448p_s.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/448p_s/video_448p_s.mov" videoMapWM="/448p_s/video_448p_s.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/448p_s/448p_s-01b.gif" image="/448p_s/448p_s-01.gif">Este programa te demostrará el uso de los bolígrafos de insulina.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/448p_s/448p_s-02b.gif" image="/448p_s/448p_s-02.gif">El objetivo es inyectar la insulina en el tejido subcutáneo entre la capa superficial de la piel, la dermis y la capa muscular.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/448p_s/448p_s-03b.gif" image="/448p_s/448p_s-03.gif">Los bolígrafos de insulina son dispositivos que ofrecen una manera fácil de llevar y administrar insulina cuando estás fuera de casa.  También, para aquellas personas que no se sienten cómodas usando jeringas, frascos y midiendo dosis individuales, los bolígrafos ofrecen una alternativa conveniente y precisa.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/448p_s/448p_s-04b.gif" image="/448p_s/448p_s-04.gif">Hay dos tipos de bolígrafos de insulina: 
+&lt;UL&gt;&lt;LI&gt;Aquellos que son completamente desechables después de administrar una dosis sencilla de insulina&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/448p_s/448p_s-05b.gif" image="/448p_s/448p_s-05.gif">&lt;UL&gt;&lt;LI&gt;Y aquellos que usan cartuchos desechables que ofrecen dosis múltiples.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/448p_s/448p_s-06b.gif" image="/448p_s/448p_s-06.gif">&lt;UL&gt;&lt;LI&gt;Si tú usas más de un tipo de insulina, debes usar un bolígrafo por cada tipo de insulina.  El método básico de uso es similar para cada bolígrafo y existen cuatro pasos importantes que deben ser aprendidos.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/448p_s/448p_s-07b.gif" image="/448p_s/448p_s-07.gif">Un bolígrafo de insulina tiene tres componentes.
+&lt;UL&gt;&lt;LI&gt;La base la cual contiene el mecanismo para medir correctamente la dosis.
+&lt;/LI&gt;&lt;LI&gt;Un soporte para el cartucho de insulina
+&lt;/LI&gt;&lt;LI&gt;Y una tapa la cual es retirada y colocada para ajustar la aguja antes de la inyección.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/448p_s/448p_s-08b.gif" image="/448p_s/448p_s-08.gif">Sigue las instrucciones del fabricante para retirar la tapa, separe la base del soporte de cartucho desatornillando.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/448p_s/448p_s-09b.gif" image="/448p_s/448p_s-09.gif">Devuelve la base del mecanismo regulador de dosis a cero y coloca a un lado la base.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/448p_s/448p_s-10b.gif" image="/448p_s/448p_s-10.gif">Toma el soporte para cartucho. Retira el cartucho usado.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/448p_s/448p_s-11b.gif" image="/448p_s/448p_s-11.gif">Revisa que el nuevo cartucho contenga la insulina correcta e insértalo en el soporte con el extremo metálico primero.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/448p_s/448p_s-12b.gif" image="/448p_s/448p_s-12.gif">Atornilla el soporte del cartucho de vuelta a la base.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/448p_s/448p_s-13b.gif" image="/448p_s/448p_s-13.gif">&lt;UL&gt;&lt;LI&gt;Mantén un registro de todas tus inyecciones y un registro de cada cartucho que comiences.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/448p_s/448p_s-14b.gif" image="/448p_s/448p_s-14.gif">&lt;UL&gt;&lt;LI&gt;Substrae el total de insulina usada en previas inyecciones del total de 150 unidades en cada cartucho para asegurarte de que tiense suficiente insulina para la próxima dosis.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/448p_s/448p_s-15b.gif" image="/448p_s/448p_s-15.gif">Limpia el extremo del soporte del cartucho y la punta saliente del cartucho con un aplicador y alcohol.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/448p_s/448p_s-16b.gif" image="/448p_s/448p_s-16.gif">Retira el sello de la aguja nueva. No toque la aguja expuesta ni permita que esta toque algún otro objeto.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/448p_s/448p_s-17b.gif" image="/448p_s/448p_s-17.gif">Atornilla la aguja al extremo del soporte del cartucho.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/448p_s/448p_s-18b.gif" image="/448p_s/448p_s-18.gif">Hala la tapa protectora externa de la aguja.  No la deseches.  Tú la necesitarás mas tarde para retirar la aguja del bolígrafo.</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/448p_s/448p_s-19b.gif" image="/448p_s/448p_s-19.gif">Hala la tapa protectora interna de la aguja y deséchala. Sostenga el bolígrafo  boca arriba y golpea el soporte del cartucho para permitir que las burbujas de aire escapen a través de la aguja.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/448p_s/448p_s-20b.gif" image="/448p_s/448p_s-20.gif">Calibra el control de dosis de manera que #1 aparezca en la ventana y prepara el bolígrafo de acuerdo a las instrucciones del fabricante.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/448p_s/448p_s-21b.gif" image="/448p_s/448p_s-21.gif">Sujeta la aguja boca arriba. Presiona el botón de inyección en el extremo de la unidad y revisa que la insulina salga de la punta de la aguja. Si la insulina no sale, continúa calibrando una unidad a la vez y presiona el botón de inyección hasta que la insulina sea vista. Un cartucho nuevo de insulina le toma de 4 a 6 unidades antes de que la insulina fluya.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/448p_s/448p_s-22b.gif" image="/448p_s/448p_s-22.gif">Calibra tu dosis de insulina y adiciona las unidades que necesitaste para que la insulina fluyera. Por ejemplo, si fueron necesarias 4 unidades para que la insulina fluyera y tu dosis de insulina es de 20, el total en la ventana de escala será de 24.</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/448p_s/448p_s-23b.gif" image="/448p_s/448p_s-23.gif">&lt;UL&gt;&lt;LI&gt;Escoge y limpia correctamente el área de la inyección.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/448p_s/448p_s-24b.gif" image="/448p_s/448p_s-24.gif">Haz la punción en la piel e inserta la aguja con una angulación  de 90 grados. Presiona el botón de inyección el cual se encuentra al final de aguja y espera 5 segundos antes de remover la aguja de la piel para que la inyección sea completada.</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/448p_s/448p_s-25b.gif" image="/448p_s/448p_s-25.gif">&lt;UL&gt;&lt;LI&gt;La aguja debe ser removida del bolígrafo inmediatamente después de finalizar la inyección.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="26" slideimage="/448p_s/448p_s-26b.gif" image="/448p_s/448p_s-26.gif">Coloca la tapa protectora externa de la  aguja que guardaste  sobre una mesa con la abertura hacia arriba.</procedureInfo>
+<procedureInfo secId="2" spotId="27" slideimage="/448p_s/448p_s-27b.gif" image="/448p_s/448p_s-27.gif">Sin agarrar el protector por encima, inserta la aguja cuidadosamente en el protector y presiona hacia abajo firmemente. Sujeta el protector y desatornilla la aguja de bolígrafo.</procedureInfo>
+<procedureInfo secId="2" spotId="28" slideimage="/448p_s/448p_s-28b.gif" image="/448p_s/448p_s-28.gif">Desecha la aguja encapsulada en el envase a prueba de punción que has destinado para las agujas. Conserva todos los bolígrafos que están en uso a temperatura ambiente.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+
+</preopData>

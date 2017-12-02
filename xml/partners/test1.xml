@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<partnerId>test1</partnerId>
+<name>MedSelfEd</name>
+<headerType>true</headerType>
+<headerName>MedSelfEd</headerName>
+<cssDir>/css/main</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>true</showads>
+<questions>1</questions>
+<prodLink siteId="preop" prodId="477">Abdominal Aortic Aneurysm - Open Repair</prodLink>
+<prodLink siteId="preop" prodId="402">Abdominal Fibroid Removal - Myomectomy</prodLink>
+<prodLink siteId="preop" prodId="352">Achilles Tendon Repair</prodLink>
+<prodLink siteId="preop" prodId="385">Anterior Cruciate Ligament - (ACL) Arhroscopic Repair</prodLink>
+<prodLink siteId="preop" prodId="357">Anti-Reflux Laparoscopy</prodLink>
+</preopData>

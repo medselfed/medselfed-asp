@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Women Surgeries</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/wo_surg.gif" />
+<centerElement prodId="332" prodImage="/image/332/332.gif">Breast Biopsy Incisional</centerElement>
+<centerElement prodId="333" prodImage="/image/333/333.gif">Breast Biopsy Needle</centerElement>
+<centerElement prodId="334" prodImage="/image/334/334.gif">Breast Biopsy Wire Guide</centerElement>
+<centerElement prodId="350" prodImage="/image/350/350.gif">Dilation and Curettage of the Uterus</centerElement>
+<centerElement prodId="349" prodImage="/image/349/349.gif">Hysterectomy Removal of the Uterus</centerElement>
+<centerElement prodId="368" prodImage="/image/368/368.gif">Hysterectomy: Uterus, Ovaries, and Fallopian</centerElement>
+<centerElement prodId="403" prodImage="/image/403/403.gif">Mastectomy Total</centerElement>
+<centerElement prodId="405" prodImage="/image/405/405.gif">Mastectomy Modified Radical</centerElement>
+<centerElement prodId="407" prodImage="/image/407/407.gif">Mastectomy Radical</centerElement>
+<centerElement prodId="436" prodImage="/image/436/436.gif">Cystoscopy - Female</centerElement>
+<centerElement prodId="402" prodImage="/image/402/402.gif">Abdominal Fibroid Removal - Myomectomy</centerElement>
+</preopData>

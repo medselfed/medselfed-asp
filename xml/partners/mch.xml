@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<partnerId>mch</partnerId>
+<name>Mesquite</name>
+<headerType>true</headerType>
+<headerName>Patient Education Review</headerName>
+<cssDir>/css/sample</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>false</showads>
+<questions>1</questions>
+<navlink navlinkId="center" url="/asp/center.asp?centerId=heart">Centers</navlink>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="searchpc" url="/asp/search.asp?siteId=postcare">Search</navlink>
+<navlink navlinkId="helppc" url="/asp/help1.asp?siteId=postcare">Help</navlink>
+<navlink navlinkId="contact" url="#">Contact Us</navlink>
+<navdrop navdropId="bar" navlinkId="center" url="/asp/center.asp?centerId=bar">Bariatric Center</navdrop>
+<navdrop navdropId="emailpo" navlinkId="contact" url="/asp/comment.asp?email=comments">webmaster@preop.com</navdrop>
+<navdrop navdropId="basic" navlinkId="center" url="/asp/center.asp?centerId=basic">Basic PostCare Tasks</navdrop>
+<navdrop navdropId="phone" navlinkId="contact" url="#">(617) 244 - 7591 ext. 7</navdrop>
+<navdrop navdropId="diabetes" navlinkId="center" url="/asp/center.asp?centerId=diabetes">Diabetes Series</navdrop>
+<navdrop navdropId="disclamier" navlinkId="contact" url="/asp/preop/disclaimer.asp?disclaimer=basic">Disclaimer</navdrop>
+<navdrop navdropId="urinary" navlinkId="center" url="/asp/center.asp?centerId=urinary">Urinary Care</navdrop>
+<navdrop navdropId="legal" navlinkId="contact" url="/asp/preop/legal.asp?legal=basic">Legal</navdrop>
+<centerLink siteId="postcare" centerId="diabetes">Diabetes Series</centerLink>
+<centerLink siteId="postcare" centerId="urinary">Urinary Care Center</centerLink>
+<centerLink siteId="postcare" centerId="basic">Basic PostCare Tasks</centerLink>
+<centerLink siteId="preop" centerId="bar">Bariatric Center</centerLink>
+<prodLink siteId="postcare" prodId="454">Assist with Shower</prodLink>
+<prodLink siteId="postcare" prodId="424">Assist with Tub Bath</prodLink>
+<prodLink siteId="postcare" prodId="422">Assisting with Feeding</prodLink>
+<prodLink siteId="postcare" prodId="418">Care and Drainage of a Leg Bag</prodLink>
+<prodLink siteId="postcare" prodId="441">Care of Suprapubic Catheter</prodLink>
+<prodLink siteId="postcare" prodId="390">Caring for a Male External Urinary Collecting System</prodLink>
+<prodLink siteId="postcare" prodId="410">Closed Urinary Drainage System</prodLink>
+<prodLink siteId="postcare" prodId="438">Emptying a Urinary Drainage Bag</prodLink>
+<prodLink siteId="postcare" prodId="442f">Female Intermittent Self-Catheterization</prodLink>
+<prodLink siteId="postcare" prodId="453">Female Perineal Wash</prodLink>
+<prodLink siteId="preop" prodId="481">Gastric - Adjustable Band Surgery</prodLink>
+<prodLink siteId="preop" prodId="444">Gastric Bypass (Laparoscopic)</prodLink>
+<prodLink siteId="preop" prodId="480">Gastric Bypass - (Open)</prodLink>
+<prodLink siteId="postcare" prodId="417">Getting Out of Bed After Abdominal or Chest Surgery</prodLink>
+<prodLink siteId="postcare" prodId="412">Gloving</prodLink>
+<prodLink siteId="postcare" prodId="411">Handwashing</prodLink>
+<prodLink siteId="postcare" prodId="448i">Injecting Insulin</prodLink>
+<prodLink siteId="postcare" prodId="448p">Insulin Pens</prodLink>
+<prodLink siteId="postcare" prodId="442m">Male Intermittent Self-Catheterization</prodLink>
+<prodLink siteId="postcare" prodId="452">Male Perineal Wash</prodLink>
+<prodLink siteId="postcare" prodId="448m">Mixing Insulin</prodLink>
+<prodLink siteId="postcare" prodId="446">Monitoring Your Blood Sugar</prodLink>
+<prodLink siteId="postcare" prodId="443">Recording Urine Output</prodLink>
+<prodLink siteId="postcare" prodId="447s">Storage of Insulins</prodLink>
+<prodLink siteId="postcare" prodId="425">Subcutaneous Injection</prodLink>
+<prodLink siteId="postcare" prodId="447t">Types of Insulin</prodLink>
+<prodLink siteId="postcare" prodId="428">Use of Peak Flow Meter</prodLink>
+<prodLink siteId="postcare" prodId="434">Using a Transfer Belt</prodLink>
+<prodLink siteId="postcare" prodId="420">Wound Care</prodLink>
+</preopData>

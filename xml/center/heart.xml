@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Cardiology Center</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/heart.gif" />
+<centerElement prodId="364" prodImage="/image/364/364.gif">Balloon Angioplasty Coronary Angioplasty</centerElement>
+<centerElement prodId="361" prodImage="/image/361/361.gif">Cardiac Catheterization Angiography</centerElement>
+<centerElement prodId="370" prodImage="/image/370/370.gif">Stent Implantation Coronary Angioplasty</centerElement>
+<centerElement prodId="377" prodImage="/image/377/377.gif">Coronary Artery Bypass Graft (CABG)</centerElement>
+<centerElement prodId="399" prodImage="/image/399/399.gif">Permanent Pacemaker - Implant</centerElement>
+<centerElement prodId="462" prodImage="/image/462/462.gif">Coronary Artery Bypass Graft (CABG off-pump)</centerElement>
+<centerElement prodId="477" prodImage="/image/477/477.gif">Abdominal Aortic Aneurysm - Open Repair</centerElement>
+</preopData>

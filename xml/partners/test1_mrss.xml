@@ -1,0 +1,44 @@
+<?xml version="1.0" ?> 
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>MedSelfEd PreOp Videos</title>
+  <link>http://www.medselfed.com</link>
+  <description></description>
+    <item>
+      <guid isPermaLink="false">medselfed_380</guid>
+      <title>Tonsillectomy</title>
+      <description>Occasionally tonsils themselves become infected. This condition is called tonsillitis.</description>
+      <media:content url="http://patient-education-videos.s3.amazonaws.com/380_Tonsillectomy.flv" type="video/x-flv" lang="eng" />
+      <media:title type="plain">Tonsillectomy</media:title>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/380-7-09b.gif"/>
+      <pubDate>Mon, 22 Nov 2010 12:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_425</guid>
+      <title>Subcutaneous Injection</title>
+      <description>Remove the cap from the needle. Pull down the plunger of the needle until the syringe contains the same volume of air as the medication you are going to give.</description>
+      <media:content url="http://patient-education-videos.s3.amazonaws.com/425%20subcutaneous%20injection.flv" type="video/x-flv" lang="eng" />
+      <media:title type="plain">Subcutaneous Injection</media:title>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/425.gif"/>
+      <pubDate>Mon, 22 Nov 2010 12:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_440</guid>
+      <title>Gallbladder Removal Hassan</title>
+      <description>The gallbladder is a small organ located below the liver. A special instrument called a Hassan Trocar is inserted through the opening in the navel.</description>
+      <media:content url="http://patient-education-videos.s3.amazonaws.com/440-gallbladder-hassan-trocar.flv" type="video/x-flv" lang="eng" />
+      <media:title type="plain">Gallbladder Removal Hassan</media:title>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/440-7-16b.gif"/>
+      <pubDate>Mon, 22 Nov 2010 12:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">medselfed_477</guid>
+      <title>Abdominal Aortic Aneurysm - Open Repair</title>
+      <description>Aneurysms are dangerous because the blood clot weakens the blood vessel and can cause it to burst.</description>
+      <media:content url="http://patient-education-videos.s3.amazonaws.com/477_aaa.flv" type="video/x-flv" lang="eng" />
+      <media:title type="plain">Abdominal Aortic Aneurysm - Open Repair</media:title>
+      <media:thumbnail url="http://patient-education-images.s3.amazonaws.com/477-2-06b.gif"/>
+      <pubDate>Mon, 22 Nov 2010 12:16:06 GMT</pubDate>
+    </item>
+</channel>
+</rss>

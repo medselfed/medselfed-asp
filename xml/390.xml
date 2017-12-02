@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Caring for a Male External Urinary Collecting System</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Male External Urinary Collecting System</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>390</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/390/audio_390.mov"  audioMapWM="/390/audio_390.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/390/video_390.mov" videoMapWM="/390/video_390.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/390/390-01b.gif" image="/390/390-01.gif">When a man is unable to control his urine for long periods of time he is said to be incontinent.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/390/390-02b.gif" image="/390/390-02.gif">To avoid soiling his clothes and bed a condom-style sheath can be used to connect the penis to a closed drainage system in which the urine is collected.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/390/390-03b.gif" image="/390/390-03.gif">This avoids having a catheter inserted into the man's urinary bladder and greatly decreases the risk of bladder infections.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/390/390-04b.gif" image="/390/390-04.gif">The complete urine collecting system consists of:</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/390/390-05b.gif" image="/390/390-05.gif">&lt;UL&gt;&lt;LI&gt;The condom style sheath on the penis&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/390/390-06b.gif" image="/390/390-06.gif">&lt;UL&gt;&lt;LI&gt;The plastic drainage tube which is coiled on and attached to the bed to avoid tension on the sheath&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/390/390-07b.gif" image="/390/390-07.gif">&lt;UL&gt;&lt;LI&gt;The urine collection bag which is attached to the bed frame below the level of the man's bladder&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/390/390-08b.gif" image="/390/390-08.gif">When taking care of this male external urine collecting system, the responsibilities of the caregiver are to:
+&lt;UL&gt;&lt;LI&gt;Replace the condom sheath every 24 hours
+&lt;/LI&gt;&lt;LI&gt;Wash and dry the penis
+&lt;/LI&gt;&lt;LI&gt;Inspect the skin of the penis for soreness&lt;/LI&gt;&lt;/UL&gt;
+Report any problems to your doctor</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/390/390-09b.gif" image="/390/390-09.gif">The equipment that you will need to assemble before starting the care task includes:</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/390/390-10b.gif" image="/390/390-10.gif">&lt;UL&gt;&lt;LI&gt;Disposable bed protector
+&lt;/LI&gt;&lt;LI&gt;Gauze squares
+&lt;/LI&gt;&lt;LI&gt;Basin containing warm, soapy water
+&lt;/LI&gt;&lt;LI&gt;Condom external catheter
+&lt;/LI&gt;&lt;LI&gt;Can of adhesive spray
+&lt;/LI&gt;&lt;LI&gt;Clean washcloth
+&lt;/LI&gt;&lt;LI&gt;Two clean towels, one for your hands and one for the penis
+&lt;/LI&gt;&lt;LI&gt;Piece of material and a safety pin
+&lt;/LI&gt;&lt;LI&gt;Plastic storage bag, gallon size and
+&lt;/LI&gt;&lt;LI&gt;Disposable gloves&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/390/390-11b.gif" image="/390/390-11.gif">Wash your hands for at least 10 seconds.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/390/390-12b.gif" image="/390/390-12.gif">Completely dry them using one of the clean towels.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/390/390-13b.gif" image="/390/390-13.gif">Put on your disposable gloves.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/390/390-14b.gif" image="/390/390-14.gif">Place the bed protector under the thighs.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/390/390-15b.gif" image="/390/390-15.gif">Disconnect the drainage tube from the end of the condom sheath. Hold it up to allow any urine in it to drain back into the collection bag.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/390/390-16b.gif" image="/390/390-16.gif">Cover the end of the tube with a gauze square and place the covered end on the bed protector away from where you are working.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/390/390-17b.gif" image="/390/390-17.gif">Remove the condom by rolling it down to the tip of the penis. Place the condom in the plastic storage bag.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/390/390-18b.gif" image="/390/390-18.gif">Fold the clean washcloth around your hand. Wet it thoroughly in the warm soapy water. Hold the head of the penis up and gently wash the shaft and head of the penis. Drop the washcloth into the warm water.</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/390/390-19b.gif" image="/390/390-19.gif">Use the clean towel to carefully and completely dry the penis.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/390/390-20b.gif" image="/390/390-20.gif">Ask the man if he feels any soreness and carefully inspect the penis for redness or soreness. Any problem should be noted and reported to your doctor.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/390/390-21b.gif" image="/390/390-21.gif">Apply a thin spray of adhesive to the whole penis except for the head.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/390/390-22b.gif" image="/390/390-22.gif">Apply the condom to the end of the penis and roll it down to the base of the penis. Check that the condom is secure at the base…</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/390/390-23b.gif" image="/390/390-23.gif">... gently pull on the end of the condom to make sure it is securely attached to the penis</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/390/390-24b.gif" image="/390/390-24.gif">… and attach it to the drainage tube.</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/390/390-25b.gif" image="/390/390-25.gif">The connected condom sheath should look like this.</procedureInfo>
+<procedureInfo secId="2" spotId="26" slideimage="/390/390-26b.gif" image="/390/390-26.gif">Remove the bed protector. Fold it tight and place it in the plastic storage bag.</procedureInfo>
+<procedureInfo secId="2" spotId="27" slideimage="/390/390-27b.gif" image="/390/390-27.gif">Coil the drainage tube on the bed and secure it with a piece of material and a safety pin.</procedureInfo>
+<procedureInfo secId="2" spotId="28" slideimage="/390/390-28b.gif" image="/390/390-28.gif">Remove your gloves and place them in the plastic storage bag and seal the bag.</procedureInfo>
+<procedureInfo secId="2" spotId="29" slideimage="/390/390-29b.gif" image="/390/390-29.gif">&lt;UL&gt;&lt;LI&gt;Drop the plastic storage bag into a thick garbage bag. It can be disposed of in the normal trash.
+&lt;/LI&gt;&lt;LI&gt;Thoroughly wash your hands.
+&lt;/LI&gt;&lt;LI&gt;Wash the used towels and washcloth in the normal laundry system.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="30" slideimage="/390/390-30b.gif" image="/390/390-30.gif">In a small notebook, document:
+&lt;UL&gt;&lt;LI&gt;the date and time
+&lt;/LI&gt;&lt;LI&gt;that the condom sheath has been replaced 
+&lt;/LI&gt;&lt;LI&gt;and any observations about the man's penis or his general condition.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Disposable bed protector&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Gauze squares&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Basin containing warm, soapy water&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Condom external catheter&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;Can of adhesive spray&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;Clean washcloth&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="7" >&lt;UL&gt;&lt;LI&gt;(2) two clean towels, one for your hands and one for the penis&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="8" >&lt;UL&gt;&lt;LI&gt;Piece of material and a safety pin&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="9" >&lt;UL&gt;&lt;LI&gt;Plastic storage bag, gallon size and&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="10" >&lt;UL&gt;&lt;LI&gt;Disposable gloves&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

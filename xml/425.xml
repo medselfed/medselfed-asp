@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Subcutaneous Injection</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Subcutaneous Injection</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>425</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/425/audio_425.mov"  audioMapWM="/425/audio_425.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/425/video_425.mov" videoMapWM="/425/video_425.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/425/425-01b.gif" image="/425/425-01.gif">Subcutaneous Injection</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/425/425-02b.gif" image="/425/425-02.gif">The equipment you will need to assemble includes: </procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/425/425-03b.gif" image="/425/425-03.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;a 1 ml. syringe with a 25 or 26 gauge capped needle between 5/8" and 1 inch in length&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/425/425-04b.gif" image="/425/425-04.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;the medication to be given&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/425/425-05b.gif" image="/425/425-05.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;two alcohol wipes.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/425/425-06b.gif" image="/425/425-06.gif">Carefully, wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/425/425-07b.gif" image="/425/425-07.gif">If your medication comes in a multi-dose vial,</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/425/425-08b.gif" image="/425/425-08.gif">clean the rubber diaphragm of the vial with an alcohol wipe. Discard the wipe into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/425/425-09b.gif" image="/425/425-09.gif">Remove the cap from the needle. Pull down the plunger of the needle until the syringe contains the same volume of air as the medication you are going to give. </procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/425/425-10b.gif" image="/425/425-10.gif">Hold the vial upside down at eye level. Without touching the needle, insert it through the diaphragm of the vial.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/425/425-11b.gif" image="/425/425-11.gif">Keep the tip of the needle below the level of the medication in the vial. Depress the plunger to inject the air into the vial.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/425/425-12b.gif" image="/425/425-12.gif">Slowly pull down on the plunger to take into the syringe the amount of medication prescribed for you.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/425/425-13b.gif" image="/425/425-13.gif">Pull the needle out of the vial.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/425/425-14b.gif" image="/425/425-14.gif">Hold the syringe vertically and flick the barrel with a fingernail to make any air bubbles float to the top under the needle.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/425/425-15b.gif" image="/425/425-15.gif">Carefully, depress the plunger to push out the air until the first drop of medication comes out of the bevel of the needle.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/425/425-16b.gif" image="/425/425-16.gif">Clean the injection site with an alcohol wipe. Start at the proposed site. Wipe in a circular motion, moving outward with each circle to prepare an area 2-3 inches in diameter around the injection site. Let the alcohol dry and discard the wipe into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/425/425-17b.gif" image="/425/425-17.gif">Insert the needle through the skin at a 45� angle so that the tip of the needle is under the skin and above the muscle layer.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/425/425-18b.gif" image="/425/425-18.gif">Gently pull back on the plunger to make sure the tip of the needle is not in a blood vessel ...</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/425/425-19b.gif" image="/425/425-19.gif">... and then slowly inject the medication. </procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/425/425-20b.gif" image="/425/425-20.gif">When all the medication is injected, pull the needle out. There is no need to use a band-aid, unless blood appears at the injection site.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/425/425-21b.gif" image="/425/425-21.gif">Discard the syringe and attached needle into your puncture proof Sharps container. Do not recap the needle. </procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/425/425-22b.gif" image="/425/425-22.gif">Wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/425/425-23b.gif" image="/425/425-23.gif">If during the injection, blood does appear in the syringe when you pull the plunger back,</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/425/425-24b.gif" image="/425/425-24.gif">pull the needle out and discard the syringe, needle and medication into your Sharps container and start the whole process again.</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/425/425-25b.gif" image="/425/425-25.gif">Your doctor or nurse will advise you which areas of the body to use for your injections. The injection site should always be rotated so that consecutive injections are never given into the same area.</procedureInfo>
+<procedureInfo secId="2" spotId="26" slideimage="/425/425-26b.gif" image="/425/425-26.gif">If you have very little fat under your skin, you can pinch the skin to form a tent, into which the injection can be given.</procedureInfo>
+<procedureInfo secId="2" spotId="27" slideimage="/425/425-27b.gif" image="/425/425-27.gif">The needle is then inserted more vertically.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;A 1 ml. syringe with a 25 or 26 gauge capped needle between 5/8" and 1 inch in length&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;The medication to be given&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Two (2) alcohol wipes&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

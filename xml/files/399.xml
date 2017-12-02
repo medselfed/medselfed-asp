@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/css" href="/css/style.css"?>
+<preopData>
+<pageHeader1>Permanent Pacemaker</pageHeader1>
+<pageHeader2>Implant</pageHeader2>
+<pageTitle>PreOp.com Permanent Pacemaker - Implant</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+
+<prodId>399</prodId>
+<siteId>preop</siteId>
+
+<!--
+PROCEDURE INFO:
+ANESTESIA = 1
+BEFORE = 2
+RECOVERY = 1
+//-->
+
+
+<!-- ADD POSTCARE SPECIFIC TASKS //-->
+<prodRelation prodId="411" sexId="shemale" siteId="postcare">Hand Washing</prodRelation>
+<prodRelation prodId="412" sexId="shemale" siteId="postcare">Gloving</prodRelation>
+<prodRelation prodId="420" sexId="shemale" siteId="postcare">Wound Care</prodRelation>
+<prodRelation prodId="422" sexId="shemale" siteId="postcare">Assisting with Feeding</prodRelation>
+<prodRelation prodId="424" sexId="shemale" siteId="postcare">Assist with Tub Bath</prodRelation>
+<prodRelation prodId="454" sexId="shemale" siteId="postcare">Assist with Shower</prodRelation>
+
+
+<!-- ADD PH SPECIFIC TASKS //-->
+<prodRelation prodId="ph_13a" sexId="shemale" siteId="ph">Exercise For Heart & Health</prodRelation>
+<prodRelation prodId="ph_76a" sexId="shemale" siteId="ph">It's Heartly Fare</prodRelation>
+<prodRelation prodId="ph_164" sexId="shemale" siteId="ph">Off The Beat</prodRelation>
+<prodRelation prodId="ph_261" sexId="shemale" siteId="ph">The Love Your Heart Diet</prodRelation>
+<prodRelation prodId="ph_03b" sexId="shemale" siteId="ph">You Have A Pacemaker</prodRelation>
+<prodRelation prodId="ph_243" sexId="shemale" siteId="ph">Cardio/Pulmonary Flip Cards</prodRelation>
+<prodRelation prodId="ph_218" sexId="shemale" siteId="ph">Heart Flip Cards</prodRelation>
+<prodRelation prodId="ph_205" sexId="shemale" siteId="ph">Heart Posters</prodRelation>
+<prodRelation prodId="ph_59a" sexId="shemale" siteId="ph">Exercise Art Slides</prodRelation>
+<prodRelation prodId="ph_302" sexId="shemale" siteId="ph">Atrial Fibrillation Tearpad</prodRelation>
+<prodRelation prodId="ph_356" sexId="shemale" siteId="ph">Cholesterol & Your Health Tearpad</prodRelation>
+<prodRelation prodId="ph_406" sexId="shemale" siteId="ph">Learning About Arrhythmias Tearpad</prodRelation>
+<prodRelation prodId="ph_399" sexId="shemale" siteId="ph">Saving Your Heart</prodRelation>
+<prodRelation prodId="ph_427" sexId="shemale" siteId="ph">CAD and Diet Tearpad</prodRelation>
+<prodRelation prodId="ph_428" sexId="shemale" siteId="ph">CAD and Weight Tearpad</prodRelation>
+<prodRelation prodId="ph_429" sexId="shemale" siteId="ph">Risk Factors of Coronary Artery Disease Tearpad</prodRelation>
+<prodRelation prodId="ph_430" sexId="shemale" siteId="ph">Changing Your Diet for CAD Tearpad</prodRelation>
+<prodRelation prodId="ph_433" sexId="shemale" siteId="ph">Exercise and Coronary Artery Disease Tearpad</prodRelation>
+<prodRelation prodId="ph_434" sexId="shemale" siteId="ph">Learning About CAD Tearpad</prodRelation>
+<prodRelation prodId="ph_449" sexId="shemale" siteId="ph">Exercise for Heart and Lungs Tearpad</prodRelation>
+
+
+
+<navElement secId="2" template="/template1.asp">Your Body</navElement>
+<navElement secId="3" template="/template1.asp">Alternatives</navElement>
+<navElement secId="4" template="/template1.asp">Medical Record</navElement>
+<navElement secId="5" template="/template1.asp">Anesthesia</navElement>
+<navElement secId="6" template="/template1.asp">Before Surgery</navElement>
+<navElement secId="7" template="/template1.asp">Your Procedure</navElement>
+<navElement secId="8" template="/template1.asp">Recovery</navElement>
+
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;ul&gt; &lt;li&gt; all your text &lt;/li&gt; &lt;/ul&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) YOUR BODY //-->
+
+<audioImage secId="2" image="/000/preop/host_audio2.gif" audioMapQT="/399/audio_2body_399.mov"  audioMapWM="/399/audio_2body_399.wma"/>
+
+<videoImage secId="2" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/399/video_2body1_399.mov" videoMapWM="/399/video_2body1_399.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<topHtml secId="2" spotId="1">&lt;B class="largeviolet"&gt;B&lt;/B&gt;efore we talk about treatment, let's start with a discussion about the human body and about your medical condition.
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<botHtml secId="2"></botHtml>
+
+<procedureInfo secId="2" spotId="1" slideimage="/399/399-2-01b.gif" image="/399/399-2-01.gif">Your doctor has recommended that you receive a permanent pacemaker implanted in your body. But what does that actually mean?</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/399/399-2-02b.gif" image="/399/399-2-02.gif">The heart is located in the center of the chest, enclosed by the breast bone and rib cage. By contracting in a rhythmic way, it causes the blood in your body to circulate.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/399/399-2-03b.gif" image="/399/399-2-03.gif">A normally functioning heart beats at a rate of between 60 and 100 contractions per minute.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/399/399-2-04b.gif" image="/399/399-2-04.gif">These contractions are triggered by a small piece of heart tissue called the SA node. The SA node generates a small electrical signal that is transmitted by nerves to the surrounding muscle. These electrical impulses are what cause the heart muscle to contract.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/399/399-2-05b.gif" image="/399/399-2-05.gif">In some people, the SA node fails to cause the heart to contract with its normal rhythm, causing an abnormal heartbeat or arrhythmia. The most common form of arrhythmia, for which pacemaker surgery is often recommended, is bradyarrythymia - or slow heart rate.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/399/399-2-06b.gif" image="/399/399-2-06.gif">There are a number of reasons why you may have developed an arrhythmia, but in most cases the problem is caused by a disruption in the SA node or in the system of nerves that conducts electrical signals to the heart muscle.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/399/399-2-07b.gif" image="/399/399-2-07.gif">A pacemaker is a device that is designed to provide an electrical signal to the heart muscle and to help it maintain a proper rhythm. There are several types of pacemakers and the particular model selected for you will be based on your specific condition. But all pacemakers share a common design.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/399/399-2-08b.gif" image="/399/399-2-08.gif">Your pacemaker will consist of two major pieces . . . a small metal box that contains a battery and other electronic components and an insulated wire, called a lead, which will carry the electrical impulses from the pacemaker to the heart.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/399/399-2-09b.gif" image="/399/399-2-09.gif">Your pacemaker will be permanently implanted in your chest and, depending on your condition, either one or two leads will be attached to the heart muscle.</procedureInfo>
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) ALTERNATIVES //-->
+
+<audioImage secId="3" image="/000/preop/host_audio3.gif" audioMapQT="/399/audio_3alt_399.mov"  audioMapWM="/399/audio_3alt_399.wma"/>
+
+<videoImage secId="3" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/399/video_3alt1_399.mov" videoMapWM="/399/video_3alt1_399.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;Y&lt;/B&gt;our doctor understands that all medical care benefits from close collaboration between physician and patient -- so be sure to review, with your doctor, all risks and alternatives and make sure you understand the reasons behind the recommendation for this particular procedure.
+&lt;p&gt; Now let's talk in detail about the procedure your doctor has recommended. That particular recommendation was based on a number of factors: &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medviolet"&gt;the state of your health, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medviolet"&gt; the severity of your condition, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medviolet"&gt; an assessment of alternative treatments or procedures and finally, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medviolet"&gt; the risks associated with doing nothing at all. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; And remember, the final decision is up to you. No one can force you to undergo a surgical procedure against your will. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<botHtml secId="3">Now I'd like to introduce you to another important member of the medical team -- the nurse.</botHtml>
+
+<procedureInfo secId="3" spotId="1" slideimage="/399/399-3-01b.gif" image="/399/399-3-01.gif">Most likely, you're feeling some anxiety about this procedure, which is perfectly understandable.</procedureInfo>
+<procedureInfo secId="3" spotId="2" slideimage="/399/399-3-02b.gif" image="/399/399-3-02.gif">You should realize that it's natural to feel apprehensive about any kind of surgery - especially surgery that involves the heart.</procedureInfo>
+<procedureInfo secId="3" spotId="3" slideimage="/399/399-3-03b.gif" image="/399/399-3-03.gif">In some cases, patients will decide not to have a pacemaker installed simply out of fear.</procedureInfo>
+<procedureInfo secId="3" spotId="4" slideimage="/399/399-3-04b.gif" image="/399/399-3-04.gif">It's important however to understand that pacemaker implantation surgery is one of the safest and most non-intrusive methods of improving the health of your heart.</procedureInfo>
+<procedureInfo secId="3" spotId="5" slideimage="/399/399-3-05b.gif" image="/399/399-3-05.gif">So if you're feeling anxious, try to remember that the purpose of this procedure is to help your heart to function normally. Choosing not to have a pacemaker implantation may put your health at risk.</procedureInfo>
+<procedureInfo secId="3" spotId="6" slideimage="/399/399-3-06b.gif" image="/399/399-3-06.gif">The symptoms you're having may be warning signs of a serious and even life-threatening medical problem.</procedureInfo>
+<procedureInfo secId="3" spotId="7" slideimage="/399/399-3-07b.gif" image="/399/399-3-07.gif">And your condition may continue to worsen. For that reason you should carefully consider the value of your doctor's recommendation to undergo this procedure.</procedureInfo>
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (4) MEDICAL RECORD //-->
+
+<audioImage secId="4" image="/000/preop/host_audio4.gif" audioMapQT="/000/audio_4med.mov"  audioMapWM="/000/audio_4med.wma"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<topHtml secId="4" spotId="1">&lt;B class="largeviolet"&gt;O&lt;/B&gt;ver the course of the procedure, you'll be under the care of one or more nurses. Our job is to provide for your care and comfort - before, during and after surgery.
+&lt;p&gt; On the day of surgery, it's important that you tell us how you're feeling. And we certainly want you and your family to feel completely free to ask us any questions at any time. &lt;/p&gt;
+&lt;p&gt; Before the operation, your doctors will examine your medical history as well as your current physical condition. This is an important step because the results of that exam will help your medical team to make decisions about your care. &lt;/p&gt;
+&lt;p&gt; So remember, it is very important that you give your doctor your complete medical history. &lt;/p&gt;
+&lt;p&gt; Be sure to remember to &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; report previous illnesses, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; previous surgeries, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; whether or not you smoke &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; and current illnesses or medical problems. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; And if you're currently taking any medications &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; prescription or over-the-counter, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; or if you have any known allergies &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; to medications or other substances, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; make sure to tell your doctor. &lt;/p&gt;
+&lt;p&gt; Some of the most common questions patients ask their doctors are about anesthesia. So I'd like to introduce you to the anesthesiologist. &lt;/p&gt;</topHtml>
+
+<botHtml secId="x"></botHtml>
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (5) ANESTHESIA //-->
+
+<audioImage secId="5" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana0.mov"  audioMapWM="/000/audio_5ana0.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana1.mov"  audioMapWM="/000/audio_5ana1.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana2.mov"  audioMapWM="/000/audio_5ana2.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana3.mov"  audioMapWM="/000/audio_5ana3.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana4.mov"  audioMapWM="/000/audio_5ana4.wma"/>
+
+<videoImage secId="5" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/000/video_5ana1.mov" videoMapWM="/000/video_5ana1.wmv"/>
+<videoImage secId="x" spotId="x" image="/000/icon_movie_new.gif" videoMapQT="/000/video_5ana2.mov" videoMapWM="/000/video_5ana2.wmv"/>
+<videoImage secId="x" spotId="x" image="/000/icon_movie_new.gif" videoMapQT="/000/video_5ana3.mov" videoMapWM="/000/video_5ana3.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<!-- ANA Header ALL //-->
+<topHtml secId="5" spotId="1">&lt;B class="largeviolet"&gt;M&lt;/B&gt;ost people understand that anesthesia is used to block the perception of pain - but anesthesia plays another, equally important role as well. Let me explain.
+&lt;p&gt; Anesthesia allows your surgical team to control - and to monitor - a wide range of natural physiological reflexes. As you know, all surgery involves cutting small amounts of skin or other tissue. &lt;/p&gt;
+&lt;p&gt; Your mind certainly knows the difference between a surgical incision and, for example, and an accidental cut. The problem is, that your body doesn't understand this difference. In fact, your body reacts pretty dramatically to anything it perceives to be a threat to your well-being. &lt;/p&gt;
+&lt;p&gt; Without anesthesia, a surgical incision would cause not only pain, but an increase in heart rate, changes in blood pressure and a whole host of other reflexive defense mechanisms which our bodies rely on for protection. &lt;/p&gt;
+&lt;p&gt; So it's important to realize that anesthesia is meant to calm and relax the mind and body in a general sense - not only to block pain but to control those natural defenses. &lt;/p&gt;
+&lt;p&gt; It's for that reason that the anesthesia you receive will probably include a sedative - either to relax you or to put you to sleep altogether. &lt;/p&gt;
+&lt;p&gt; Today, surgeons and anesthesiologists have a wide range of options for keeping you comfortable. &lt;/p&gt;
+&lt;p&gt; Pain is an alarm signal sensed by nerves and sent to the brain where it's interpreted and felt. All types of anesthesia work by interfering with the transmission or interpretation of that signal. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- ANA 0  Local (L) Bottom //-->
+<botHtml secId="x">Why would your doctor recommend or choose one kind of anesthesia over another? It's a decision based on comfort, precisely where on your body your surgery will take place and your overall physical condition. &lt;/p&gt;
+&lt;p&gt; This procedure is usually considered to be a simple operation. &lt;/p&gt;
+&lt;p&gt; In unusual cases, a patient may be given general anesthesia - in other words, you might be put to sleep. &lt;/p&gt;
+&lt;p&gt; But most often, your doctor will simply administer a local anesthetic ... with one or more injections of an anesthetic drug directly into the tissue. &lt;/p&gt;
+&lt;p&gt; The advantage of this kind anesthetic is that it allows you to remain awake, it has less impact on you and your body than general anesthesia does and you recover from it much more quickly. &lt;/p&gt;
+&lt;p&gt; If you've ever experienced any allergic reaction to anesthesia or to any other substance, be sure to let your surgeon or anesthesiologist know well beforehand. &lt;/p&gt;</botHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- ANA 1  Local and Gneral (L&G) Bottom //-->
+<botHtml secId="5">Why would your doctor recommend or choose one kind of anesthesia over another? It's a decision based on comfort, precisely where on your body your surgery will take place and your overall physical condition. &lt;/p&gt;
+&lt;p&gt; This procedure is usually considered to be a simple operation. &lt;/p&gt;
+&lt;p&gt; In unusual cases, a patient may be given general anesthesia - in other words, you might be put to sleep. &lt;/p&gt;
+&lt;p&gt; But most often, your doctor will simply administer a local anesthetic ... with one or more injections of an anesthetic drug directly into the tissue. &lt;/p&gt;
+&lt;p&gt; The advantage of this kind anesthetic is that it allows you to remain awake, it has less impact on you and your body than general anesthesia does and you recover from it much more quickly. &lt;/p&gt;
+&lt;p&gt; If you've ever experienced any allergic reaction to anesthesia or to any other substance, be sure to let your surgeon or anesthesiologist know well beforehand. &lt;/p&gt;</botHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- ANA 2  Local and Gneral and Spinal (L&G&S) Middle //-->
+<midHtml secId="x" spotId="x">&lt;p&gt; Why would your doctor recommend or choose one kind of anesthesia over another? It's a decision based on comfort, precisely where on your body your surgery will take place and your overall physical condition. &lt;/p&gt;
+&lt;p&gt; This particular surgical technique offers the surgeon a wide selection of anesthesia options. The particular anesthesia chosen will depend on personal preference -- both yours and your doctor's. In some cases, patients are given general anesthesia -- in other words, you might be put to sleep. &lt;/p&gt;
+&lt;p&gt; But most often, your doctor and anesthesiologist will administer a local anesthetic, either by injecting an anesthetic drug directly around the operative field so that all the tissue layers are numb &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</midHtml>
+
+<botHtml secId="x">&lt;p&gt; A spinal is still considered to be a kind of local anesthesia in that you remain awake during surgery. It's extremely effective, but takes a little longer to wear off than does a more localized anesthesia. &lt;/p&gt;
+&lt;p&gt; Whatever method of pain relief is chosen, the anesthesia will probably be accompanied by a calming intravenous sedative as well. &lt;/p&gt;
+&lt;p&gt; If you've ever experienced any allergic reaction to anesthesia or to any other substance, be sure to let your surgeon or anesthesiologist know well beforehand. &lt;/p&gt;</botHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- ANA 3  General (G) Bottom //-->
+<botHtml secId="x">&lt;p&gt; Why would your doctor recommend or choose one kind of anesthesia over another? It's a decision based on comfort, precisely where on your body your surgery will take place and your overall physical condition. &lt;/p&gt;
+&lt;p&gt; This particular surgical technique offers the surgeon a wide selection of anesthesia options. The particular anesthesia chosen will depend on personal preference - both yours and your doctor's. In some cases, patients are given general anesthesia - in other words, you might be put to sleep. &lt;/p&gt;
+&lt;p&gt; But most often, your doctor and anesthesiologist will administer a local anesthetic, either by injecting an anesthetic drug directly around the operative field so that all the tissue layers are numb &lt;/p&gt;</botHtml>
+
+
+
+
+<procedureInfo secId="5" spotId="1" slideimage="/000/preop/000-5-01b.gif" image="/000/preop/000-5-01.gif">What we call local anesthesia blocks the signal locally at the nerve where it begins - or somewhere along the nerve between the surgical field and the brain.</procedureInfo>
+<procedureInfo secId="5" spotId="2" slideimage="/000/preop/000-5-02b.gif" image="/000/preop/000-5-02.gif">With local anesthesia, a region of your body is numbed - and you may receive a sedative - but usually, you remain awake.</procedureInfo>
+
+<procedureInfo secId="5" spotId="3" slideimage="/000/preop/000-5-03b.gif" image="/000/preop/000-5-03.gif">If you're given general anesthesia that means that the brain's overall ability to interpret and remember pain has been interrupted.</procedureInfo>
+<procedureInfo secId="5" spotId="4" slideimage="/000/preop/000-5-04b.gif" image="/000/preop/000-5-04.gif">For you, that means being asleep.</procedureInfo>
+
+<procedureInfo secId="x" spotId="x" slideimage="/000/preop/000-5-05b.gif" image="/000/preop/000-5-05.gif">- or by injecting an anesthetic drug into the lower spine. This is called a spinal.</procedureInfo>
+<procedureInfo secId="x" spotId="x" slideimage="/000/preop/000-5-06b.gif" image="/000/preop/000-5-06.gif">It's more generalized in that it numbs the entire lower body. With a spinal, you won't even feel your toes.</procedureInfo>
+
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (6) BEFORE SURGERY //-->
+
+<audioImage secId="6" image="/000/preop/host_audio6.gif" audioMapQT="/000/audio_6before1.mov"  audioMapWM="/000/audio_6before1.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio6.gif" audioMapQT="/000/audio_6before2.mov"  audioMapWM="/000/audio_6before2.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio6.gif" audioMapQT="/000/audio_6before3.mov"  audioMapWM="/000/audio_6before3.wma"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<!-- before1 - outpatient //-->
+
+<topHtml secId="6" spotId="1">&lt;B class="largeviolet"&gt;B&lt;/B&gt;ecause you've been scheduled for ambulatory - or outpatient surgery - you're responsible for taking certain precautions before you arrive. Specifically...
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; You must not have anything to eat or drink after midnight on the night before you arrive at the hospital. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Do not take any aspirin or other anti-inflammatory for 10 days before surgery. Occasionally these drugs can interfere with the blood's ability to clot and can actually increase the amount of bleeding during and after surgery. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; If you're on any medication - including over the counter drugs - be sure to ask your doctor whether or not you can continue taking that medication. And if not, how far in advance of surgery you must stop. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Finally, you must also arrange for transportation to and from the place at which the procedure will be performed. Everyone reacts differently to even simple surgical procedures and there's no way you can predict how you'll be feeling after the procedure. So don't forget, following surgery, you will not be allowed to drive. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; The nurse and anesthesiologist will be closely monitoring your comfort and progress. Remember, don't hesitate to ask any questions about any of the information that they've just provided. &lt;/p&gt;</topHtml>
+
+<!-- before2 - inpatient //-->
+
+<topHtml secId="x" spotId="x">&lt;B class="largeviolet"&gt;B&lt;/B&gt;ecause you've been scheduled for admission to the hospital for inpatient surgery on the day of surgery, you're responsible for taking certain precautions before you arrive. Specifically...
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; You must not have anything to eat or drink after midnight on the night before you arrive at the hospital. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Do not take any aspirin or other anti-inflammatory for 10 days before surgery. Occasionally these drugs can interfere with the blood's ability to clot and can actually increase the amount of bleeding during and after surgery. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; If you're on any medication - including over the counter drugs - be sure to ask your doctor whether or not you can continue taking that medication. And if not, how far in advance of surgery you must stop. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Finally, you must be prepared to spend one or more nights in the hospital. That means bringing a bag packed with the kind of essential clothing and toiletries you feel you'll need for a period of bed rest. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; It's important that you not make any plans for activities in the days following surgery. After your time in the hospital, you will spend even more time recovering at home. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; And it's impossible to predict with 100% certainty how long you'll be in the hospital or how long you'll have to take it easy at home. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Everyone reacts differently to even simple surgical procedures and there's no way you can predict how you'll be feeling after the procedure. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; The nurse and anesthesiologist will be closely monitoring your comfort and progress. Remember, don't hesitate to ask any questions about any of the information that they've just provided. &lt;/p&gt;</topHtml>
+
+<!-- before3 - asprin //-->
+
+<topHtml secId="x" spotId="x">&lt;B class="largeviolet"&gt;B&lt;/B&gt;ecause you've been scheduled for ambulatory - or outpatient surgery - you're responsible for taking certain precautions before you arrive. Specifically...
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; You must not have anything to eat or drink after midnight on the night before you arrive at the hospital. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; If you're on any medication - including over the counter drugs - be sure to ask your doctor whether or not you can continue taking that medication. And if not, how far in advance of surgery you must stop. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Finally, you must also arrange for transportation to and from the place at which the procedure will be performed. Everyone reacts differently to even simple surgical procedures and there's no way you can predict how you'll be feeling after the procedure. So don't forget, following surgery, you will not be allowed to drive. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; The nurse and anesthesiologist will be closely monitoring your comfort and progress. Remember, don't hesitate to ask any questions about any of the information that they've just provided. &lt;/p&gt;</topHtml>
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (7) YOUR PROCEDURE //-->
+
+
+<audioImage secId="7" image="/000/preop/host_audio7.gif" audioMapQT="/399/audio_7proced_399.mov"  audioMapWM="/399/audio_7proced_399.wma"/>
+
+<videoImage secId="7" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/399/video_7proced1_399.mov" videoMapWM="/399/video_7proced1_399.wmv"/>
+<videoImage secId="7" spotId="8" image="/000/icon_movie_new.gif" videoMapQT="/399/video_7proced2_399.mov" videoMapWM="/399/video_7proced2_399.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<topHtml secId="7" spotId="1">&lt;B class="largeviolet"&gt;N&lt;/B&gt;ow it's time to talk about the actual procedure your doctor has recommended for you.
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<botHtml secId="x"></botHtml>
+
+<procedureInfo secId="7" spotId="1" slideimage="/399/399-7-01b.gif" image="/399/399-7-01.gif">On the day of your operation,</procedureInfo>
+<procedureInfo secId="7" spotId="2" slideimage="/399/399-7-02b.gif" image="/399/399-7-02.gif">you will be asked to put on a surgical gown.</procedureInfo>
+<procedureInfo secId="7" spotId="3" slideimage="/399/399-7-03b.gif" image="/399/399-7-03.gif">You may receive a sedative by mouth</procedureInfo>
+<procedureInfo secId="7" spotId="4" slideimage="/399/399-7-04b.gif" image="/399/399-7-04.gif">and an intravenous line may be put in.</procedureInfo>
+<procedureInfo secId="7" spotId="5" slideimage="/399/399-7-05b.gif" image="/399/399-7-05.gif">You will then be transferred to the operating table.</procedureInfo>
+<procedureInfo secId="7" spotId="6" slideimage="/399/399-7-06b.gif" image="/399/399-7-06.gif">To begin, skin is swabbed with an antiseptic solution</procedureInfo>
+<procedureInfo secId="7" spotId="7" slideimage="/399/399-7-07b.gif" image="/399/399-7-07.gif">and a sterile drape will be placed around the operative site.</procedureInfo>
+<procedureInfo secId="7" spotId="8" slideimage="/399/399-7-08b.gif" image="/399/399-7-08.gif">Then the surgeon will make a small skin incision in the upper chest, just below the collarbone.</procedureInfo>
+<procedureInfo secId="7" spotId="9" slideimage="/399/399-7-09b.gif" image="/399/399-7-09.gif">A pocket is then created between the skin and the tissue that covers the chest muscle.</procedureInfo>
+<procedureInfo secId="7" spotId="10" slideimage="/399/399-7-10b.gif" image="/399/399-7-10.gif">Next, the team will use instruments called retractors to hold back the skin and underlying tissue. They'll locate a large blood vessel called the subclavian vein.</procedureInfo>
+<procedureInfo secId="7" spotId="11" slideimage="/399/399-7-11b.gif" image="/399/399-7-11.gif">Using a special needle and syringe, your doctor will puncture the wall of the vein.</procedureInfo>
+<procedureInfo secId="7" spotId="12" slideimage="/399/399-7-12b.gif" image="/399/399-7-12.gif">A thin guide wire is then inserted through the needle and into the vein. Your doctor gently pushes the wire until it reaches the heart.</procedureInfo>
+<procedureInfo secId="7" spotId="13" slideimage="/399/399-7-13b.gif" image="/399/399-7-13.gif">Using an instrument called a fluoroscope the surgical team is able to see the wire's progress through the vein and into the beating heart.</procedureInfo>
+<procedureInfo secId="7" spotId="14" slideimage="/399/399-7-14b.gif" image="/399/399-7-14.gif">Once the wire is in place, the needle is removed</procedureInfo>
+<procedureInfo secId="7" spotId="15" slideimage="/399/399-7-15b.gif" image="/399/399-7-15.gif">and a catheter - or hollow tube - is passed over the guide wire and into the heart.</procedureInfo>
+<procedureInfo secId="7" spotId="16" slideimage="/399/399-7-16b.gif" image="/399/399-7-16.gif">One or two leads are then passed through the catheter.</procedureInfo>
+<procedureInfo secId="7" spotId="17" slideimage="/399/399-7-17b.gif" image="/399/399-7-17.gif">When the lead or leads are in their proper position,</procedureInfo>
+<procedureInfo secId="7" spotId="18" slideimage="/399/399-7-18b.gif" image="/399/399-7-18.gif">the catheter is removed.</procedureInfo>
+<procedureInfo secId="7" spotId="19" slideimage="/399/399-7-19b.gif" image="/399/399-7-19.gif">Finally, the lead is connected to the pacemaker,</procedureInfo>
+<procedureInfo secId="7" spotId="20" slideimage="/399/399-7-20b.gif" image="/399/399-7-20.gif">the pacemaker is inserted into the pocket below the collar bone</procedureInfo>
+<procedureInfo secId="7" spotId="21" slideimage="/399/399-7-21b.gif" image="/399/399-7-21.gif">and the incision is closed.</procedureInfo>
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (8) YOUR RECOVERY //-->
+
+<audioImage secId="8" image="/000/preop/host_audio8.gif" audioMapQT="/399/audio_8recov_399.mov"  audioMapWM="/399/audio_8recov_399.wma"/>
+
+<videoImage secId="8" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/000/video_8recov1.mov" videoMapWM="/000/video_8recov1.wmv"/>
+<videoImage secId="8" spotId="11" image="/000/icon_movie_new.gif" videoMapQT="/399/video_8recov2_399.mov" videoMapWM="/399/video_8recov2_399.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<!-- recov 1 - outpatient //-->
+
+<topHtml secId="8" spotId="1">&lt;B class="largeviolet"&gt;F&lt;/B&gt;ollowing the procedure, you'll be moved then to a recovery area where you can relax until the sedation and anesthetic has worn off - and until the doctor is satisfied that you are fit to go home. Plan on spending several hours in recovery. Your doctor may be able to give you a more precise estimate prior to surgery.
+&lt;p&gt; Before you leave, you'll probably be prescribed a pain killer along with any other medication your doctor feels you need to take. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<midHtml secId="8" spotId="15">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; Once you return home, you will be responsible to keeping the dressing intact and clean. &lt;/p&gt;
+&lt;p&gt; As with all surgery, you should be alert for signs of infection near the incision - increased swelling, redness, bleeding or other discharge. Your doctor may advise you to be on the alert for other symptoms as well. If you experience any unusual symptoms, report them to your doctor right away. &lt;/p&gt;
+&lt;p&gt; You may also notice some bruising in the general area of the incision. The discoloration may be extensive - but as with any bruise, it should heal on it's own. &lt;/p&gt;
+&lt;p&gt; Before you leave, you'll be given discharge guidelines which may include diet, medication, work and other activity restrictions. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</midHtml>
+
+<botHtml secId="8">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; This program has been designed to help you to understand a surgical procedure and to empower you to be an active participant in your own care. We hope that you take the time to discuss alternative treatments with your doctor and that you learn as much as you can about your own particular medical situation. &lt;/p&gt;
+&lt;p&gt; We also want to make sure that you understand all the risks of surgery and potential complications which can follow - no matter how unlikely they may be. &lt;/p&gt;
+&lt;p&gt; It's important that you understand exactly what the procedure entails - including the risks, benefits and alternative treatments - before you decide to proceed. &lt;/p&gt;
+&lt;p&gt; Always remember that the final decision to go ahead or not is up to you. &lt;/p&gt;</botHtml>
+
+
+<procedureInfo secId="8" spotId="1" slideimage="/000/preop/000-8-01b.gif" image="/000/preop/000-8-01.gif">Most patients experience at least some pain following surgery, but if properly handled, it shouldn't present any serious problems.</procedureInfo>
+<procedureInfo secId="8" spotId="2" slideimage="/000/preop/000-8-02b.gif" image="/000/preop/000-8-02.gif">Pain used to be regarded as an unavoidable side effect of surgery, but today pain can be managed with great effectiveness.</procedureInfo>
+<procedureInfo secId="8" spotId="3" slideimage="/000/preop/000-8-03b.gif" image="/000/preop/000-8-03.gif">And as the patient, you have an important role to play.</procedureInfo>
+<procedureInfo secId="8" spotId="4" slideimage="/000/preop/000-8-04b.gif" image="/000/preop/000-8-04.gif">Before surgery, be sure to ask the medical staff about the type and duration of pain normally associated with your surgery.</procedureInfo>
+<procedureInfo secId="8" spotId="5" slideimage="/000/preop/000-8-05b.gif" image="/000/preop/000-8-05.gif">Find out, in advance, about your pain management options. Work with the staff to develop a pain management plan. Discuss your options. There are alternatives to drugs that can lessen your need for pain medication.</procedureInfo>
+<procedureInfo secId="8" spotId="6" slideimage="/000/preop/000-8-06b.gif" image="/000/preop/000-8-06.gif">Ask your doctor for help finding a pain management class. Many of these workshops teach helpful relaxation techniques, positive thinking and nerve stimulation exercises.</procedureInfo>
+<procedureInfo secId="8" spotId="7" slideimage="/000/preop/000-8-07b.gif" image="/000/preop/000-8-07.gif">Following surgery, make sure to let your nurse know right away how you're feeling and whether or not you are in any pain. Be specific, and help them to measure your discomfort.</procedureInfo>
+<procedureInfo secId="8" spotId="8" slideimage="/000/preop/000-8-08b.gif" image="/000/preop/000-8-08.gif">If you're having trouble expressing yourself, try to rank what you're feeling on a scale from 1 to 10.</procedureInfo>
+<procedureInfo secId="8" spotId="9" slideimage="/000/preop/000-8-09b.gif" image="/000/preop/000-8-09.gif">Never be shy about asking for help. If you experience pain that just won't go away, report it to the nurse.</procedureInfo>
+<procedureInfo secId="8" spotId="10" slideimage="/000/preop/000-8-10b.gif" image="/000/preop/000-8-10.gif">Pain is an important indicator that helps you and your medical staff understand your body's healing process...</procedureInfo>
+<procedureInfo secId="8" spotId="11" slideimage="/399/399-8-11b.gif" image="/399/399-8-11.gif">Pacemaker implantation surgery only rarely leads to complications.</procedureInfo>
+<procedureInfo secId="8" spotId="12" slideimage="/399/399-8-12b.gif" image="/399/399-8-12.gif">Possible problems include infection or bleeding from the incision where the pacemaker was inserted.</procedureInfo>
+<procedureInfo secId="8" spotId="13" slideimage="/399/399-8-13b.gif" image="/399/399-8-13.gif">As with all heart surgery, there is some risk of injury to the heart or circulatory system - and even death.</procedureInfo>
+<procedureInfo secId="8" spotId="14" slideimage="/399/399-8-14b.gif" image="/399/399-8-14.gif">But pacemaker implantation is one of the least invasive and safest of all cardiac procedures.</procedureInfo>
+<procedureInfo secId="8" spotId="15" slideimage="/000/preop/000-8-00b.gif" image="/000/preop/000-8-00.gif">You'll also make at least one follow-up appointment so that the doctor will be able to check the healing of the incision and/or to remove sutures.</procedureInfo>
+
+
+
+</preopData>

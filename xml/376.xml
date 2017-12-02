@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/css" href="/css/style.css"?>
+<preopData>
+<pageHeader1>Lasik</pageHeader1>
+<pageHeader2>Laser Eye Surgery</pageHeader2>
+<pageTitle>PreOp.com Lasik - Laser Eye Surgery</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+
+<prodId>376</prodId>
+<siteId>preop</siteId>
+<phdivision></phdivision>
+
+<!--
+Input Procedure Name
+
+PROCEDURE INFO:
+ANESTESIA = 1
+BEFORE = 1
+RECOVERY = 1
+
+Do a 'Find & Replace All' with the new procedure number
+
+//-->
+
+
+<!-- ADD POSTCARE SPECIFIC TASKS //-->
+<prodRelation prodId="411" sexId="shemale" siteId="postcare">Hand Washing</prodRelation>
+
+
+<navElement secId="2" template="/template1.asp">Your Body</navElement>
+<navElement secId="3" template="/template1.asp">Alternatives</navElement>
+<navElement secId="4" template="/template1.asp">Medical Record</navElement>
+<navElement secId="5" template="/template1.asp">Anesthesia</navElement>
+<navElement secId="6" template="/template1.asp">Before Surgery</navElement>
+<navElement secId="7" template="/template1.asp">Your Procedure</navElement>
+<navElement secId="8" template="/template1.asp">Recovery</navElement>
+
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;p&gt; &lt;ul&gt; &lt;li&gt; all your text &lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) YOUR BODY //-->
+
+<audioImage secId="2" image="/000/preop/host_audio2.gif" audioMapQT="/376/audio_2body_376.mov"  audioMapWM="/376/audio_2body_376.wma"/>
+
+<videoImage secId="2" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/376/video_2body1_376.mov" videoMapWM="/376/video_2body1_376.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<topHtml secId="2" spotId="1">&lt;B class="largeviolet"&gt;B&lt;/B&gt;efore we talk about treatment, let's start with a discussion about the human body and about your medical condition.
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<botHtml secId="2">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; LASIK laser surgery is a relatively simple and nonintrusive procedure that is designed to reduce or eliminate the need for glasses or contact lenses. LASIK laser surgery generally does not have any effect on a patient's overall health and there are no risks in choosing not to have the surgery. &lt;/p&gt;
+&lt;p&gt; So make sure that you ask your doctor to carefully explain the reasons behind this recommendation. &lt;/p&gt;</botHtml>
+
+<procedureInfo secId="2" spotId="1" slideimage="/376/376-2-01b.gif" image="/376/376-2-01.gif">Your doctor has recommended that you undergo Laser-In-Situ Keratomileusis - or LASIK Laser surgery - to correct a vision problem. But what does that actually mean?</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/376/376-2-02b.gif" image="/376/376-2-02.gif">The human eye is constructed like a camera ...</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/376/376-2-03b.gif" image="/376/376-2-03.gif">with a clear lens in the front and light-sensitive tissue at the rear. This tissue makes up the retina which acts like photographic film.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/376/376-2-04b.gif" image="/376/376-2-04.gif">In an eye that has perfect vision, light rays passing through the pupil are focused by the lens to fall precisely at the center of the retina. There are many common problems that can affect the eye and prevent light rays from focusing properly on the retina.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/376/376-2-05b.gif" image="/376/376-2-05.gif">Three of these problems, myopia - or nearsightedness; hyperopia - or farsightedness; and astigmatism can often be corrected or reduced with the use of LASIK laser surgery.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/376/376-2-06b.gif" image="/376/376-2-06.gif">Myopia, or nearsightedness, occurs when the shape of the eye is too long or the curve of the cornea is too extreme. In this case, light rays are focused on a point in front of the retina - instead of on the retina itself.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/376/376-2-07b.gif" image="/376/376-2-07.gif">Hyperopia, or farsightedness, occurs when the shape of the eye is too short. In this case, light rays are focused on a point behind the retina.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/376/376-2-08b.gif" image="/376/376-2-08.gif">Astigmatism occurs when the cornea is unevenly curved,</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/376/376-2-09b.gif" image="/376/376-2-09.gif">causing light rays to fall off center or not to focus properly at all.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/376/376-2-10b.gif" image="/376/376-2-10.gif">In either case, LASIK laser surgery can be used to flatten all or part of the cornea ...</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/376/376-2-11b.gif" image="/376/376-2-11.gif">allowing your doctor to cause the focal point of light entering the eye to fall more closely to the center of the surface of the retina.</procedureInfo>
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) ALTERNATIVES //-->
+
+<audioImage secId="3" image="/000/preop/host_audio3.gif" audioMapQT="/376/audio_3alt_376.mov"  audioMapWM="/376/audio_3alt_376.wma"/>
+
+<videoImage secId="3" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/376/video_3alt1_376.mov" videoMapWM="/376/video_3alt1_376.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;Y&lt;/B&gt;our doctor understands that all medical care benefits from close collaboration between physician and patient -- so be sure to review, with your doctor, all risks and alternatives and make sure you understand the reasons behind the recommendation for this particular procedure.
+&lt;p&gt; Now let's talk in detail about the procedure your doctor has recommended. That particular recommendation was based on a number of factors: &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medviolet"&gt;the state of your health, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medviolet"&gt; the severity of your condition, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medviolet"&gt; an assessment of alternative treatments or procedures and finally, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medviolet"&gt; the risks associated with doing nothing at all. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; And remember, the final decision is up to you. No one can force you to undergo a surgical procedure against your will. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<botHtml secId="3">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; Now I'd like to introduce you to another important member of the medical team -- the nurse. &lt;/p&gt;</botHtml>
+
+<procedureInfo secId="3" spotId="1" slideimage="/376/376-3-01b.gif" image="/376/376-3-01.gif">When it comes to treating nearsightedness, farsightedness or astigmatism ...</procedureInfo>
+<procedureInfo secId="3" spotId="2" slideimage="/376/376-3-02b.gif" image="/376/376-3-02.gif">LASIK Laser surgery is a popular option for those who qualify.</procedureInfo>
+<procedureInfo secId="3" spotId="3" slideimage="/376/376-3-03b.gif" image="/376/376-3-03.gif">The only alternative to surgery is to rely on glasses or contact lenses.</procedureInfo>
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (4) MEDICAL RECORD //-->
+
+<audioImage secId="4" image="/000/preop/host_audio4.gif" audioMapQT="/000/audio_4med.mov"  audioMapWM="/000/audio_4med.wma"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<topHtml secId="4" spotId="1">&lt;B class="largeviolet"&gt;O&lt;/B&gt;ver the course of the procedure, you'll be under the care of one or more nurses. Our job is to provide for your care and comfort - before, during and after surgery.
+&lt;p&gt; On the day of surgery, it's important that you tell us how you're feeling. And we certainly want you and your family to feel completely free to ask us any questions at any time. &lt;/p&gt;
+&lt;p&gt; Before the operation, your doctors will examine your medical history as well as your current physical condition. This is an important step because the results of that exam will help your medical team to make decisions about your care. &lt;/p&gt;
+&lt;p&gt; So remember, it is very important that you give your doctor your complete medical history. &lt;/p&gt;
+&lt;p&gt; Be sure to remember to &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; report previous illnesses, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; previous surgeries, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; whether or not you smoke &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; and current illnesses or medical problems. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; And if you're currently taking any medications &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; prescription or over-the-counter, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; or if you have any known allergies &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; to medications or other substances, &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; make sure to tell your doctor. &lt;/p&gt;
+&lt;p&gt; Some of the most common questions patients ask their doctors are about anesthesia. So I'd like to introduce you to the anesthesiologist. &lt;/p&gt;</topHtml>
+
+<botHtml secId="x"></botHtml>
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (5) ANESTHESIA //-->
+
+<audioImage secId="5" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana0.mov"  audioMapWM="/000/audio_5ana0.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana1.mov"  audioMapWM="/000/audio_5ana1.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana2.mov"  audioMapWM="/000/audio_5ana2.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio5.gif" audioMapQT="/000/audio_5ana3.mov"  audioMapWM="/000/audio_5ana3_376.wma"/>
+
+<videoImage secId="5" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/000/video_5ana1.mov" videoMapWM="/000/video_5ana1.wmv"/>
+<videoImage secId="x" spotId="x" image="/000/icon_movie_new.gif" videoMapQT="/000/video_5ana2.mov" videoMapWM="/000/video_5ana2.wmv"/>
+<videoImage secId="x" spotId="x" image="/000/icon_movie_new.gif" videoMapQT="/000/video_5ana3.mov" videoMapWM="/000/video_5ana3.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<!-- ANA Header ALL //-->
+<topHtml secId="5" spotId="1">&lt;B class="largeviolet"&gt;M&lt;/B&gt;ost people understand that anesthesia is used to block the perception of pain - but anesthesia plays another, equally important role as well. Let me explain.
+&lt;p&gt; Anesthesia allows your surgical team to control - and to monitor - a wide range of natural physiological reflexes. As you know, all surgery involves cutting small amounts of skin or other tissue. &lt;/p&gt;
+&lt;p&gt; Your mind certainly knows the difference between a surgical incision and, for example, and an accidental cut. The problem is, that your body doesn't understand this difference. In fact, your body reacts pretty dramatically to anything it perceives to be a threat to your well-being. &lt;/p&gt;
+&lt;p&gt; Without anesthesia, a surgical incision would cause not only pain, but an increase in heart rate, changes in blood pressure and a whole host of other reflexive defense mechanisms which our bodies rely on for protection. &lt;/p&gt;
+&lt;p&gt; So it's important to realize that anesthesia is meant to calm and relax the mind and body in a general sense - not only to block pain but to control those natural defenses. &lt;/p&gt;
+&lt;p&gt; It's for that reason that the anesthesia you receive will probably include a sedative - either to relax you or to put you to sleep altogether. &lt;/p&gt;
+&lt;p&gt; Today, surgeons and anesthesiologists have a wide range of options for keeping you comfortable. &lt;/p&gt;
+&lt;p&gt; Pain is an alarm signal sensed by nerves and sent to the brain where it's interpreted and felt. All types of anesthesia work by interfering with the transmission or interpretation of that signal. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- ANA 0  Local (L) Bottom //-->
+<botHtml secId="5">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; Why would your doctor recommend or choose one kind of anesthesia over another? It's a decision based on comfort, precisely where on your body your surgery will take place and your overall physical condition. &lt;/p&gt;
+&lt;p&gt; This procedure is usually considered to be a simple operation. &lt;/p&gt;
+&lt;p&gt; In unusual cases, a patient may be given general anesthesia - in other words, you might be put to sleep. &lt;/p&gt;
+&lt;p&gt; But most often, your doctor will simply administer a local anesthetic ... with one or more injections of an anesthetic drug directly into the tissue. &lt;/p&gt;
+&lt;p&gt; The advantage of this kind anesthetic is that it allows you to remain awake, it has less impact on you and your body than general anesthesia does and you recover from it much more quickly. &lt;/p&gt;
+&lt;p&gt; If you've ever experienced any allergic reaction to anesthesia or to any other substance, be sure to let your surgeon or anesthesiologist know well beforehand. &lt;/p&gt;</botHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- ANA 1  Local and Gneral (L&G) Bottom //-->
+<botHtml secId="x">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; Why would your doctor recommend or choose one kind of anesthesia over another? It's a decision based on comfort, precisely where on your body your surgery will take place and your overall physical condition. &lt;/p&gt;
+&lt;p&gt; This procedure is usually considered to be a simple operation. &lt;/p&gt;
+&lt;p&gt; In unusual cases, a patient may be given general anesthesia - in other words, you might be put to sleep. &lt;/p&gt;
+&lt;p&gt; But most often, your doctor will simply administer a local anesthetic ... with one or more injections of an anesthetic drug directly into the tissue. &lt;/p&gt;
+&lt;p&gt; The advantage of this kind anesthetic is that it allows you to remain awake, it has less impact on you and your body than general anesthesia does and you recover from it much more quickly. &lt;/p&gt;
+&lt;p&gt; If you've ever experienced any allergic reaction to anesthesia or to any other substance, be sure to let your surgeon or anesthesiologist know well beforehand. &lt;/p&gt;</botHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- ANA 2  Local and Gneral and Spinal (L&G&S) Middle //-->
+<midHtml secId="x" spotId="x">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; Why would your doctor recommend or choose one kind of anesthesia over another? It's a decision based on comfort, precisely where on your body your surgery will take place and your overall physical condition. &lt;/p&gt;
+&lt;p&gt; This particular surgical technique offers the surgeon a wide selection of anesthesia options. The particular anesthesia chosen will depend on personal preference -- both yours and your doctor's. In some cases, patients are given general anesthesia -- in other words, you might be put to sleep. &lt;/p&gt;
+&lt;p&gt; But most often, your doctor and anesthesiologist will administer a local anesthetic, either by injecting an anesthetic drug directly around the operative field so that all the tissue layers are numb &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</midHtml>
+
+<botHtml secId="x">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; A spinal is still considered to be a kind of local anesthesia in that you remain awake during surgery. It's extremely effective, but takes a little longer to wear off than does a more localized anesthesia. &lt;/p&gt;
+&lt;p&gt; Whatever method of pain relief is chosen, the anesthesia will probably be accompanied by a calming intravenous sedative as well. &lt;/p&gt;
+&lt;p&gt; If you've ever experienced any allergic reaction to anesthesia or to any other substance, be sure to let your surgeon or anesthesiologist know well beforehand. &lt;/p&gt;</botHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- ANA 3  General (G) Bottom //-->
+<botHtml secId="x">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; Why would your doctor recommend or choose one kind of anesthesia over another? It's a decision based on comfort, precisely where on your body your surgery will take place and your overall physical condition. &lt;/p&gt;
+&lt;p&gt; This particular surgical technique offers the surgeon a wide selection of anesthesia options. The particular anesthesia chosen will depend on personal preference - both yours and your doctor's. In some cases, patients are given general anesthesia - in other words, you might be put to sleep. &lt;/p&gt;
+&lt;p&gt; But most often, your doctor and anesthesiologist will administer a local anesthetic, either by injecting an anesthetic drug directly around the operative field so that all the tissue layers are numb &lt;/p&gt;</botHtml>
+
+
+
+
+<procedureInfo secId="5" spotId="1" slideimage="/000/preop/000-5-01b.gif" image="/000/preop/000-5-01.gif">What we call local anesthesia blocks the signal locally at the nerve where it begins - or somewhere along the nerve between the surgical field and the brain.</procedureInfo>
+<procedureInfo secId="5" spotId="2" slideimage="/000/preop/000-5-02b.gif" image="/000/preop/000-5-02.gif">With local anesthesia, a region of your body is numbed - and you may receive a sedative - but usually, you remain awake.</procedureInfo>
+
+<procedureInfo secId="x" spotId="x" slideimage="/000/preop/000-5-03b.gif" image="/000/preop/000-5-03.gif">If you're given general anesthesia that means that the brain's overall ability to interpret and remember pain has been interrupted.</procedureInfo>
+<procedureInfo secId="x" spotId="x" slideimage="/000/preop/000-5-04b.gif" image="/000/preop/000-5-04.gif">For you, that means being asleep.</procedureInfo>
+
+<procedureInfo secId="x" spotId="x" slideimage="/000/preop/000-5-05b.gif" image="/000/preop/000-5-05.gif">- or by injecting an anesthetic drug into the lower spine. This is called a spinal.</procedureInfo>
+<procedureInfo secId="x" spotId="x" slideimage="/000/preop/000-5-06b.gif" image="/000/preop/000-5-06.gif">It's more generalized in that it numbs the entire lower body. With a spinal, you won't even feel your toes.</procedureInfo>
+
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (6) BEFORE SURGERY //-->
+
+<audioImage secId="6" image="/000/preop/host_audio6.gif" audioMapQT="/000/audio_6before1.mov"  audioMapWM="/000/audio_6before1.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio6.gif" audioMapQT="/000/audio_6before2.mov"  audioMapWM="/000/audio_6before2.wma"/>
+<audioImage secId="x" image="/000/preop/host_audio6.gif" audioMapQT="/000/audio_6before3.mov"  audioMapWM="/000/audio_6before3.wma"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<!-- before1 - outpatient //-->
+
+<topHtml secId="6" spotId="1">&lt;B class="largeviolet"&gt;B&lt;/B&gt;ecause you've been scheduled for ambulatory - or outpatient surgery - you're responsible for taking certain precautions before you arrive. Specifically...
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; You must not have anything to eat or drink after midnight on the night before you arrive at the hospital. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Do not take any aspirin or other anti-inflammatory for 10 days before surgery. Occasionally these drugs can interfere with the blood's ability to clot and can actually increase the amount of bleeding during and after surgery. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; If you're on any medication - including over the counter drugs - be sure to ask your doctor whether or not you can continue taking that medication. And if not, how far in advance of surgery you must stop. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Finally, you must also arrange for transportation to and from the place at which the procedure will be performed. Everyone reacts differently to even simple surgical procedures and there's no way you can predict how you'll be feeling after the procedure. So don't forget, following surgery, you will not be allowed to drive. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; The nurse and anesthesiologist will be closely monitoring your comfort and progress. Remember, don't hesitate to ask any questions about any of the information that they've just provided. &lt;/p&gt;</topHtml>
+
+<!-- before2 - inpatient //-->
+
+<topHtml secId="x" spotId="x">&lt;B class="largeviolet"&gt;B&lt;/B&gt;ecause you've been scheduled for admission to the hospital for inpatient surgery on the day of surgery, you're responsible for taking certain precautions before you arrive. Specifically...
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; You must not have anything to eat or drink after midnight on the night before you arrive at the hospital. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Do not take any aspirin or other anti-inflammatory for 10 days before surgery. Occasionally these drugs can interfere with the blood's ability to clot and can actually increase the amount of bleeding during and after surgery. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; If you're on any medication - including over the counter drugs - be sure to ask your doctor whether or not you can continue taking that medication. And if not, how far in advance of surgery you must stop. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Finally, you must be prepared to spend one or more nights in the hospital. That means bringing a bag packed with the kind of essential clothing and toiletries you feel you'll need for a period of bed rest. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; It's important that you not make any plans for activities in the days following surgery. After your time in the hospital, you will spend even more time recovering at home. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; And it's impossible to predict with 100% certainty how long you'll be in the hospital or how long you'll have to take it easy at home. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Everyone reacts differently to even simple surgical procedures and there's no way you can predict how you'll be feeling after the procedure. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; The nurse and anesthesiologist will be closely monitoring your comfort and progress. Remember, don't hesitate to ask any questions about any of the information that they've just provided. &lt;/p&gt;</topHtml>
+
+<!-- before3 - asprin //-->
+
+<topHtml secId="x" spotId="x">&lt;B class="largeviolet"&gt;B&lt;/B&gt;ecause you've been scheduled for ambulatory - or outpatient surgery - you're responsible for taking certain precautions before you arrive. Specifically...
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; You must not have anything to eat or drink after midnight on the night before you arrive at the hospital. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; If you're on any medication - including over the counter drugs - be sure to ask your doctor whether or not you can continue taking that medication. And if not, how far in advance of surgery you must stop. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;B&gt; &lt;li class="medred"&gt; Finally, you must also arrange for transportation to and from the place at which the procedure will be performed. Everyone reacts differently to even simple surgical procedures and there's no way you can predict how you'll be feeling after the procedure. So don't forget, following surgery, you will not be allowed to drive. &lt;/li&gt; &lt;/B&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; The nurse and anesthesiologist will be closely monitoring your comfort and progress. Remember, don't hesitate to ask any questions about any of the information that they've just provided. &lt;/p&gt;</topHtml>
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (7) YOUR PROCEDURE //-->
+
+<audioImage secId="7" image="/000/preop/host_audio7.gif" audioMapQT="/376/audio_7proced_376.mov"  audioMapWM="/376/audio_7proced_376.wma"/>
+
+<videoImage secId="7" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/376/video_7proced1_376.mov" videoMapWM="/376/video_7proced1_376.wmv"/>
+<videoImage secId="7" spotId="6" image="/000/icon_movie_new.gif" videoMapQT="/376/video_7proced2_376.mov" videoMapWM="/376/video_7proced2_376.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<topHtml secId="7" spotId="1">&lt;B class="largeviolet"&gt;N&lt;/B&gt;ow it's time to talk about the actual procedure your doctor has recommended for you.
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<botHtml secId="x"></botHtml>
+
+<procedureInfo secId="7" spotId="1" slideimage="/376/376-7-01b.gif" image="/376/376-7-01.gif">On the day of your operation,</procedureInfo>
+<procedureInfo secId="7" spotId="2" slideimage="/376/376-7-02b.gif" image="/376/376-7-02.gif">you will be asked to put on a surgical gown.</procedureInfo>
+<procedureInfo secId="7" spotId="3" slideimage="/376/376-7-03b.gif" image="/376/376-7-03.gif">You may receive a sedative by mouth</procedureInfo>
+<procedureInfo secId="7" spotId="4" slideimage="/376/376-7-04b.gif" image="/376/376-7-04.gif">and an intravenous line may be put in.</procedureInfo>
+<procedureInfo secId="7" spotId="5" slideimage="/376/376-7-05b.gif" image="/376/376-7-05.gif">You will then be transferred to the operating table.</procedureInfo>
+<procedureInfo secId="7" spotId="6" slideimage="/376/376-7-06b.gif" image="/376/376-7-06.gif">and you'll be given an anesthetic in the form of eye drops ...</procedureInfo>
+<procedureInfo secId="7" spotId="7" slideimage="/376/376-7-07b.gif" image="/376/376-7-07.gif">and a suction ring will be placed on the eye ...</procedureInfo>
+<procedureInfo secId="7" spotId="8" slideimage="/376/376-7-08b.gif" image="/376/376-7-08.gif">to prevent movement and to maintain pressure within the eye.</procedureInfo>
+<procedureInfo secId="7" spotId="9" slideimage="/376/376-7-09b.gif" image="/376/376-7-09.gif">When the operative field is numb, the doctor will use an automated microsurgical instrument called a microkeratome.</procedureInfo>
+<procedureInfo secId="7" spotId="10" slideimage="/376/376-7-10b.gif" image="/376/376-7-10.gif">This tiny instrument will carefully create a thin corneal flap ...</procedureInfo>
+<procedureInfo secId="7" spotId="11" slideimage="/376/376-7-11b.gif" image="/376/376-7-11.gif">which remains hinged to the eye.</procedureInfo>
+<procedureInfo secId="7" spotId="12" slideimage="/376/376-7-12b.gif" image="/376/376-7-12.gif">Underneath this flap the inner layer of the cornea, called the stroma, is exposed.</procedureInfo>
+<procedureInfo secId="7" spotId="13" slideimage="/376/376-7-13b.gif" image="/376/376-7-13.gif">Next, your doctor will use a computer to control pulses of cool laser light. These pulses will delicately remove microscopically thin layers of cells from the stroma</procedureInfo>
+<procedureInfo secId="7" spotId="14" slideimage="/376/376-7-14b.gif" image="/376/376-7-14.gif">By removing tissue in this manner, your doctor will tailor the new shape of your cornea according to the exact nature of your vision problem. The entire procedure usually takes about 5 minutes and is painless.</procedureInfo>
+<procedureInfo secId="7" spotId="15" slideimage="/376/376-7-15b.gif" image="/376/376-7-15.gif">The corneal flap is then closed and the surface is rinsed.</procedureInfo>
+<procedureInfo secId="7" spotId="16" slideimage="/376/376-7-16b.gif" image="/376/376-7-16.gif">Following surgery, you'll be given protective contact lenses to wear for a few days while the corneal flap heals.</procedureInfo>
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (8) YOUR RECOVERY //-->
+
+<audioImage secId="8" image="/000/preop/host_audio8.gif" audioMapQT="/376/audio_8recov_376.mov"  audioMapWM="/376/audio_8recov_376.wma"/>
+
+<videoImage secId="8" spotId="1" image="/000/icon_movie_new.gif" videoMapQT="/000/video_8recov1.mov" videoMapWM="/000/video_8recov1.wmv"/>
+<videoImage secId="8" spotId="11" image="/000/icon_movie_new.gif" videoMapQT="/376/video_8recov2_376.mov" videoMapWM="/376/video_8recov2_376.wmv"/>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<!-- recov 1 - outpatient //-->
+
+<topHtml secId="8" spotId="1">&lt;B class="largeviolet"&gt;F&lt;/B&gt;ollowing the procedure, you'll be moved then to a recovery area where you can relax until the sedation and anesthetic has worn off - and until the doctor is satisfied that you are fit to go home. Plan on spending several hours in recovery. Your doctor may be able to give you a more precise estimate prior to surgery.
+&lt;p&gt; Before you leave, you'll probably be prescribed a pain killer along with any other medication your doctor feels you need to take. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<!-- recov 2 - inpatient //-->
+
+<topHtml secId="x" spotId="x">&lt;B class="largeviolet"&gt;F&lt;/B&gt;ollowing the procedure, you'll be moved then to a recovery area where you can relax until the sedation and anesthetic has worn off - At some point you will be moved to your room. While you're in the hospital, doctors and nurses will regularly check you - monitoring your progress following surgery.  It's important that you realize your time in the hospital is an extension of the surgical procedure.  &lt;/p&gt;
+&lt;p&gt; While you're in the hospital, your medical team will continue to monitor your body's immediate reaction to the procedure just performed.  That means that your time in the hospital is not really for rest and recovery. And you should expect to have your movements restricted and even your sleep interrupted by nurses or other medical staff. &lt;/p&gt;
+&lt;p&gt; The amount of time that you spend in the hospital will depend on your age, your health and whether or not any complications arise. Be assured that once your doctor feels that your condition is properly stabilized, you'll be allowed to leave.  Be sure to follow your doctor's advice and allow the full-recommended period of time before you return to your normal routine. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+<midHtml secId="8" spotId="17">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; Your doctor may advise you to be on the alert for other symptoms as well. If you experience any unusual symptoms, report them to your doctor right away. &lt;/p&gt;
+&lt;p&gt; You'll be able to help your body's healing process by carefully following your physician's advice. &lt;/p&gt;
+&lt;p&gt; Before you leave, you'll be given discharge guidelines which may include diet, medication, work and other activity restrictions. &lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</midHtml>
+
+<botHtml secId="8">&lt;p&gt;   &lt;/p&gt;
+&lt;p&gt; This program has been designed to help you to understand a surgical procedure and to empower you to be an active participant in your own care. We hope that you take the time to discuss alternative treatments with your doctor and that you learn as much as you can about your own particular medical situation. &lt;/p&gt;
+&lt;p&gt; We also want to make sure that you understand all the risks of surgery and potential complications which can follow - no matter how unlikely they may be. &lt;/p&gt;
+&lt;p&gt; It's important that you understand exactly what the procedure entails - including the risks, benefits and alternative treatments - before you decide to proceed. &lt;/p&gt;
+&lt;p&gt; Always remember that the final decision to go ahead or not is up to you. &lt;/p&gt;</botHtml>
+
+
+<procedureInfo secId="8" spotId="1" slideimage="/000/preop/000-8-01b.gif" image="/000/preop/000-8-01.gif">Most patients experience at least some pain following surgery, but if properly handled, it shouldn't present any serious problems.</procedureInfo>
+<procedureInfo secId="8" spotId="2" slideimage="/000/preop/000-8-02b.gif" image="/000/preop/000-8-02.gif">Pain used to be regarded as an unavoidable side effect of surgery, but today pain can be managed with great effectiveness.</procedureInfo>
+<procedureInfo secId="8" spotId="3" slideimage="/000/preop/000-8-03b.gif" image="/000/preop/000-8-03.gif">And as the patient, you have an important role to play.</procedureInfo>
+<procedureInfo secId="8" spotId="4" slideimage="/000/preop/000-8-04b.gif" image="/000/preop/000-8-04.gif">Before surgery, be sure to ask the medical staff about the type and duration of pain normally associated with your surgery.</procedureInfo>
+<procedureInfo secId="8" spotId="5" slideimage="/000/preop/000-8-05b.gif" image="/000/preop/000-8-05.gif">Find out, in advance, about your pain management options. Work with the staff to develop a pain management plan. Discuss your options. There are alternatives to drugs that can lessen your need for pain medication.</procedureInfo>
+<procedureInfo secId="8" spotId="6" slideimage="/000/preop/000-8-06b.gif" image="/000/preop/000-8-06.gif">Ask your doctor for help finding a pain management class. Many of these workshops teach helpful relaxation techniques, positive thinking and nerve stimulation exercises.</procedureInfo>
+<procedureInfo secId="8" spotId="7" slideimage="/000/preop/000-8-07b.gif" image="/000/preop/000-8-07.gif">Following surgery, make sure to let your nurse know right away how you're feeling and whether or not you are in any pain. Be specific, and help them to measure your discomfort.</procedureInfo>
+<procedureInfo secId="8" spotId="8" slideimage="/000/preop/000-8-08b.gif" image="/000/preop/000-8-08.gif">If you're having trouble expressing yourself, try to rank what you're feeling on a scale from 1 to 10.</procedureInfo>
+<procedureInfo secId="8" spotId="9" slideimage="/000/preop/000-8-09b.gif" image="/000/preop/000-8-09.gif">Never be shy about asking for help. If you experience pain that just won't go away, report it to the nurse.</procedureInfo>
+<procedureInfo secId="8" spotId="10" slideimage="/000/preop/000-8-10b.gif" image="/000/preop/000-8-10.gif">Pain is an important indicator that helps you and your medical staff understand your body's healing process...</procedureInfo>
+<procedureInfo secId="8" spotId="11" slideimage="/376/376-8-11b.gif" image="/376/376-8-11.gif">LASIK laser surgery only rarely leads to complications.</procedureInfo>
+<procedureInfo secId="8" spotId="12" slideimage="/376/376-8-12b.gif" image="/376/376-8-12.gif">There are several risks.</procedureInfo>
+<procedureInfo secId="8" spotId="13" slideimage="/376/376-8-13b.gif" image="/376/376-8-13.gif">In some cases, the corneal flap does not heal properly - affecting vision and it may be necessary to repeat the procedure.</procedureInfo>
+<procedureInfo secId="8" spotId="14" slideimage="/376/376-8-14b.gif" image="/376/376-8-14.gif">In extremely rare instances, the corneal flap can be damaged and the quality of vision permanently reduced.</procedureInfo>
+<procedureInfo secId="8" spotId="15" slideimage="/376/376-8-15b.gif" image="/376/376-8-15.gif">Many patients report experiencing some temporary change in the quality of vision. These changes may include an increased sensitivity to light, increased glare, difficulty seeing at night or halos around point sources of light. In most cases, these side effects diminish in weeks or months.</procedureInfo>
+<procedureInfo secId="8" spotId="16" slideimage="/376/376-8-16b.gif" image="/376/376-8-16.gif">In a very small number of cases, follow up surgery may be required to fine-tune the correction. This may mean repeating the procedure in order to complete the reshaping of the cornea.</procedureInfo>
+<procedureInfo secId="8" spotId="17" slideimage="/000/preop/000-8-00b.gif" image="/000/preop/000-8-00.gif">You'll also make at least one follow-up appointment so that the doctor will be able to check the healing of the incision and/or to remove sutures.</procedureInfo>
+
+
+
+</preopData>

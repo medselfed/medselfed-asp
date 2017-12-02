@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Care of Suprapubic Catheter</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Care of Suprapubic Catheter</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>441</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/441/audio_441.mov"  audioMapWM="/441/audio_441.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/441/video_441.mov" videoMapWM="/441/video_441.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/441/441-01b.gif" image="/441/441-01.gif">During your surgery,</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/441/441-02b.gif" image="/441/441-02.gif">a suprapubic catheter was inserted through your lower abdomen into your bladder. The catheter helps your bladder rest and heal. It is generally left in place for 2 to 4 weeks after the surgery. </procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/441/441-03b.gif" image="/441/441-03.gif">Each morning and night, the dressing is changed and the skin around the catheter cleaned. This is best done in the shower but can also be done while sitting or lying down.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/441/441-04b.gif" image="/441/441-04.gif">The equipment you will need to assemble includes:
+&lt;UL&gt;&lt;LI&gt;Washcloth
+&lt;/LI&gt;&lt;LI&gt;Liquid soap
+&lt;/LI&gt;&lt;LI&gt;Antibiotic ointment
+&lt;/LI&gt;&lt;LI&gt;A small, clean hand towel
+&lt;/LI&gt;&lt;LI&gt;A 4 by 4 gauze dressing
+&lt;/LI&gt;&lt;LI&gt;Sharp scissors, cleaned with isopropyl alcohol
+&lt;/LI&gt;&lt;LI&gt;Surgical tape&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/441/441-05b.gif" image="/441/441-05.gif">Always, before you touch the catheter or the dressing, carefully wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/441/441-06b.gif" image="/441/441-06.gif">Before going into the shower, ensure that the catheter plug is secure in the end of  the catheter.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/441/441-07b.gif" image="/441/441-07.gif">Gently remove the dressing from around the catheter. Discard it into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/441/441-08b.gif" image="/441/441-08.gif">Retape the end of the catheter to the abdomen.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/441/441-09b.gif" image="/441/441-09.gif">Examine the skin around the catheter by pulling up on the lower abdomen or using a mirror. A small amount of redness and clear drainage is a normal reaction of the skin to the catheter. A large area of redness or colored or foul smelling drainage must be reported to your doctor.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/441/441-10b.gif" image="/441/441-10.gif">Again, wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/441/441-11b.gif" image="/441/441-11.gif">Go into the shower, taking the liquid soap and washcloth with you. Clean the rest of your body without touching the catheter or the lower abdomen.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/441/441-12b.gif" image="/441/441-12.gif">Then, soap the washcloth and use it to clean gently around the catheter site. It is not used for the rest of your body.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/441/441-13b.gif" image="/441/441-13.gif">Come out of the shower and dry your body without touching the lower abdomen.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/441/441-14b.gif" image="/441/441-14.gif">Then gently clean the catheter site with the hand towel. Discard the washcloth and hand towel into the laundry.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/441/441-15b.gif" image="/441/441-15.gif">Apply a small amount of antibiotic ointment to the skin around the catheter site.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/441/441-16b.gif" image="/441/441-16.gif">Use the cleansed scissors to cut halfway up the 4 by 4 gauze dressing.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/441/441-17b.gif" image="/441/441-17.gif">Place the gauze dressing around the catheter.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/441/441-18b.gif" image="/441/441-18.gif">Tape the gauze to the abdomen and check that the tape holding the end of the catheter to the abdomen is secure.</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/441/441-19b.gif" image="/441/441-19.gif">Wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/441/441-20b.gif" image="/441/441-20.gif">When you remove the plug from the catheter to allow urine to drain, always wipe the plug with alcohol before replacing it. A prepackaged alcohol wipe is good for this purpose.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/441/441-21b.gif" image="/441/441-21.gif">If you connect your catheter to a drainage bag overnight, store the plug in a disposable plastic cup of isopropyl alcohol.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Washcloth&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Liquid soap&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Antibiotic ointment&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;A small, clean hand towel&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;A 4 by 4 gauze dressing&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;Sharp scissors, cleaned with isopropyl alcohol&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="7" >&lt;UL&gt;&lt;LI&gt;Surgical tape&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

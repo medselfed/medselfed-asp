@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<partnerId>center</partnerId>
+<name>Single Heart Center Demo</name>
+<headerType>false</headerType>
+<headerName>PreOp Patient Education</headerName>
+<cssDir>/css/main</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>false</postcare>
+<prodLayout>0</prodLayout>
+<showads>false</showads>
+<navlink navlinkId="homesitemp" url="/asp/sitemap.asp?siteId=preop">Home</navlink>
+<navlink navlinkId="cardcenter" url="/asp/center.asp?centerId=heart">Cardiology Center</navlink>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="search" url="/asp/search.asp?siteId=preop">Search</navlink>
+<navlink navlinkId="help" url="/asp/help1.asp?siteId=preop">Help</navlink>
+<centerLink siteId="preop" centerId="heart">Cardiology Center</centerLink>
+</preopData>

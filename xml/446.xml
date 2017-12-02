@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Monitoring Your Blood Sugar</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Monitoring Your Blood Sugar</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>446</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/446/audio_446.mov"  audioMapWM="/446/audio_446.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/446/video_446.mov" videoMapWM="/446/video_446.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/446/446-01b.gif" image="/446/446-01.gif">Monitoring and tightly controlling your blood sugar level</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/446/446-02b.gif" image="/446/446-02.gif">can significantly reduce the risk of complications due to diabetes and provide you with a higher quality of life.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/446/446-03b.gif" image="/446/446-03.gif">Knowledge of your blood sugar levels at different times of the day is an essential input into your diabetes care plan and allows you and your medical team to work out and modify your plan for medication, diet and exercise.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/446/446-04b.gif" image="/446/446-04.gif">The heart of the system to monitor your blood sugar is the blood glucose meter and the automatic lancing device used to obtain your blood sample.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/446/446-05b.gif" image="/446/446-05.gif">There are many types of glucose meters with varying degrees of sophistication and abilities to store test results. Your doctor or nurse will recommend the type best for you.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/446/446-06b.gif" image="/446/446-06.gif">You will need to be familiar with the manufacturer's instructions for each unit. This program will provide you with general guidelines that apply to all units. The equipment you will need to assemble includes:</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/446/446-07b.gif" image="/446/446-07.gif">&lt;UL&gt;&lt;LI&gt;the glucose testing meter,
+&lt;/LI&gt;&lt;LI&gt;a packet of test strips,
+&lt;/LI&gt;&lt;LI&gt;an automatic lancing device,
+&lt;/LI&gt;&lt;LI&gt;and facial tissue.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/446/446-08b.gif" image="/446/446-08.gif">The meter will have a display with blood sugar readings are shown, an on/off power button and a slot into which the Test Strips are inserted. In the back of the meter will be a compartment for batteries.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/446/446-09b.gif" image="/446/446-09.gif">The Automatic Lancing Device has three components: the body with a release button, lancet holder and cocking device, the removable end cap and a separate short lancet.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/446/446-10b.gif" image="/446/446-10.gif">The first step is to code the meter to match or calibrate the meter to the reactivity of the Test Strip.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/446/446-11b.gif" image="/446/446-11.gif">This is done by following the manufacturer's instructions and matching a number on the meter's display to a number on the Code Strip or on the test strip package.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/446/446-12b.gif" image="/446/446-12.gif">Coding is done:
+ &lt;UL&gt;&lt;LI&gt;whenever a new package of Test Strips is opened 
+ &lt;/LI&gt;&lt;LI&gt;and daily to ensure the meter is coded correctly.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/446/446-13b.gif" image="/446/446-13.gif">In addition, a control test can be run:
+&lt;UL&gt;&lt;LI&gt;if you need to check that the whole system of the meter and the test strip is working correctly 
+&lt;/LI&gt;&lt;LI&gt;and to practice your good meter techniques.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/446/446-14b.gif" image="/446/446-14.gif">&lt;UL&gt;&lt;LI&gt;Follow the manufacturer's instructions, which usually involves testing a control solution of sugar that is provided with the meter.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/446/446-15b.gif" image="/446/446-15.gif">Wash your hands vigorously with soap and warm water. Rinse and dry thoroughly with a paper towel.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/446/446-16b.gif" image="/446/446-16.gif">Remove the Test Strip from its individual package.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/446/446-17b.gif" image="/446/446-17.gif">With the meter off, insert the correct end of the test strip into the test slot of the meter, according to the manufacturer's instructions. This usually turns the meter on.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/446/446-18b.gif" image="/446/446-18.gif">Remove the end-cap from the lancing device.</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/446/446-19b.gif" image="/446/446-19.gif">Insert a short lancet into the lancet holder according to the manufacturer's instructions. Twist off the protective cap and save it for the disposal of the used lancet.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/446/446-20b.gif" image="/446/446-20.gif">Replace the end-cap. The depth of the puncture depends on the end-cap used.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/446/446-21b.gif" image="/446/446-21.gif">Re-cock the lancing device.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/446/446-22b.gif" image="/446/446-22.gif">Choose your puncture site. The sides of the end segment of the finger are the best sites. Stroke down the finger to push blood toward the puncture site.</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/446/446-23b.gif" image="/446/446-23.gif">Place the end-cap firmly against the chosen puncture site on the side of the fingertip. The more pressure you use, the deeper the puncture. Push the lancet release button without moving your finger or the device.</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/446/446-24b.gif" image="/446/446-24.gif">After the puncture, remove the lancing device. If a drop of blood does not form on its own, stroke down the finger toward the puncture site without going as far as the site itself.</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/446/446-25b.gif" image="/446/446-25.gif">Hold the tip of the test strip in the drop of blood until the meter tells you the test strip is filled, usually by beeping. Remove the test strip from the blood. Put the device and the strip aside until the reading is complete.</procedureInfo>
+<procedureInfo secId="2" spotId="26" slideimage="/446/446-26b.gif" image="/446/446-26.gif">Wipe the puncture site with a clean, dry facial tissue and use the tissue to hold pressure on the puncture site until the bleeding stops.</procedureInfo>
+<procedureInfo secId="2" spotId="27" slideimage="/446/446-27b.gif" image="/446/446-27.gif">Remove the end-cap from the lancing device and remove the used lancet.</procedureInfo>
+<procedureInfo secId="2" spotId="28" slideimage="/446/446-28b.gif" image="/446/446-28.gif">Replace the used lancet back into the protective cap by pushing it into the open end of the cap which is placed on a firm, flat surface like a counter top.</procedureInfo>
+<procedureInfo secId="2" spotId="29" slideimage="/446/446-29b.gif" image="/446/446-29.gif">Once the blood sugar reading on the meter is complete, use the tissue to grasp the test strip and pull it out of the meter. This usually turns the meter off.</procedureInfo>
+<procedureInfo secId="2" spotId="30" slideimage="/446/446-30b.gif" image="/446/446-30.gif">Discard the lancet in its protective cover and the used strip into a glass or puncture-proof container with a screw top or a "Sharps" Container purchased from your local pharmacy. Replace the cap on the container. When the container is full, cap it and discard it into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="31" slideimage="/446/446-31b.gif" image="/446/446-31.gif">&lt;UL&gt;&lt;LI&gt;Clean the lancing device weekly according to the manufacturer's instructions. 
+&lt;/LI&gt;&lt;LI&gt;Only use a lancet once. 
+&lt;/LI&gt;&lt;LI&gt;Do not use the same end-cap on another person. 
+&lt;/LI&gt;&lt;LI&gt;Teach another person to use the whole system so that you have a backup when you need assistance.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Glucose testing meter&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;A packet of test strips&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;An automatic lancing device&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Facial tissue&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;A glass or puncture-proof container with a screw top or a "Sharps" Container&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;Wastebasket&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

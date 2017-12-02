@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Emptying a Urinary Drainage Bag</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Emptying a Urinary Drainage Bag</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>438</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/438/audio_438.mov"  audioMapWM="/438/audio_438.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/438/video_438.mov" videoMapWM="/438/video_438.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/438/438-01b.gif" image="/438/438-01.gif">The drainage bag should be emptied at least daily, more often if it fills,</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/438/438-02b.gif" image="/438/438-02.gif">&lt;UL&gt;&lt;LI&gt;In order to prevent infection in the system,
+&lt;/LI&gt;&lt;LI&gt;Reduce odors
+&lt;/LI&gt;&lt;LI&gt;And keep the system open and flowing.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/438/438-03b.gif" image="/438/438-03.gif">To empty the drainage bag, the following steps should always be followed: Carefully wash and then dry your hands with a paper towel. Discard the towel into a plastic lined wastebasket. </procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/438/438-04b.gif" image="/438/438-04.gif">On a tray covered with clean paper towels, assemble the following equipment:
+&lt;UL&gt;&lt;LI&gt;A large plastic or glass container.
+&lt;/LI&gt;&lt;LI&gt;A large plastic sealable storage bag.
+&lt;/LI&gt;&lt;LI&gt;Disposable gloves.
+&lt;/LI&gt;&lt;LI&gt;Paper towels.
+&lt;/LI&gt;&lt;/UL&gt;
+&lt;p&gt;Place the tray on a stable surface adjacent to the bed.&lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/438/438-05b.gif" image="/438/438-05.gif">Carefully wash your hands. Dry them with a paper towel. Discard the paper towel into a wastebasket.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/438/438-06b.gif" image="/438/438-06.gif">Put on disposable gloves. If you are emptying your own bag, there is no need to use gloves.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/438/438-07b.gif" image="/438/438-07.gif">Place the container under the drainage bag. Remove the drain from its holder,</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/438/438-08b.gif" image="/438/438-08.gif">point it into the container and release the clamp on the drain to allow the urine to flow into the container. Do not allow the drain to touch the container or anything else.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/438/438-09b.gif" image="/438/438-09.gif">When the drainage bag is empty, close the drain. Replace the drain in its holder at the base of the drainage bag. </procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/438/438-10b.gif" image="/438/438-10.gif">Check that the catheter and tubes are in place.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/438/438-11b.gif" image="/438/438-11.gif">Take the equipment tray and the container of urine into the bathroom. If your doctor or nurse has asked you to record the amount of urine, measure and make a note of it now. </procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/438/438-12b.gif" image="/438/438-12.gif">Discard the urine down the toilet and clean the container with liquid soap and water. Dry it thoroughly with a paper towel and discard the towel into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/438/438-13b.gif" image="/438/438-13.gif">Remove your gloves and discard them into the plastic storage bag. Seal the bag and put it into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/438/438-14b.gif" image="/438/438-14.gif">Wash and dry your hands. Discard the paper towel into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/438/438-15b.gif" image="/438/438-15.gif">Some patients are able to wear a leg bag during the day to allow them to walk about. Then the larger drainage bag has been disconnected from the catheter. </procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/438/438-16b.gif" image="/438/438-16.gif">The bag can be unhooked from the bed frame, carried into the bathroom and emptied directly into the toilet. </procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Tray&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;A large plastic or glass container&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;A large plastic sealable storage bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Disposable gloves&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;Paper towels&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;Wastebasket&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

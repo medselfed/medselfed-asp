@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Bariatric Surgeries</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/bar_surg.gif" />
+<centerElement prodId="444" prodImage="/image/444/444.gif">Gastric Bypass (Laparoscopic)</centerElement>
+<centerElement prodId="480" prodImage="/image/480/480.gif">Gastric Bypass - (Open)</centerElement>
+<centerElement prodId="481" prodImage="/image/481/481.gif">Gastric - Adjustable Band Surgery</centerElement>
+<centerElement prodId="337" prodImage="/image/337/337.gif">Laparoscopy Diagnostic</centerElement>
+<centerElement prodId="336" prodImage="/image/336/336.gif">Open Surgery General</centerElement>
+</preopData>

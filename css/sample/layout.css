@@ -1,0 +1,74 @@
+/* CSS Document */
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(/image/000/gray_sample.gif);
+	background-repeat: repeat;
+}
+
+img.prodSlide {
+	border-top-width: 1px;
+	border-top-color: #999999;
+	border-top-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #999999;
+	border-bottom-style: solid;
+	border-right-width: 1px;
+	border-right-color: #999999;
+	border-right-style: solid;
+	border-left-width: 1px;
+	border-left-color: #999999;
+	border-left-style: solid;
+}
+
+div.divContHeader {
+	position: relative; visibility: visible; top: 0; left:0; z-index: 8; 
+}
+
+div.divContQuestions {
+	position: relative; visibility: visible; top: 0; left:0; z-index: 8;
+}
+
+div.divQuestion {
+	position: absolute; visibility: hidden; top: 25px; left: 0px; z-index: 7; 
+}
+
+div.backImg {
+	position: absolute; visibility: visible; top: 0px; left: 0px; z-index: 7; 
+}
+
+div.divContNav {
+	position: absolute; visibility: hidden; top: 0; left:0; z-index: 12;
+}
+
+div.navHeader {
+	position: relative; visibility: visible; top: 0px; left: 0px; z-index: 12;
+}
+
+div.navDrop {
+	position: relative; visibility: hidden; top: 1px; left: 0px; z-index: 11;
+}
+
+div.divContBody {
+	position: relative; visibility: visible; background-color: #FFFFFF; top: 0; width: 250; z-index: 5;
+}
+
+div.bodyDivWelcome {
+	position: absolute; visibility: visible; background-color: #FFFFFF; top: 10; width: 250;
+}
+
+div.bodyDivHead {
+	position: absolute; visibility: hidden; background-color: #FFFFFF; top: 30px; width: 250;
+}
+
+div.bodyDivBreast {
+	position: absolute; visibility: hidden; background-color: #FFFFFF; top: 60px; width: 250;
+}
+
+div.bodyDivAbs {
+	position: absolute; visibility: hidden; background-color: #FFFFFF; top: 30px; width: 250;
+}
+
+div.bodyDivLeg {
+	position: absolute; visibility: hidden; background-color: #FFFFFF; top: 270px; width: 250;
+}

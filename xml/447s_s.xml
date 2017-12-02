@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Como Almacenar la Insulina</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Como Almacenar la Insulina</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>447s_s</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/447s_s/audio_447s_s.mov"  audioMapWM="/447s_s/audio_447s_s.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/447s_s/video_447s_s.mov" videoMapWM="/447s_s/video_447s_s.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/447s_s/447s-01b_s.gif" image="/447s_s/447s-01_s.gif">La forma como almacenes tu insulina antes y después de que abras un frasco ó cartucho es lo más importante.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/447s_s/447s-02b_s.gif" image="/447s_s/447s-02_s.gif">Insulinas sin abrir son: 
+&lt;UL&gt;&lt;LI&gt;mejor conservadas en el refrigerador. 
+&lt;/LI&gt;&lt;LI&gt;este ofrece una temperatura constante.
+&lt;/LI&gt;&lt;LI&gt;y pueden ser almacenadas hasta la fecha de expiración la cual es mostrada en el frasco ó bolígrafo de insulina.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/447s_s/447s-03b_s.gif" image="/447s_s/447s-03_s.gif">&lt;UL&gt;&lt;LI&gt;Si  frascos o bolígrafos de insulina sin abrir  son almacenados a temperatura ambiente, ellos pueden ser conservados solo por períodos limitados de tiempo.
+&lt;/LI&gt;&lt;LI&gt;Estudie y siga las instrucciones del fabricante en todo momento.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/447s_s/447s-04b_s.gif" image="/447s_s/447s-04_s.gif">Frascos abiertos son:
+&lt;UL&gt;&lt;LI&gt;Mejor almacenados en el refrigerador porque ofrece una temperatura constante. 
+&lt;/LI&gt;&lt;LI&gt;Ya sea en el refrigerador o no, los frascos abiertos solo pueden ser usados por 28 días.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/447s_s/447s-05b_s.gif" image="/447s_s/447s-05_s.gif">&lt;UL&gt;&lt;LI&gt;Los cartuchos o bolígrafos en uso, ya sea que estén almacenados en el refrigerador o a temperatura ambiente, solo pueden ser empleados  por un período limitado de tiempo.
+&lt;/LI&gt;&lt;LI&gt;Siga las instrucciones del fabricante.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Refrigerador&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

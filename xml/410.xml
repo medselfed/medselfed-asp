@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Closed Urinary Drainage System</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Closed Urinary Drainage System</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>410</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/410/audio_410.mov"  audioMapWM="/410/audio_410.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/410/video_410.mov" videoMapWM="/410/video_410.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/410/410-01b.gif" image="/410/410-01.gif">A closed urinary drainage system ...</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/410/410-02b.gif" image="/410/410-02.gif">...consists of a catheter inserted into the urinary bladder and connected via tubing to a drainage bag. The catheter is retained in the bladder by an inflated balloon. The drainage of urine is totally dependent on gravity. Therefore, tubing and the drainage bag, to collect urine, must always be below the level of the bladder.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/410/410-03b.gif" image="/410/410-03.gif">As a caregiver, your responsibilities to a patient with a closed urinary drainage system, are: 
+&lt;UL&gt;&lt;LI&gt;to ensure that the patient drinks at least 8 glasses of water daily, unless on fluid restriction;&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/410/410-04b.gif" image="/410/410-04.gif">&lt;UL&gt;&lt;LI&gt;to ensure that the catheter and tubes are in a good position and open to allow urine to flow freely into the drainage bag ...&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/410/410-05b.gif" image="/410/410-05.gif">&lt;UL&gt;&lt;LI&gt;and to keep the body opening where the catheter enters the patient clean and free from secretions.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/410/410-06b.gif" image="/410/410-06.gif">&lt;UL&gt;&lt;LI&gt;For an adult, a minimum of 8 glasses of clear water daily is essential.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/410/410-07b.gif" image="/410/410-07.gif">Ensure that the catheter and drainage tube are connected and that there is sufficient slack in the tube, between the body and thigh, to allow the patient to move the thigh without pulling on the catheter.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/410/410-08b.gif" image="/410/410-08.gif">The drainage tube should be attached to the bottom bed sheet by a fabric tie around the tubes and a safety pin, or by a clip if one is provided.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/410/410-09b.gif" image="/410/410-09.gif">The drainage bag can be attached to the bed frame, should never touch the floor, and should always be kept below the level of the patient's bladder.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/410/410-10b.gif" image="/410/410-10.gif">The drainage bag should be emptied at least daily, more often if it fills, in order to: 
+&lt;UL&gt;&lt;LI&gt;prevent infection in the system, 
+&lt;/LI&gt;&lt;LI&gt;reduce odors and 
+&lt;/LI&gt;&lt;LI&gt;keep the system open and flowing.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/410/410-11b.gif" image="/410/410-11.gif">To empty the drainage bag, the following steps should always be followed: Carefully wash and then dry your hands, with a paper towel. Discard the towel into a plastic lined waste basket.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/410/410-12b.gif" image="/410/410-12.gif">On a tray covered with clean paper towels, assemble the following equipment: 
+&lt;UL&gt;&lt;LI&gt;A large plastic or glass container
+&lt;/LI&gt;&lt;LI&gt;A large plastic sealable storage bag
+&lt;/LI&gt;&lt;LI&gt;Disposable gloves
+&lt;/LI&gt;&lt;LI&gt;Achohol wipes
+&lt;/LI&gt;&lt;LI&gt;Paper towels
+&lt;/LI&gt;&lt;/UL&gt;
+&lt;p&gt;and place the tray on a stable surface adjacent to the bed.&lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/410/410-13b.gif" image="/410/410-13.gif">Carefully wash your hands. Dry them with a paper towel. Discard the paper towel into a wastebasket.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/410/410-14b.gif" image="/410/410-14.gif">Put on your disposable gloves.</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/410/410-15b.gif" image="/410/410-15.gif">Place the container under the drainage bag. Remove the drain from its holder, point it into the container and release the clamp on the drain to allow the urine to flow into the container. Do not allow the drain to touch the container or anything else.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/410/410-16b.gif" image="/410/410-16.gif">When the drainage bag is empty, close the drain, wipe the end of the drain with an achohol wipe and replace the drain in its holder at the base of the drainage bag. Discard the achohol wipe into the plastic storage bag. </procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/410/410-17b.gif" image="/410/410-17.gif">Check that the catheter and tubes are in place.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/410/410-18b.gif" image="/410/410-18.gif">Take the equipment tray and the container of urine into the bathroom. If your doctor or nurse has asked you to record the amount of urine, measure and make a note of it now. Discard the urine down the toilet ...</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/410/410-19b.gif" image="/410/410-19.gif">...and clean the container with liquid soap and water.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/410/410-20b.gif" image="/410/410-20.gif">Remove the gloves and discard them into the plastic storage bag.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/410/410-21b.gif" image="/410/410-21.gif">Seal the bag and put it into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/410/410-22b.gif" image="/410/410-22.gif">Wash and dry your hands. Discard the paper towel into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/410/410-23b.gif" image="/410/410-23.gif">Once each day, or according to your doctor's instructions, you will need to clean the urethral meatus - the opening where the catheter enters the body. </procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Tray&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;A large plastic or glass container&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;A large plastic sealable storage bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Disposable gloves&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;Achohol wipes&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;Paper towels&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

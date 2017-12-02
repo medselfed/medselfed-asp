@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Urinary Care Center</pageHeader>
+<siteId>postcare</siteId>
+<startImage src="/image/center/urinary.gif" />
+<centerElement prodId="410" prodImage="/image/410/410.gif">Closed Urinary Drainage System</centerElement>
+<centerElement prodId="442mr" prodImage="/image/442mr/442mr.gif">Male Intermittent Self-Catheterization Single Use Catheters</centerElement>
+<centerElement prodId="442fr" prodImage="/image/442fr/442fr.gif">Female Intermittent Self-Catheterization Single Use Catheters</centerElement>
+<centerElement prodId="442m" prodImage="/image/442m/442m.gif">Male Intermittent Self-Catheterization</centerElement>
+<centerElement prodId="442f" prodImage="/image/442f/442f.gif">Female Intermittent Self-Catheterization</centerElement>
+<centerElement prodId="390" prodImage="/image/390/390.gif">Caring for a Male External Urinary Collecting System</centerElement>
+<centerElement prodId="438" prodImage="/image/438/438.gif">Emptying a Urinary Drainage Bag</centerElement>
+<centerElement prodId="418" prodImage="/image/418/418.gif">Care and Drainage of a Leg Bag</centerElement>
+<centerElement prodId="443" prodImage="/image/443/443.gif">Recording Urine Output</centerElement>
+<centerElement prodId="441" prodImage="/image/441/441.gif">Care of Suprapubic Catheter</centerElement>
+</preopData>

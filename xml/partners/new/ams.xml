@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<partnerId>ams</partnerId>
+<name>AMSURG</name>
+<headerType>true</headerType>
+<headerName>PreOp Patient Education</headerName>
+<cssDir>/css/preop</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>true</showads>
+<questions>1</questions>
+<navlink navlinkId="homepo" url="/asp/home.asp?siteId=preop">Home</navlink>
+<navlink navlinkId="body" url="/asp/body.asp?sexId=male">Gender</navlink>
+<navlink navlinkId="center" url="/asp/center.asp?centerId=heart">Centers</navlink>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="search" url="/asp/search.asp?siteId=preop">Search</navlink>
+<navlink navlinkId="help" url="/asp/help1.asp?siteId=preop">Help</navlink>
+<navdrop navdropId="malebody" navlinkId="body" url="/asp/body.asp?sexId=male">Male Body</navdrop>
+<navdrop navdropId="heart" navlinkId="center" url="/asp/center.asp?centerId=heart">Cardiology Center</navdrop>
+<navdrop navdropId="femalebody" navlinkId="body" url="/asp/body.asp?sexId=female">Female Body</navdrop>
+<navdrop navdropId="womens" navlinkId="center" url="/asp/center.asp?centerId=womens">Womens Center</navdrop>
+<navdrop navdropId="lap" navlinkId="center" url="/asp/center.asp?centerId=lap">Minimal Surgery</navdrop>
+<navdrop navdropId="ortho" navlinkId="center" url="/asp/center.asp?centerId=ortho">Orthopedic Center</navdrop>
+<navdrop navdropId="onco" navlinkId="center" url="/asp/center.asp?centerId=onco">Oncology Center</navdrop>
+<centerLink siteId="preop" centerId="heart">Cardiology Center</centerLink>
+<centerLink siteId="preop" centerId="womens">Women's Center</centerLink>
+<centerLink siteId="preop" centerId="onco">Oncology Center</centerLink>
+<centerLink siteId="preop" centerId="lap">Minimal Surgery Center</centerLink>
+<centerLink siteId="preop" centerId="ortho">Orthopedic Center</centerLink>
+<centerLink siteId="postcare" centerId="basic">Basic Tasks Center</centerLink>
+<centerLink siteId="postcare" centerId="urinary">Urinary Care Center</centerLink>
+<centerLink siteId="postcare" centerId="diabetes">Diabetes Series</centerLink>
+<prodLink siteId="preop" prodId="348">Arthroscopic Surgery Meniscus - Repair of Knee</prodLink>
+<prodLink siteId="preop" prodId="342">Carpal Tunnel Syndrome Repair</prodLink>
+<prodLink siteId="preop" prodId="341">Cataract Small Incision</prodLink>
+<prodLink siteId="preop" prodId="353">Endoscopy of Large Intestine</prodLink>
+<prodLink siteId="preop" prodId="354">GI Endoscopy - Upper GI</prodLink>
+</preopData>

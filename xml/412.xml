@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Gloving</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Gloving</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>412</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/412/audio_412.mov"  audioMapWM="/412/audio_412.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/412/video_412.mov" videoMapWM="/412/video_412.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/412/412-01b.gif" image="/412/412-01.gif">Your correct use of disposable, non-sterile gloves </procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/412/412-02b.gif" image="/412/412-02.gif">&lt;UL&gt;&lt;LI&gt;helps prevent the spread of infection and
+&lt;/LI&gt;&lt;LI&gt;protects both you, the caregiver, and
+&lt;/LI&gt;&lt;LI&gt;the person receiving care, your patient.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/412/412-03b.gif" image="/412/412-03.gif">The gloves used most often are made of latex, are powder-free and are easy to put on and take off. They are used once only and then discarded.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/412/412-04b.gif" image="/412/412-04.gif">Gloves are not worn all the time when giving care. Touching your patient with bare hands:
+&lt;UL&gt;&lt;LI&gt;shows love and respect,
+&lt;/LI&gt;&lt;LI&gt;sends a message of caring and acceptance,
+&lt;/LI&gt;&lt;LI&gt;and provides comfort.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/412/412-05b.gif" image="/412/412-05.gif">Gloves should always be worn if contact is likely to occur with:
+&lt;UL&gt;&lt;LI&gt;blood
+&lt;/LI&gt;&lt;LI&gt;body fluids
+&lt;/LI&gt;&lt;LI&gt;excretions such as urine or feces
+&lt;/LI&gt;&lt;LI&gt;mucous membranes such as in the mouth or genitalia
+&lt;/LI&gt;&lt;LI&gt;or non-intact skin.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/412/412-06b.gif" image="/412/412-06.gif">Before you put gloves on, carefully wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/412/412-07b.gif" image="/412/412-07.gif">Pull a glove out of the box with one hand ...</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/412/412-08b.gif" image="/412/412-08.gif">... and slide it onto your other hand.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/412/412-09b.gif" image="/412/412-09.gif">With your gloved hand, pull another glove out of the box ...</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/412/412-10b.gif" image="/412/412-10.gif">... and slide it onto your bare hand.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/412/412-11b.gif" image="/412/412-11.gif">Interlace your fingers to make the gloves fit smoothly and comfortably.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/412/412-12b.gif" image="/412/412-12.gif">You should remove your gloves immediately when:
+&lt;UL&gt;&lt;LI&gt;the patient care procedure is complete
+&lt;/LI&gt;&lt;LI&gt;if the gloves are heavily soiled
+&lt;/LI&gt;&lt;LI&gt;if a glove is torn.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/412/412-13b.gif" image="/412/412-13.gif">&lt;UL&gt;&lt;LI&gt;after you have touched your patients secretions or excretions
+&lt;/LI&gt;&lt;LI&gt;before touching another part of the body
+&lt;/LI&gt;&lt;LI&gt;before touching any clean surface or object.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/412/412-14b.gif" image="/412/412-14.gif">When you remove your gloves, your intent is to avoid touching the contaminated surfaces of the gloves with your bare hands.  To take off your gloves firmly grip one glove at the base of the palm ...</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/412/412-15b.gif" image="/412/412-15.gif">...  and pull it off inside out. Keep holding it in the palm of your gloved hand.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/412/412-16b.gif" image="/412/412-16.gif">Slip your bare fingers under the wrist of the remaining glove without touching its surface.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/412/412-17b.gif" image="/412/412-17.gif">Push the glove down and off with the first glove tucked inside it.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/412/412-18b.gif" image="/412/412-18.gif">One glove is now inside the other and both are inside out..</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/412/412-19b.gif" image="/412/412-19.gif">Drop the bundle of gloves into a sealable plastic storage bag and seal it tightly.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/412/412-20b.gif" image="/412/412-20.gif">Drop the sealed bag into the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/412/412-21b.gif" image="/412/412-21.gif">Carefully, wash and dry your hands.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;A box of disposable, non-sterile gloves.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;A sealable plastic storage bag.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Waste receptacle.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

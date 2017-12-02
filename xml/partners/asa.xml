@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<partnerId>asa</partnerId>
+<name>Advanced Surgical</name>
+<headerType>true</headerType>
+<headerName>Advanced Surgical Education</headerName>
+<cssDir>/css/main</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>false</showads>
+<questions>0</questions>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="search" url="/asp/search.asp?siteId=preop">Search</navlink>
+<navlink navlinkId="help" url="/asp/help1.asp?siteId=preop">Help</navlink>
+<centerLink siteId="postcare" centerId="basic">Basic PostCare Tasks</centerLink>
+<centerLink siteId="preop" centerId="advan">Advanced Surgical Education</centerLink>
+<prodLink siteId="preop" prodId="357">Anti-Reflux Laparoscopy</prodLink>
+<prodLink siteId="postcare" prodId="454">Assist with Shower</prodLink>
+<prodLink siteId="postcare" prodId="424">Assist with Tub Bath</prodLink>
+<prodLink siteId="postcare" prodId="422">Assisting with Feeding</prodLink>
+<prodLink siteId="preop" prodId="338">Biopsy Surgery General Surgery</prodLink>
+<prodLink siteId="preop" prodId="332">Breast Biopsy Incisional</prodLink>
+<prodLink siteId="preop" prodId="333">Breast Biopsy Needle</prodLink>
+<prodLink siteId="preop" prodId="334">Breast Biopsy Wire Guide</prodLink>
+<prodLink siteId="postcare" prodId="453">Female Perineal Wash</prodLink>
+<prodLink siteId="preop" prodId="343">Gallbladder Laparoscopic Cholecystectomy</prodLink>
+<prodLink siteId="postcare" prodId="417">Getting Out of Bed After Abdominal or Chest Surgery</prodLink>
+<prodLink siteId="postcare" prodId="412">Gloving</prodLink>
+<prodLink siteId="postcare" prodId="411">Handwashing</prodLink>
+<prodLink siteId="preop" prodId="351">Hernia - Hiatal Laparoscopic</prodLink>
+<prodLink siteId="preop" prodId="389">Hernia - Hiatal Open Repair</prodLink>
+<prodLink siteId="preop" prodId="360">Hernia Repair Inguinal (Laparoscopic)</prodLink>
+<prodLink siteId="preop" prodId="335">Hernia Repair Inguinal (Open)</prodLink>
+<prodLink siteId="postcare" prodId="452">Male Perineal Wash</prodLink>
+<prodLink siteId="preop" prodId="405">Mastectomy Modified Radical</prodLink>
+<prodLink siteId="preop" prodId="407">Mastectomy Radical</prodLink>
+<prodLink siteId="preop" prodId="403">Mastectomy Total</prodLink>
+<prodLink siteId="postcare" prodId="425">Subcutaneous Injection</prodLink>
+<prodLink siteId="postcare" prodId="428">Use of Peak Flow Meter</prodLink>
+<prodLink siteId="postcare" prodId="434">Using a Transfer Belt</prodLink>
+<prodLink siteId="postcare" prodId="420">Wound Care</prodLink>
+</preopData>

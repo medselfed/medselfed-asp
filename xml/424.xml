@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Assist with Tub Bath</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Assist with Tub Bath</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>424</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/424/audio_424.mov"  audioMapWM="/424/audio_424.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/424/video_424.mov" videoMapWM="/424/video_424.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/424/424-01b.gif" image="/424/424-01.gif">The supplies you will need to have easily accessible in the bathroom include:</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/424/424-02b.gif" image="/424/424-02.gif">&lt;UL&gt;&lt;LI&gt;Clean clothing
+&lt;/LI&gt;&lt;LI&gt;skid-proof plastic bath mat
+&lt;/LI&gt;&lt;LI&gt;2 washcloths
+&lt;/LI&gt;&lt;LI&gt;2 towels&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/424/424-03b.gif" image="/424/424-03.gif">&lt;UL&gt;&lt;LI&gt;soap
+&lt;/LI&gt;&lt;LI&gt;shampoo
+&lt;/LI&gt;&lt;LI&gt;plastic pitcher
+&lt;/LI&gt;&lt;LI&gt;skin lotion&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/424/424-04b.gif" image="/424/424-04.gif">&lt;UL&gt;&lt;LI&gt;comb and brush
+&lt;/LI&gt;&lt;LI&gt;disposable gloves 
+&lt;/LI&gt;&lt;LI&gt;and a sealable plastic storage bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/424/424-05b.gif" image="/424/424-05.gif">Ensure that the bathroom is pleasantly warm, around 70�. Place the skid-proof plastic bath mat in the tub and fill one-third of the tub with warm water. Test the temperature of the water with your hand.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/424/424-06b.gif" image="/424/424-06.gif">Wash and carefully dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/424/424-07b.gif" image="/424/424-07.gif">Put on your disposable gloves.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/424/424-08b.gif" image="/424/424-08.gif">Help your patient undress and place soiled clothing in the plastic bag in the laundry hamper.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/424/424-09b.gif" image="/424/424-09.gif">Help your patient sit on the edge of the tub. If there is a grab bar on the back wall of the tub, have the patient hold it with one hand.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/424/424-10b.gif" image="/424/424-10.gif">Swivel and lift both legs into the tub.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/424/424-11b.gif" image="/424/424-11.gif">From the back, support your patient under both arms and help him slowly lower his body into the water.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/424/424-12b.gif" image="/424/424-12.gif">Encourage your patient's independence and have him do as much of the washing as possible.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/424/424-13b.gif" image="/424/424-13.gif">You may need to assist in such areas as the patient's back and to rinse off all soap with the shower extension or a pitcher.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/424/424-14b.gif" image="/424/424-14.gif">If it's shampoo time and the patient cannot do it himself,</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/424/424-15b.gif" image="/424/424-15.gif">you can have him hold a dry, folded washcloth over his eyes to protect them.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/424/424-16b.gif" image="/424/424-16.gif">Pour clean, warm water over the patient's head using a pitcher or a shower extension.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/424/424-17b.gif" image="/424/424-17.gif">Rub in shampoo and massage the patient's head.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/424/424-18b.gif" image="/424/424-18.gif">Rinse off the shampoo with clean warm water using a pitcher or a shower extension</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/424/424-19b.gif" image="/424/424-19.gif">Dry the hair.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/424/424-20b.gif" image="/424/424-20.gif">If possible have the patient stand and help him dry his upper body. Otherwise, dry his upper body and arms with him sitting in the tub.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/424/424-21b.gif" image="/424/424-21.gif">Let the water out of the tub.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/424/424-22b.gif" image="/424/424-22.gif">With the towel over his upper body, help the patient sit on the edge of the tub.</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/424/424-23b.gif" image="/424/424-23.gif">Support the patient and help him swivel his legs over the edge of the tub. He can rest for a while, if need be.</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/424/424-24b.gif" image="/424/424-24.gif">Help dry the rest of the body, paying attention to under the arms and other skin creases and between the toes.</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/424/424-25b.gif" image="/424/424-25.gif">Apply body lotion to the skin and help the patient dress.</procedureInfo>
+<procedureInfo secId="2" spotId="26" slideimage="/424/424-26b.gif" image="/424/424-26.gif">After making your patient comfortable, return to the bathroom, place soiled towels and washcloths in the laundry bag, clean the tub and mop the floor.</procedureInfo>
+<procedureInfo secId="2" spotId="27" slideimage="/424/424-27b.gif" image="/424/424-27.gif">Remove your gloves, discard them into a plastic storage bag. Seal the bag and place it in the trash.</procedureInfo>
+<procedureInfo secId="2" spotId="28" slideimage="/424/424-28b.gif" image="/424/424-28.gif">Carefully wash and dry your hands.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Clean clothing&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Skid-proof plastic bath mat&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Two (2) washcloths&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Two (2) towels&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;Soap&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="6" >&lt;UL&gt;&lt;LI&gt;Shampoo&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="7" >&lt;UL&gt;&lt;LI&gt;Plastic pitcher&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="8" >&lt;UL&gt;&lt;LI&gt;Skin lotion&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="9" >&lt;UL&gt;&lt;LI&gt;Comb and Brush&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="10" >&lt;UL&gt;&lt;LI&gt;Disposable gloves&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="11" >&lt;UL&gt;&lt;LI&gt;A sealable plastic storage bag&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

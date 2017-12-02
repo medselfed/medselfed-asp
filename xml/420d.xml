@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Wound Care</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Wound Care</pageTitle>
+<directory templateDir="/asp" image="/imagex" videoMedia="/media" audioMedia="/media" slideimage="/imagex" />
+<prodId>420d</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/420d/audio_420d.mov"  audioMapWM="/420d/audio_420d.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/420d/video_420d.mov" videoMapWM="/420d/video_420d.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/420d/420d-01b.gif" image="/420d/420d-01.gif">Wound Care</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/420d/420d-02b.gif" image="/420d/420d-02.gif">The equipment you will need to assemble includes:</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/420d/420d-03b.gif" image="/420d/420d-03.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;2 pairs of clean disposable gloves&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/420d/420d-04b.gif" image="/420d/420d-04.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;cleansing solution&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/420d/420d-05b.gif" image="/420d/420d-05.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;small gauze pads for cleaning&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/420d/420d-06b.gif" image="/420d/420d-06.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;large gauze pads for dressing the wound&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/420d/420d-07b.gif" image="/420d/420d-07.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;adhesive tape&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/420d/420d-08b.gif" image="/420d/420d-08.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;a large sealable plastic bag.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/420d/420d-09b.gif" image="/420d/420d-09.gif">&lt;p&gt; &lt;ul&gt; &lt;li&gt;You can order this equipment kit by clicking the DeRoyal icon to your left.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/420d/420d-10b.gif" image="/420d/420d-10.gif">Carefully, wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/420d/420d-11b.gif" image="/420d/420d-11.gif">Put on your gloves.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/420d/420d-12b.gif" image="/420d/420d-12.gif">The first step is to remove the old dressing</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/420d/420d-13b.gif" image="/420d/420d-13.gif">Loosen the edges of the tapes and peel the tapes off the skin by pulling them towards the wound,</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/420d/420d-14b.gif" image="/420d/420d-14.gif">keeping the skin taut with the other hand</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/420d/420d-15b.gif" image="/420d/420d-15.gif">Lift the tapes and the dressing off together. Note any odor and the color of any drainage on the dressing.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/420d/420d-16b.gif" image="/420d/420d-16.gif">Discard the dressing and tapes into the plastic bag</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/420d/420d-17b.gif" image="/420d/420d-17.gif">If the dressing sticks to the wound, pour a little cleansing solution onto the dressing and let it sit for a minute.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/420d/420d-18b.gif" image="/420d/420d-18.gif">Gently pull the dressing off, keeping the skin taut above the wound</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/420d/420d-19b.gif" image="/420d/420d-19.gif">&lt;p&gt;Look carefully at the wound. Any of the following should be reported immediately to your doctor or nurse:&lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;li&gt;redness of the wound or surrounding skin&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;li&gt;drainage from the wound, particularly if it's yellow and smells&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;li&gt;any bleeding&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;li&gt;swelling of the skin around the wound&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;li&gt;separation of the edges of a sutured wound&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;
+&lt;p&gt; &lt;ul&gt; &lt;li&gt;or maceration, a waterlogged appearance of the edges of the wound.&lt;/li&gt; &lt;/ul&gt; &lt;/p&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/420d/420d-20b.gif" image="/420d/420d-20.gif">Pour some cleansing solution onto a small gauze pad, squeeze out the surplus solution and,</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/420d/420d-21b.gif" image="/420d/420d-21.gif">with one stroke, clean the wound from top to bottom. Discard the gauze pad into the plastic bag.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/420d/420d-22b.gif" image="/420d/420d-22.gif">Using a fresh gauze pad with cleansing solution for each stroke,</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/420d/420d-23b.gif" image="/420d/420d-23.gif">work away from the wound to clean the skin for about three inches from the wound on either side. Stroke from top to bottom and discard each gauze pad into the plastic bag.</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/420d/420d-24b.gif" image="/420d/420d-24.gif">Remove your gloves</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/420d/420d-25b.gif" image="/420d/420d-25.gif">and discard them into the plastic bag.</procedureInfo>
+<procedureInfo secId="2" spotId="26" slideimage="/420d/420d-26b.gif" image="/420d/420d-26.gif">Wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="27" slideimage="/420d/420d-27b.gif" image="/420d/420d-27.gif">Open the package with the large gauze dressing.</procedureInfo>
+<procedureInfo secId="2" spotId="28" slideimage="/420d/420d-28b.gif" image="/420d/420d-28.gif">Put on clean gloves.</procedureInfo>
+<procedureInfo secId="2" spotId="29" slideimage="/420d/420d-29b.gif" image="/420d/420d-29.gif">Pick up the gauze dressing, holding it only at two diagonally opposite corners</procedureInfo>
+<procedureInfo secId="2" spotId="30" slideimage="/420d/420d-30b.gif" image="/420d/420d-30.gif">Center the gauze pad over the wound and place it on the wound.</procedureInfo>
+<procedureInfo secId="2" spotId="31" slideimage="/420d/420d-31b.gif" image="/420d/420d-31.gif">Tape the dressing securely in place.</procedureInfo>
+<procedureInfo secId="2" spotId="32" slideimage="/420d/420d-32b.gif" image="/420d/420d-32.gif">Remove your gloves and discard them into the plastic bag. Seal the bag securely and discard it into the trash</procedureInfo>
+<procedureInfo secId="2" spotId="33" slideimage="/420d/420d-33b.gif" image="/420d/420d-33.gif">Wash and dry your hands.</procedureInfo>
+<procedureInfo secId="2" spotId="34" slideimage="/420d/420d-34b.gif" image="/420d/420d-34.gif">If your skin is sensitive to the adhesive on the tape, hypoallergenic tape can be bought at your surgical supply store or bandages or binders can be used to hold the dressing in place. Consult with your doctor or nurse</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Liquid soap from a dispenser.&lt;/LI&gt;&lt;LI&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Paper towels&lt;/LI&gt;&lt;LI&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Waste receptacle&lt;/LI&gt;&lt;LI&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" ></procedureInfo>
+<procedureInfo secId="3" spotId="5" ></procedureInfo>
+<procedureInfo secId="3" spotId="6" ></procedureInfo>
+<procedureInfo secId="3" spotId="7" ></procedureInfo>
+<procedureInfo secId="3" spotId="8" ></procedureInfo>
+<procedureInfo secId="3" spotId="9" ></procedureInfo>
+<procedureInfo secId="3" spotId="10" ></procedureInfo>
+<procedureInfo secId="3" spotId="11" ></procedureInfo>
+<procedureInfo secId="3" spotId="12" ></procedureInfo>
+<procedureInfo secId="3" spotId="13" ></procedureInfo>
+<procedureInfo secId="3" spotId="14" ></procedureInfo>
+<procedureInfo secId="3" spotId="15" ></procedureInfo>
+<procedureInfo secId="3" spotId="16" ></procedureInfo>
+<procedureInfo secId="3" spotId="17" ></procedureInfo>
+
+
+</preopData>

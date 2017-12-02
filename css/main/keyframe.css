@@ -1,0 +1,126 @@
+/* CSS Document */
+.topdiv {
+	width: 600px;
+	z-index: 100;
+}
+
+.topCap {
+	width: 600px;
+	vertical-align: text-bottom;
+	height: 20px;
+	z-index: 100;
+}
+
+.navBar {
+	width: 600px;
+	vertical-align: text-bottom;
+}
+
+.topHeader {
+	width: 600px;
+	vertical-align: text-bottom;
+}
+
+.bottomCap {
+	width: 600px;
+	vertical-align: text-top;
+	height: 20px;
+}
+
+.centerHead {
+	width: 367px;
+	height: 75px;
+	vertical-align: text-top;
+}
+
+.lrlines {
+z-index: 100;
+	border-top-width: 0px;
+	border-top-color: #999999;
+	border-top-style: none;
+	border-bottom-width: 0px;
+	border-bottom-color: #999999;
+	border-bottom-style: none;
+	border-right-width: 1px;
+	border-right-color: #999999;
+	border-right-style: solid;
+	border-left-width: 1px;
+	border-left-color: #999999;
+	border-left-style: solid;
+	margin: 0px;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+
+.lrtlines {
+z-index: 100;
+	border-top-width: 1px;
+	border-top-color: #999999;
+	border-top-style: solid;
+	border-bottom-width: 0px;
+	border-bottom-color: #999999;
+	border-bottom-style: none;
+	border-right-width: 1px;
+	border-right-color: #999999;
+	border-right-style: solid;
+	border-left-width: 1px;
+	border-left-color: #999999;
+	border-left-style: solid;
+	margin: 0px;
+	color: #000000;
+	background-color: #FFFFFF;
+	vertical-align: bottom;
+}
+
+.nolines {
+	border-top-width: 1px;
+	border-top-color: #FFFFFF;
+	border-top-style: solid;
+	border-bottom-width: 0px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: none;
+	border-right-width: 0px;
+	border-right-color: #FFFFFF;
+	border-right-style: none;
+	border-left-width: 0px;
+	border-left-color: #FFFFFF;
+	border-left-style: none;
+	margin: 0px;
+	color: #000000;
+	vertical-align: bottom;
+}
+
+.lrblines {
+	border-top-width: 0px;
+	border-top-color: #999999;
+	border-top-style: none;
+	border-bottom-width: 1px;
+	border-bottom-color: #999999;
+	border-bottom-style: solid;
+	border-right-width: 1px;
+	border-right-color: #999999;
+	border-right-style: solid;
+	border-left-width: 1px;
+	border-left-color: #999999;
+	border-left-style: solid;
+	margin: 0px;
+	padding: 0px;
+	color: #000000;
+	background-color: #FFFFFF;
+	vertical-align: bottom;
+}
+
+.contentArea {
+z-index: 100;
+	margin: 5px;
+	color: #000000;
+	background-color: #FFFFFF;
+	
+}
+
+.headshim {
+	background-image: url(/image/000/header_shim.gif);
+	background-repeat: repeat;
+	font: bold 24px "Times New Roman", Times, serif; color: #CCCCCC; 
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<partnerId>wpm</partnerId>
+<name>WorldPath Medicine</name>
+<headerType>true</headerType>
+<headerName>Dr. Makeme Feelgood</headerName>
+<cssDir>/css/preop</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>false</postcare>
+<prodLayout>0</prodLayout>
+<showads>true</showads>
+<questions>1</questions>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="search" url="/asp/search.asp?siteId=preop">Search</navlink>
+<navlink navlinkId="help" url="/asp/help1.asp?siteId=preop">Help</navlink>
+<centerLink siteId="preop" centerId="womens">Womens Center</centerLink>
+<prodLink siteId="preop" prodId="332">Breast Biopsy Incisional</prodLink>
+<prodLink siteId="preop" prodId="333">Breast Biopsy Needle</prodLink>
+<prodLink siteId="preop" prodId="334">Breast Biopsy Wire Guide</prodLink>
+<prodLink siteId="preop" prodId="436">Cystoscopy - Female</prodLink>
+<prodLink siteId="preop" prodId="350">Dilation &amp; Curettage of the Uterus</prodLink>
+<prodLink siteId="preop" prodId="349">Hysterectomy Removal of the Uterus</prodLink>
+<prodLink siteId="preop" prodId="368">Hysterectomy: Uterus, Ovaries, and Fallopian</prodLink>
+<prodLink siteId="preop" prodId="405">Mastectomy Modified Radical</prodLink>
+<prodLink siteId="preop" prodId="407">Mastectomy Radical</prodLink>
+<prodLink siteId="preop" prodId="403">Mastectomy Total</prodLink>
+</preopData>

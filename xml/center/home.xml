@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader>PostCare.com Recovery Care Tasks</pageHeader>
+<pageTitle>Welcome to PostCare.com</pageTitle>
+<headImage src="/image/center/center_postcare.gif">PostCare.com Basic Care Center</headImage>
+<!-- headImage src is for the top image on the center page //-->
+<startImage src="/image/center/diabetes.gif">PostCare.com Basic Care Center</startImage>
+<!-- startImage is for the first image showing up in the center //-->
+<centerId>basic</centerId>
+<siteId>postcare</siteId>
+<!-- the centerElement show each procedure within the center //-->
+	<centerElement prodId="center/basic" secId="2" template="/asp/center.asp" textImage="/image/411/411_content.gif" prodImage="/image/411/411.gif">PostCare Basic Care Tasks</centerElement>
+	<centerElement prodId="center/urinary" secId="2" template="/asp/center.asp" textImage="/image/412/412_content.gif" prodImage="/image/412/412.gif">PostCare Urinary Care</centerElement>
+	<centerElement prodId="center/diabetes" secId="2" template="/asp/center.asp" textImage="/image/422/422_content.gif" prodImage="/image/422/422.gif">PostCare Diabetes Series</centerElement>		
+
+</preopData>		

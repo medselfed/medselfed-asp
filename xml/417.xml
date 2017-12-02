@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Getting Out of Bed</pageHeader1>
+<pageHeader2>After Abdominal or Chest Surgery</pageHeader2>
+<pageTitle>Getting Out of Bed</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>417</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/417/audio_417.mov"  audioMapWM="/417/audio_417.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/417/video_417.mov" videoMapWM="/417/video_417.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/417/417-01b.gif" image="/417/417-01.gif">This program provides you with tips to help you get out of bed after abdominal or chest surgery.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/417/417-02b.gif" image="/417/417-02.gif">For the first few days when you come home after surgery, it is always best to have a family member or friend help you to get out of bed.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/417/417-03b.gif" image="/417/417-03.gif">Do not get out of bed directly from lying flat. Always sit up in bed for a few minutes.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/417/417-04b.gif" image="/417/417-04.gif">Move the bedcovers well out of the way. Move nearer to the side of the bed. Pivot your body and legs so that you are sitting with your legs dangling over the side of the bed. Hold the mattress with your hands for support and keep your back straight.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/417/417-05b.gif" image="/417/417-05.gif">Gently swing your legs back and forth, bend and stretch your ankles and twiddle your toes. If you feel faint or weak, go back to bed.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/417/417-06b.gif" image="/417/417-06.gif">Have your helper put on your socks, and shoes or sturdy slippers with low heels and non-slip soles.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/417/417-07b.gif" image="/417/417-07.gif">Use a footstool if the bed is too high for your feet to reach the floor without sliding off the bed.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/417/417-08b.gif" image="/417/417-08.gif">Stand still on the floor with your feet slightly apart for a few seconds.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/417/417-09b.gif" image="/417/417-09.gif">Have your helper put on and fasten your robe.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/417/417-10b.gif" image="/417/417-10.gif">For the first few times out of bed, when you feel strong enough, walk a few steps to a bedside chair with arms.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/417/417-11b.gif" image="/417/417-11.gif">When you reach the chair, turn round so that your calves are touching the front of the chair. </procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/417/417-12b.gif" image="/417/417-12.gif">Bend your knees, grasp both arms of the chair firmly and lower yourself backward into the chair. Reverse the process to get out of the chair.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/417/417-13b.gif" image="/417/417-13.gif">At any time, 
+&lt;UL&gt;&lt;LI&gt;if you feel weak 
+&lt;/LI&gt;&lt;LI&gt;or dizzy 
+&lt;/LI&gt;&lt;LI&gt;or have chest pain, 
+&lt;/LI&gt;&lt;LI&gt;let your helper get you back to bed 
+&lt;/LI&gt;&lt;LI&gt;and inform your doctor.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/417/417-14b.gif" image="/417/417-14.gif">Some additional tips for the helper to follow.
+&lt;UL&gt;&lt;LI&gt;Make sure your own footwear has non-slip soles.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/417/417-15b.gif" image="/417/417-15.gif">&lt;UL&gt;&lt;LI&gt;Remove any hazards from the floor, such as slip rugs, frayed carpet or linoleum, or electric cords.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/417/417-16b.gif" image="/417/417-16.gif">&lt;UL&gt;&lt;LI&gt;Stand at the side of your patient, not directly in front&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/417/417-17b.gif" image="/417/417-17.gif">&lt;UL&gt;&lt;LI&gt;Avoid lifting your patient under the arms. This can cause pain or dislocation of the shoulder joint.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/417/417-18b.gif" image="/417/417-18.gif">&lt;UL&gt;&lt;LI&gt;Never let your patient put arms around your neck&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Socks&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Shoes or Sturdy Slippers (with low heels and non-slip soles)&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Footstool (if the bed is too high)&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="4" >&lt;UL&gt;&lt;LI&gt;Robe&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="5" >&lt;UL&gt;&lt;LI&gt;A bedside chair with arms&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

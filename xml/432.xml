@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<preopData>
+
+<pageHeader1>Insulin Pens</pageHeader1>
+
+<pageHeader2></pageHeader2>
+
+<pageTitle>Insulin Pens</pageTitle>
+
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+
+<prodId>448p</prodId>
+
+<siteId>postcare</siteId>
+
+<phdivision></phdivision>
+
+<!--
+
+Input Task Name
+
+
+
+Do a 'Find & Replace All' with the new Task number
+
+
+
+//-->
+
+
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+
+
+<!--
+
+for bold text use:
+
+&lt;b&gt; B &lt;/b&gt;
+
+equals <b> B </b>
+
+
+
+for paragraphs text use:
+
+&lt;p&gt; all your text &lt;/p&gt;
+
+equals <p> all your text </p>
+
+
+
+for bullets text use:
+
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+
+equals <ul> <li> all your text </li> </ul> 
+
+
+
+//-->
+
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<!-- (2) CARE TASK //-->
+
+
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/448p/audio_448p.mov"  audioMapWM="/448p/audio_448p.wma"/>
+
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/448p/video_448p.mov" videoMapWM="/448p/video_448p.wmv"/>
+
+<topHtml secId="2" spotId="1"></topHtml>
+
+<botHtml secId="2"></botHtml>
+
+<procedureInfo secId="2" spotId="1" slideimage="/448p/448p-01b.gif" image="/448p/448p-01.gif">This program will demonstrate the use of insulin pens.</procedureInfo>
+
+<procedureInfo secId="2" spotId="2" slideimage="/448p/448p-02b.gif" image="/448p/448p-02.gif">The goal is to inject the insulin into the subcutaneous tissue between the top layer of the skin, the dermis and the underlying muscle layer.</procedureInfo>
+
+<procedureInfo secId="2" spotId="3" slideimage="/448p/448p-03b.gif" image="/448p/448p-03.gif">Insulin pens are devices that can provide an easy way to carry and give insulin when away from home. Also, for people who are not comfortable working with syringes and bottles to draw up and measure individual doses, the pens provide a convenient and accurate alternative.</procedureInfo>
+
+<procedureInfo secId="2" spotId="4" slideimage="/448p/448p-04b.gif" image="/448p/448p-04.gif">There are two types of insulin pens: 
+
+&lt;UL&gt;&lt;LI&gt;those that are completely disposable after providing a single dose of insulin&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="5" slideimage="/448p/448p-05b.gif" image="/448p/448p-05.gif">&lt;UL&gt;&lt;LI&gt;and those that use disposable cartridges to provide multiple doses.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="6" slideimage="/448p/448p-06b.gif" image="/448p/448p-06.gif">&lt;UL&gt;&lt;LI&gt;If you use more than one type of insulin, you must use a separate pen for each type. The basic method of use is similar for both pens and there are four main steps to be learned.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="7" slideimage="/448p/448p-07b.gif" image="/448p/448p-07.gif">An insulin pen has three components.
+
+&lt;UL&gt;&lt;LI&gt;A base which contains the mechanism for measuring the correct dose.
+
+&lt;/LI&gt;&lt;LI&gt;A holder for the cartridge of insulin
+
+&lt;/LI&gt;&lt;LI&gt;and a cap, which is removed and replaced by the needle prior to the injection.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="8" slideimage="/448p/448p-08b.gif" image="/448p/448p-08.gif">Follow the manufacturer's instructions to remove the cap, separate the base from the cartridge holder by unscrewing it.</procedureInfo>
+
+<procedureInfo secId="2" spotId="9" slideimage="/448p/448p-09b.gif" image="/448p/448p-09.gif">Rewind the base dose regulating mechanism back to zero and put down the base.</procedureInfo>
+
+<procedureInfo secId="2" spotId="10" slideimage="/448p/448p-10b.gif" image="/448p/448p-10.gif">Pick up the cartridge holder. Shake out the used cartridge.</procedureInfo>
+
+<procedureInfo secId="2" spotId="11" slideimage="/448p/448p-11b.gif" image="/448p/448p-11.gif">Check that the new cartridge contains the correct insulin and insert it, metal end first, into the holder.</procedureInfo>
+
+<procedureInfo secId="2" spotId="12" slideimage="/448p/448p-12b.gif" image="/448p/448p-12.gif">Screw the cartridge holder back onto the base.</procedureInfo>
+
+<procedureInfo secId="2" spotId="13" slideimage="/448p/448p-13b.gif" image="/448p/448p-13.gif">&lt;UL&gt;&lt;LI&gt;Keep a record of all your injections and also record when you begin a new cartridge.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="14" slideimage="/448p/448p-14b.gif" image="/448p/448p-14.gif">&lt;UL&gt;&lt;LI&gt;Subtract the total insulin used in previous injections from the total of 150 units in each cartridge to be sure you have enough insulin left for the next dose.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="15" slideimage="/448p/448p-15b.gif" image="/448p/448p-15.gif">Clean the end of the cartridge holder and the projecting cartridge with an alcohol swab.</procedureInfo>
+
+<procedureInfo secId="2" spotId="16" slideimage="/448p/448p-16b.gif" image="/448p/448p-16.gif">Remove the seal from the end of the new needle unit. Don't touch the exposed needle or allow it to touch any other object.</procedureInfo>
+
+<procedureInfo secId="2" spotId="17" slideimage="/448p/448p-17b.gif" image="/448p/448p-17.gif">Screw the needle unit onto the end of the cartridge holder.</procedureInfo>
+
+<procedureInfo secId="2" spotId="18" slideimage="/448p/448p-18b.gif" image="/448p/448p-18.gif">Pull the outer shield off the needle. Do not throw it away. You will need it later to remove the needle unit from the pen.</procedureInfo>
+
+<procedureInfo secId="2" spotId="19" slideimage="/448p/448p-19b.gif" image="/448p/448p-19.gif">Pull the inner shield off the needle and discard it. Hold the pen upright and tap the cartridge holder to enable air bubbles to escape through the needle.</procedureInfo>
+
+<procedureInfo secId="2" spotId="20" slideimage="/448p/448p-20b.gif" image="/448p/448p-20.gif">Dial the dose knob so that #1 is in the dose scale window and prime the pen according to the manufacturer's instructions.</procedureInfo>
+
+<procedureInfo secId="2" spotId="21" slideimage="/448p/448p-21b.gif" image="/448p/448p-21.gif">Hold the needle upright. Press in the injection button at the end of the unit and check that insulin comes out of the tip of the needle. If no insulin is seen, continue to dial up one unit at a time and press the injection button until insulin is seen. A new cartridge may take 4-6 units before insulin flows.</procedureInfo>
+
+<procedureInfo secId="2" spotId="22" slideimage="/448p/448p-22b.gif" image="/448p/448p-22.gif">Dial in your dose of insulin in addition to the units needed to produce the insulin flow. For example, if it took 4 units to start the insulin flow and your insulin dose is 20, the total in the dose scale window will be 24.</procedureInfo>
+
+<procedureInfo secId="2" spotId="23" slideimage="/448p/448p-23b.gif" image="/448p/448p-23.gif">&lt;UL&gt;&lt;LI&gt;Choose and clean the injection site as usual.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="24" slideimage="/448p/448p-24b.gif" image="/448p/448p-24.gif">Pinch the skin and insert the needle through the skin at a 90˚ angle. Press the injection button at the end of the needle and wait 5 seconds for the injection to be completed before removing the needle from the skin.</procedureInfo>
+
+<procedureInfo secId="2" spotId="25" slideimage="/448p/448p-25b.gif" image="/448p/448p-25.gif">&lt;UL&gt;&lt;LI&gt;The needle must be removed from the pen immediately after the injection is finished.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="26" slideimage="/448p/448p-26b.gif" image="/448p/448p-26.gif">Place the outer needle shield that you had saved on the counter top with the opening facing up.</procedureInfo>
+
+<procedureInfo secId="2" spotId="27" slideimage="/448p/448p-27b.gif" image="/448p/448p-27.gif">Without holding onto the shield, insert the pen needle carefully into the shield and push down firmly. Grip the shield and unscrew the needle from the pen.</procedureInfo>
+
+<procedureInfo secId="2" spotId="28" slideimage="/448p/448p-28b.gif" image="/448p/448p-28.gif">Dispose of the shielded needle into the puncture proof container that you have reserved for your needles. Store all pens that are in use at room temperature.</procedureInfo>
+
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<!-- (3) SHOPPING LIST //-->
+
+
+
+
+
+</preopData>

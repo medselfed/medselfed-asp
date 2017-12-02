@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Basic PostCare Tasks</pageHeader>
+<siteId>postcare</siteId>
+<startImage src="/image/center/basic.gif" />
+<centerElement prodId="434" prodImage="/image/434/434.gif">Using a Transfer Belt</centerElement>
+<centerElement prodId="417" prodImage="/image/417/417.gif">Getting Out of Bed After Abdominal or Chest Surgery</centerElement>
+<centerElement prodId="422" prodImage="/image/422/422.gif">Assisting with Feeding</centerElement>
+<centerElement prodId="412" prodImage="/image/412/412.gif">Gloving</centerElement>
+<centerElement prodId="411" prodImage="/image/411/411.gif">Handwashing</centerElement>
+<centerElement prodId="453" prodImage="/image/453/453.gif">Female Perineal Wash</centerElement>
+<centerElement prodId="452" prodImage="/image/452/452.gif">Male Perineal Wash</centerElement>
+<centerElement prodId="424" prodImage="/image/424/424.gif">Assist with Tub Bath</centerElement>
+<centerElement prodId="454" prodImage="/image/454/454.gif">Assist with Shower</centerElement>
+<centerElement prodId="425" prodImage="/image/425/425.gif">Subcutaneous Injection</centerElement>
+<centerElement prodId="420" prodImage="/image/420/420.gif">Wound Care</centerElement>
+<centerElement prodId="428" prodImage="/image/428/428.gif">Use of Peak Flow Meter</centerElement>
+</preopData>

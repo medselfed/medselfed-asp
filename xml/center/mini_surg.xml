@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Minimal Surgeries</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/mini_surg.gif" />
+<centerElement prodId="337" prodImage="/image/337/337.gif">Laparoscopy Diagnostic</centerElement>
+<centerElement prodId="360" prodImage="/image/360/360.gif">Hernia Repair Inguinal (Laparoscopic)</centerElement>
+<centerElement prodId="343" prodImage="/image/343/343.gif">Gallbladder Laparoscopic Cholecystectomy</centerElement>
+<centerElement prodId="440" prodImage="/image/440/440.gif">Gallbladder Removal - Laparoscopic - Hassan Trocar</centerElement>
+<centerElement prodId="351" prodImage="/image/351/351.gif">Hernia - Hiatal Laparoscopic</centerElement>
+<centerElement prodId="356" prodImage="/image/356/356.gif">Spleen Removal Laparoscopic Splenectomy</centerElement>
+<centerElement prodId="357" prodImage="/image/357/357.gif">Anti-Reflux Laparoscopy</centerElement>
+<centerElement prodId="353" prodImage="/image/353/353.gif">Endoscopy of Large Intestine</centerElement>
+<centerElement prodId="354" prodImage="/image/354/354.gif">GI Endoscopy - Upper GI</centerElement>
+<centerElement prodId="444" prodImage="/image/444/444.gif">Gastric Bypass (Laparoscopic)</centerElement>
+</preopData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Advanced Surgical Education</pageHeader>
+<siteId>preop</siteId>
+<startImage src="/image/center/advan.gif" />
+<centerElement prodId="332" prodImage="/image/332/332.gif">Breast Biopsy Incisional</centerElement>
+<centerElement prodId="333" prodImage="/image/333/333.gif">Breast Biopsy Needle</centerElement>
+<centerElement prodId="334" prodImage="/image/334/334.gif">Breast Biopsy Wire Guide</centerElement>
+<centerElement prodId="338" prodImage="/image/338/338.gif">Biopsy Surgery General Surgery</centerElement>
+<centerElement prodId="405" prodImage="/image/405/405.gif">Mastectomy Modified Radical</centerElement>
+<centerElement prodId="407" prodImage="/image/407/407.gif">Mastectomy Radical</centerElement>
+<centerElement prodId="403" prodImage="/image/403/403.gif">Mastectomy Total</centerElement>
+<centerElement prodId="357" prodImage="/image/357/357.gif">Anti-Reflux Laparoscopy</centerElement>
+<centerElement prodId="351" prodImage="/image/351/351.gif">Hernia - Hiatal Laparoscopic</centerElement>
+<centerElement prodId="389" prodImage="/image/389/389.gif">Hernia - Hiatal Open Repair</centerElement>
+<centerElement prodId="360" prodImage="/image/360/360.gif">Hernia Repair Inguinal (Laparoscopic)</centerElement>
+<centerElement prodId="335" prodImage="/image/335/335.gif">Hernia Repair Inguinal (Open)</centerElement>
+<centerElement prodId="343" prodImage="/image/343/343.gif">Gallbladder Laparoscopic Cholecystectomy</centerElement>
+</preopData>

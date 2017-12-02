@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<preopData>
+	<pageHeader>PreOp.com </pageHeader>
+	<pageTitle>PreOp.com </pageTitle>
+	<siteId>preop</siteId>
+	<!-- the bodyElement //-->
+	<genElement prodId="336">Open Surgery</genElement>
+	<genElement prodId="337">Laparoscopy</genElement>
+	<genElement prodId="338">Biopsy Surgery</genElement>
+	
+	<bodyElement prodId="336" sexId="shemale" 						prodName1="Open Surgery - " 				prodName2="General"/>
+	<bodyElement prodId="337" sexId="shemale" 						prodName1="Laparoscopy - " 					prodName2="Diagnostic"/>
+	<bodyElement prodId="338" sexId="shemale" 						prodName1="Biopsy Surgery - " 				prodName2="General"/>
+	
+	<bodyElement prodId="339" sexId="shemale" 	region="head" 		prodName1="Myringotomy - " 					prodName2="Insertion of Tube"/>
+	<bodyElement prodId="341" sexId="shemale" 	region="head" 		prodName1="Cataract - " 					prodName2="Small Incision"/>
+	<bodyElement prodId="376" sexId="shemale"	region="head" 		prodName1="LASIK - " 						prodName2="Laser Eye Surgery"/>
+	<bodyElement prodId="375" sexId="shemale" 	region="head" 		prodName1="PRK - " 							prodName2="Laser Eye Surgery"/>
+	<bodyElement prodId="380" sexId="shemale" 	region="head" 		prodName1="Tonsillectomy" 					prodName2=""/>
+	
+	
+	<bodyElement prodId="332" sexId="female" 	region="breast"		prodName1="Breast Biopsy - " 				prodName2="Incisional"/>
+	<bodyElement prodId="333" sexId="female" 	region="breast" 	prodName1="Breast Biopsy - " 				prodName2="Needle"/>
+	<bodyElement prodId="334" sexId="female" 	region="breast" 	prodName1="Breast Biopsy - " 				prodName2="Wire Guide"/>
+	<bodyElement prodId="403" sexId="female" 	region="breast" 	prodName1="Mastectomy - " 					prodName2="Total"/>
+	<bodyElement prodId="407" sexId="female" 	region="breast" 	prodName1="Mastectomy - " 					prodName2="Radical"/>
+	<bodyElement prodId="405" sexId="female" 	region="breast" 	prodName1="Mastectomy - " 					prodName2="Modified Radical"/>
+	<bodyElement prodId="477" sexId="shemale" 	region="breast" 	prodName1="Abdominal Aortic Aneurysm - " 	prodName2="Open Repair"/>
+	<bodyElement prodId="361" sexId="shemale" 	region="breast" 	prodName1="Cardiac Catheterization - " 		prodName2="Angiography"/>
+	<bodyElement prodId="364" sexId="shemale" 	region="breast" 	prodName1="Balloon Angioplasty - " 			prodName2="Coronary Angioplasty"/>
+	<bodyElement prodId="370" sexId="shemale" 	region="breast" 	prodName1="Stent Implantation - " 			prodName2="Coronary Angioplasty"/>
+	<bodyElement prodId="399" sexId="shemale" 	region="breast" 	prodName1="Permanent Pacemaker - " 			prodName2="Implant"/>
+	<bodyElement prodId="377" sexId="shemale" 	region="breast" 	prodName1="Coronary Artery Bypass Graft - " prodName2="(CABG)"/>
+	<bodyElement prodId="462" sexId="shemale" 	region="breast" 	prodName1="Coronary Artery Bypass Graft - " prodName2="(CABG off-pump)"/>
+
+	
+	<bodyElement prodId="357" sexId="shemale"	region="abs" 		prodName1="Anti-Reflux - " 					prodName2="Laparoscopy"/>
+	<bodyElement prodId="342" sexId="shemale" 	region="abs" 		prodName1="Carpal Tunnel Syndrome - " 		prodName2="Repair"/>
+	<bodyElement prodId="353" sexId="shemale" 	region="abs" 		prodName1="Endoscopy - " 					prodName2="of Large Intestine"/>
+	<bodyElement prodId="354" sexId="shemale" 	region="abs" 		prodName1="GI Endoscopy - " 				prodName2="Upper GI"/>
+	<bodyElement prodId="343" sexId="shemale" 	region="abs" 		prodName1="Gallbladder Removal - " 			prodName2="Laparoscopic Cholecystectomy"/>
+	<bodyElement prodId="444" sexId="shemale" 	region="abs"		prodName1="Gastric Bypass - " 				prodName2="Laparoscopic"/>
+	<bodyElement prodId="351" sexId="shemale" 	region="abs" 		prodName1="Hiatal Hernia - " 				prodName2="Laparoscopic"/>
+	<bodyElement prodId="389" sexId="shemale" 	region="abs" 		prodName1="Hiatal Hernia - " 				prodName2="Open Repair"/>
+	<bodyElement prodId="360" sexId="shemale" 	region="abs" 		prodName1="Hernia Repair Inguinal - " 		prodName2="Laparoscopic"/>
+	<bodyElement prodId="335" sexId="shemale" 	region="abs" 		prodName1="Hernia Repair Inguinal - " 		prodName2="Incisional"/>
+	<bodyElement prodId="356" sexId="shemale" 	region="abs" 		prodName1="Spleen Removal - " 				prodName2="Laparoscopic Splenectomy"/>
+	<bodyElement prodId="401" sexId="female" 	region="abs" 		prodName1="Fibroid Tumor Removal - " 		prodName2="Vaginal"/>
+	<bodyElement prodId="436" sexId="female" 	region="abs" 		prodName1="Cystoscopy - " 					prodName2="Female"/>
+	<bodyElement prodId="435" sexId="male" 		region="abs" 		prodName1="Cystoscopy - " 					prodName2="Male"/>
+	<bodyElement prodId="350" sexId="female" 	region="abs" 		prodName1="Dilation and Curettage - " 		prodName2="of the Uterus"/>
+	<bodyElement prodId="349" sexId="female" 	region="abs" 		prodName1="Hysterectomy - " 				prodName2="Removal of the Uterus"/>
+	<bodyElement prodId="368" sexId="female" 	region="abs"		prodName1="Hysterectomy - " 				prodName2="Uterus, Ovaries and Fallopian tube"/>
+	<bodyElement prodId="415" sexId="male" 		region="abs" 		prodName1="TURP - " 						prodName2="Transurethral Resection of the Prostate"/>
+	<bodyElement prodId="414" sexId="male" 		region="abs" 		prodName1="Vasectomy - " 					prodName2="Incisional"/>
+	
+	
+	<bodyElement prodId="382" sexId="shemale" 	region="leg" 		prodName1="Hip Replacement - " 				prodName2="Surgery"/>
+	<bodyElement prodId="348" sexId="shemale" 	region="leg" 		prodName1="Arthroscopic Surgery - " 		prodName2="Meniscus Repair of Knee"/>
+	<bodyElement prodId="352" sexId="shemale" 	region="leg" 		prodName1="Achilles Tendon - " 				prodName2="Repair"/>
+	<bodyElement prodId="372" sexId="shemale" 	region="leg" 		prodName1="Bunion Removal - " 				prodName2="Foot Surgery"/>
+
+	</preopData>

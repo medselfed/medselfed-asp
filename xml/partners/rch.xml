@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<partnerId>rch</partnerId>
+<name>Russell County Hospital</name>
+<headerType>true</headerType>
+<headerName>Patient Education</headerName>
+<cssDir>/css/preop</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>false</showads>
+<questions>0</questions>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="search" url="/asp/search.asp?siteId=preop">Search</navlink>
+<navlink navlinkId="helppc" url="/asp/help1.asp?siteId=postcare">Help</navlink>
+<centerLink siteId="postcare" centerId="basic">Basic PostCare Tasks</centerLink>
+<centerLink siteId="postcare" centerId="urinary">Urinary Care Center</centerLink>
+<centerLink siteId="preop" centerId="custom_rcn">Russell County Hospital</centerLink>
+<prodLink siteId="postcare" prodId="454">Assist with Shower</prodLink>
+<prodLink siteId="postcare" prodId="422">Assisting with Feeding</prodLink>
+<prodLink siteId="preop" prodId="334">Breast Biopsy Wire Guide</prodLink>
+<prodLink siteId="postcare" prodId="418">Care and Drainage of a Leg Bag</prodLink>
+<prodLink siteId="postcare" prodId="441">Care of Suprapubic Catheter</prodLink>
+<prodLink siteId="postcare" prodId="390">Caring for a Male External Urinary Collecting System</prodLink>
+<prodLink siteId="postcare" prodId="410">Closed Urinary Drainage System</prodLink>
+<prodLink siteId="postcare" prodId="438">Emptying a Urinary Drainage Bag</prodLink>
+<prodLink siteId="preop" prodId="353">Endoscopy of Large Intestine</prodLink>
+<prodLink siteId="postcare" prodId="442f">Female Intermittent Self-Catheterization</prodLink>
+<prodLink siteId="postcare" prodId="453">Female Perineal Wash</prodLink>
+<prodLink siteId="preop" prodId="343">Gallbladder Laparoscopic Cholecystectomy</prodLink>
+<prodLink siteId="preop" prodId="440">Gallbladder Removal - Laparoscopic - Hassan Trocar</prodLink>
+<prodLink siteId="postcare" prodId="417">Getting Out of Bed After Abdominal or Chest Surgery</prodLink>
+<prodLink siteId="preop" prodId="354">GI Endoscopy - Upper GI</prodLink>
+<prodLink siteId="postcare" prodId="412">Gloving</prodLink>
+<prodLink siteId="postcare" prodId="411">Handwashing</prodLink>
+<prodLink siteId="preop" prodId="351">Hernia - Hiatal Laparoscopic</prodLink>
+<prodLink siteId="preop" prodId="360">Hernia Repair Inguinal (Laparoscopic)</prodLink>
+<prodLink siteId="preop" prodId="349">Hysterectomy Removal of the Uterus</prodLink>
+<prodLink siteId="preop" prodId="337">Laparoscopy Diagnostic</prodLink>
+<prodLink siteId="postcare" prodId="442m">Male Intermittent Self-Catheterization</prodLink>
+<prodLink siteId="postcare" prodId="452">Male Perineal Wash</prodLink>
+<prodLink siteId="preop" prodId="403">Mastectomy Total</prodLink>
+<prodLink siteId="postcare" prodId="443">Recording Urine Output</prodLink>
+<prodLink siteId="postcare" prodId="425">Subcutaneous Injection</prodLink>
+<prodLink siteId="postcare" prodId="428">Use of Peak Flow Meter</prodLink>
+<prodLink siteId="postcare" prodId="434">Using a Transfer Belt</prodLink>
+<prodLink siteId="postcare" prodId="420">Wound Care</prodLink>
+</preopData>

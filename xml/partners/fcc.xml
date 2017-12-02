@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<partnerId>fcc</partnerId>
+<name>FlashComposer</name>
+<headerType>true</headerType>
+<headerName>PreOp Patient Education</headerName>
+<cssDir>/css/sample</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>false</showads>
+<questions>1</questions>
+<navlink navlinkId="homepo" url="/asp/home.asp?siteId=preop">Home</navlink>
+<navlink navlinkId="body" url="/asp/body.asp?sexId=male">Gender</navlink>
+<navlink navlinkId="center" url="/asp/center.asp?centerId=heart">Centers</navlink>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<navlink navlinkId="search" url="/asp/search.asp?siteId=preop">Search</navlink>
+<navlink navlinkId="help" url="/asp/help1.asp?siteId=preop">Help</navlink>
+<navdrop navdropId="malebody" navlinkId="body" url="/asp/body.asp?sexId=male">Male Body</navdrop>
+<navdrop navdropId="heart" navlinkId="center" url="/asp/center.asp?centerId=heart">Cardiology Center</navdrop>
+<navdrop navdropId="femalebody" navlinkId="body" url="/asp/body.asp?sexId=female">Female Body</navdrop>
+<navdrop navdropId="womens" navlinkId="center" url="/asp/center.asp?centerId=womens">Womens Center</navdrop>
+<navdrop navdropId="lap" navlinkId="center" url="/asp/center.asp?centerId=lap">Minimal Surgery</navdrop>
+<navdrop navdropId="ortho" navlinkId="center" url="/asp/center.asp?centerId=ortho">Orthopedic Center</navdrop>
+<navdrop navdropId="onco" navlinkId="center" url="/asp/center.asp?centerId=onco">Oncology Center</navdrop>
+<navdrop navdropId="basic" navlinkId="center" url="/asp/center.asp?centerId=basic">Basic Tasks</navdrop>
+<navdrop navdropId="urinary" navlinkId="center" url="/asp/center.asp?centerId=urinary">Urinary Care</navdrop>
+<navdrop navdropId="diabetes" navlinkId="center" url="/asp/center.asp?centerId=diabetes">Diabetes Series</navdrop>
+<prodLink siteId="preop" prodId="402">Abdominal Fibroid Removal - Myomectomy</prodLink>
+<prodLink siteId="preop" prodId="352">Achilles Tendon Repair</prodLink>
+<prodLink siteId="preop" prodId="385">Anterior Cruciate Ligament - (ACL) Arhroscopic Repair</prodLink>
+<prodLink siteId="preop" prodId="357">Anti-Reflux Laparoscopy</prodLink>
+<prodLink siteId="preop" prodId="348">Arthroscopic Surgery Meniscus - Repair of Knee</prodLink>
+<prodLink siteId="postcare" prodId="454">Assist with Shower</prodLink>
+<prodLink siteId="postcare" prodId="424">Assist with Tub Bath</prodLink>
+<prodLink siteId="postcare" prodId="422">Assisting with Feeding</prodLink>
+<prodLink siteId="preop" prodId="364">Balloon Angioplasty Coronary Angioplasty</prodLink>
+<prodLink siteId="preop" prodId="338">Biopsy Surgery General Surgery</prodLink>
+<prodLink siteId="preop" prodId="332">Breast Biopsy Incisional</prodLink>
+<prodLink siteId="preop" prodId="333">Breast Biopsy Needle</prodLink>
+<prodLink siteId="preop" prodId="334">Breast Biopsy Wire Guide</prodLink>
+<prodLink siteId="preop" prodId="372">Bunion Removal Foot Surgery</prodLink>
+<prodLink siteId="preop" prodId="361">Cardiac Catheterization Angiography</prodLink>
+<prodLink siteId="postcare" prodId="418">Care and Drainage of a Leg Bag</prodLink>
+<prodLink siteId="postcare" prodId="441">Care of Suprapubic Catheter</prodLink>
+<prodLink siteId="postcare" prodId="390">Caring for a Male External Urinary Collecting System</prodLink>
+<prodLink siteId="preop" prodId="342">Carpal Tunnel Syndrome Repair</prodLink>
+<prodLink siteId="preop" prodId="341">Cataract Small Incision</prodLink>
+<prodLink siteId="postcare" prodId="410">Closed Urinary Drainage System</prodLink>
+<prodLink siteId="preop" prodId="377">Coronary Artery Bypass Graft (CABG)</prodLink>
+<prodLink siteId="preop" prodId="436">Cystoscopy - Female</prodLink>
+<prodLink siteId="preop" prodId="435">Cystoscopy - Male</prodLink>
+<prodLink siteId="preop" prodId="350">Dilation &amp; Curettage of the Uterus</prodLink>
+<prodLink siteId="postcare" prodId="438">Emptying a Urinary Drainage Bag</prodLink>
+<prodLink siteId="preop" prodId="353">Endoscopy of Large Intestine</prodLink>
+<prodLink siteId="postcare" prodId="442f">Female Intermittent Self-Catheterization</prodLink>
+<prodLink siteId="postcare" prodId="453">Female Perineal Wash</prodLink>
+<prodLink siteId="preop" prodId="401">Fibroid - Tumor Removal Vaginal</prodLink>
+<prodLink siteId="preop" prodId="343">Gallbladder Laparoscopic Cholecystectomy</prodLink>
+<prodLink siteId="preop" prodId="440">Gallbladder Removal - Laparoscopic - Hassan Trocar</prodLink>
+<prodLink siteId="preop" prodId="444">Gastric Bypass (Laparoscopic)</prodLink>
+<prodLink siteId="postcare" prodId="417">Getting Out of Bed After Abdominal or Chest Surgery</prodLink>
+<prodLink siteId="preop" prodId="354">GI Endoscopy - Upper GI</prodLink>
+<prodLink siteId="postcare" prodId="412">Gloving</prodLink>
+<prodLink siteId="postcare" prodId="411">Handwashing</prodLink>
+<prodLink siteId="preop" prodId="351">Hernia - Hiatal Laparoscopic</prodLink>
+<prodLink siteId="preop" prodId="389">Hernia - Hiatal Open Repair</prodLink>
+<prodLink siteId="preop" prodId="360">Hernia Repair Inguinal (Laparoscopic)</prodLink>
+<prodLink siteId="preop" prodId="335">Hernia Repair Inguinal (Open)</prodLink>
+<prodLink siteId="preop" prodId="382">Hip Replacement Surgery</prodLink>
+<prodLink siteId="preop" prodId="349">Hysterectomy Removal of the Uterus</prodLink>
+<prodLink siteId="preop" prodId="368">Hysterectomy: Uterus, Ovaries, and Fallopian</prodLink>
+<prodLink siteId="postcare" prodId="448i">Injecting Insulin</prodLink>
+<prodLink siteId="postcare" prodId="448p">Insulin Pens</prodLink>
+<prodLink siteId="preop" prodId="337">Laparoscopy Diagnostic</prodLink>
+<prodLink siteId="preop" prodId="376">Lasik Laser Eye Surgery</prodLink>
+<prodLink siteId="postcare" prodId="442m">Male Intermittent Self-Catheterization</prodLink>
+<prodLink siteId="postcare" prodId="452">Male Perineal Wash</prodLink>
+<prodLink siteId="preop" prodId="405">Mastectomy Modified Radical</prodLink>
+<prodLink siteId="preop" prodId="407">Mastectomy Radical</prodLink>
+<prodLink siteId="preop" prodId="403">Mastectomy Total</prodLink>
+<prodLink siteId="postcare" prodId="448m">Mixing Insulin</prodLink>
+<prodLink siteId="postcare" prodId="446">Monitoring Your Blood Sugar</prodLink>
+<prodLink siteId="preop" prodId="339">Myringotomy Insertion of Tube</prodLink>
+<prodLink siteId="preop" prodId="336">Open Surgery General</prodLink>
+<prodLink siteId="preop" prodId="399">Permanent Pacemaker - Implant</prodLink>
+<prodLink siteId="preop" prodId="375">PRK Laser Surgery</prodLink>
+<prodLink siteId="postcare" prodId="443">Recording Urine Output</prodLink>
+<prodLink siteId="preop" prodId="450">Shoulder Replacement Surgery</prodLink>
+<prodLink siteId="preop" prodId="356">Spleen Removal Laparoscopic Splenectomy</prodLink>
+<prodLink siteId="preop" prodId="370">Stent Implantation Coronary Angioplasty</prodLink>
+<prodLink siteId="postcare" prodId="447s">Storage of Insulins</prodLink>
+<prodLink siteId="postcare" prodId="425">Subcutaneous Injection</prodLink>
+<prodLink siteId="preop" prodId="380">Tonsillectomy</prodLink>
+<prodLink siteId="preop" prodId="415">TURP - Transurethral Resection of the Prostate</prodLink>
+<prodLink siteId="postcare" prodId="447t">Types of Insulin</prodLink>
+<prodLink siteId="postcare" prodId="428">Use of Peak Flow Meter</prodLink>
+<prodLink siteId="postcare" prodId="434">Using a Transfer Belt</prodLink>
+<prodLink siteId="preop" prodId="414">Vasectomy</prodLink>
+<prodLink siteId="postcare" prodId="420">Wound Care</prodLink>
+</preopData>

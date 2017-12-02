@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<partnerId>wlc</partnerId>
+<name>Weight Loss Clinic</name>
+<headerType>true</headerType>
+<headerName>Patient Education</headerName>
+<cssDir>/css/main</cssDir>
+<jsDir>/js/preop</jsDir>
+<postcare>true</postcare>
+<prodLayout>0</prodLayout>
+<showads>false</showads>
+<questions>1</questions>
+<navlink navlinkId="sitemap" url="/asp/sitemap.asp?siteId=preop">Site Map</navlink>
+<prodLink siteId="preop" prodId="481">Gastric - Adjustable Band Surgery</prodLink>
+<prodLink siteId="preop" prodId="444">Gastric Bypass (Laparoscopic)</prodLink>
+</preopData>

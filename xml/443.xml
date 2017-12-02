@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Recording Urine Output</pageHeader1>
+<pageHeader2>and Retraining the Bladder</pageHeader2>
+<pageTitle>Recording Urine Output</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>443</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+<navElement secId="3" template="/template1.asp">Shopping List</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/443/audio_443.mov"  audioMapWM="/443/audio_443.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/443/video_443.mov" videoMapWM="/443/video_443.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/443/443-01b.gif" image="/443/443-01.gif">Following surgery, you may have a suprapubic catheter or be on a program of intermittent self- catheterization as your bladder recovers from the effects of surgery.</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/443/443-02b.gif" image="/443/443-02.gif">To help your bladder heal, you will need to increase the time between self-catheterization or unplugging the suprapubic catheter until there is no need for a catheter.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/443/443-03b.gif" image="/443/443-03.gif">To know the time intervals needed between catheterization or removing the plug you need to keep a record of the amount of urine you are producing when you void and when you catheterize or unplug.</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/443/443-04b.gif" image="/443/443-04.gif">You should try to void every 2-3 hours and immediately before you self-catheterize or remove the plug. Void into the hat placed into the toilet, and measure the amount of urine in the hat.</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/443/443-05b.gif" image="/443/443-05.gif">This amount is called the voided volume. Write this amount on your record sheet every time you void.</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/443/443-06b.gif" image="/443/443-06.gif">When you self-catheterize or unplug, measure the urine that empties from the catheter.</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/443/443-07b.gif" image="/443/443-07.gif">This amount is called the Post-Void Residual or PVR and is written down on your output record sheet in the PVR column.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/443/443-08b.gif" image="/443/443-08.gif">Look at your Output Record Sheet.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/443/443-09b.gif" image="/443/443-09.gif">Each entry on the record will have a date, time and the amount of urine in either the voided volume column or the post-void column. Your Output Record can be taped to the back of the bathroom door to keep it handy.</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/443/443-10b.gif" image="/443/443-10.gif">The basic guidelines for the timing of self-catheterization or plug removal during bladder retraining are:
+&lt;UL&gt;&lt;LI&gt;Throughout the day, void as often as you like, at least every 2 hours.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/443/443-11b.gif" image="/443/443-11.gif">&lt;UL&gt;&lt;LI&gt;Measure each void in the hat. Write the amount in the Voided Volume column of your output record.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/443/443-12b.gif" image="/443/443-12.gif">&lt;UL&gt;&lt;LI&gt;Begin by self catheterizing or unplugging the suprapubic catheter every four hours.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/443/443-13b.gif" image="/443/443-13.gif">&lt;UL&gt;&lt;LI&gt;Immediately before catheterizing or unplugging, void into the hat, measure the volume and write it in the voided volume (VV) column of your Output Record.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/443/443-14b.gif" image="/443/443-14.gif">&lt;UL&gt;&lt;LI&gt;When you self-catheterize or remove the plug, save and measure the urine that comes out of the catheter and write the amount in the post-void residual (PVR) column of your output record.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/443/443-15b.gif" image="/443/443-15.gif">&lt;UL&gt;&lt;LI&gt;If your post-void residual urine (PVR) is less than 150 ccs, you can increase your time interval between catheterizations or plug removal by 2 hours, say from 4 to 6 or 6 to 8 hours.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/443/443-16b.gif" image="/443/443-16.gif">&lt;UL&gt;&lt;LI&gt;If your post-void residual urine (PVR), is between 150 and 250 ccs, you should keep the time interval between catheterizations or plug removal the same.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/443/443-17b.gif" image="/443/443-17.gif">&lt;UL&gt;&lt;LI&gt;If your post-void residual urine (PVR) is more than 250 ccs , you should decrease the time interval by 2 hours.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/443/443-18b.gif" image="/443/443-18.gif">&lt;UL&gt;&lt;LI&gt;Try not to self-catheterize or remove the suprapubic catheter plug more often than every 4 hours, unless you feel uncomfortable or full.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/443/443-19b.gif" image="/443/443-19.gif">&lt;UL&gt;&lt;LI&gt;Start in the morning from where you left off the previous day. You do not need to start over each day.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/443/443-20b.gif" image="/443/443-20.gif">&lt;UL&gt;&lt;LI&gt;Keep your Output Record to show to your healthcare providers.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/443/443-21b.gif" image="/443/443-21.gif">&lt;UL&gt;&lt;LI&gt;Once you are consistently at 12 hour intervals between catheterizations or plug removal, consult your healthcare provider, who may tell you to stop the retraining process.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/443/443-22b.gif" image="/443/443-22.gif">&lt;UL&gt;&lt;LI&gt;The retraining process may take several weeks or even months. Do not get discouraged.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/443/443-23b.gif" image="/443/443-23.gif">Let's look at an example of recording. In the morning, you wake at 8AM and you could not void any urine .0 is recorded in the voided volume (VV) column.</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/443/443-24b.gif" image="/443/443-24.gif">Then you catheterize and produce 300 cc of urine. This is recorded in the post-void residual (PVR) column. From the basic guidelines, you know you must wait 4 hours until the next catheterization or plug removal, unless you are uncomfortable.</procedureInfo>
+<procedureInfo secId="2" spotId="25" slideimage="/443/443-25b.gif" image="/443/443-25.gif">You will attempt to void every 2 hours and record the amount you void in the voided volume (VV) column.</procedureInfo>
+<procedureInfo secId="2" spotId="26" slideimage="/443/443-26b.gif" image="/443/443-26.gif">At 12 noon you void 100 cc and record this in the voided volume (VV) column. The 4-hourly catheterization or plug removal produces 150 cc of urine and this is recorded in the post-void residual (PVR) column. From the basic guidelines, this means you continue with four-hourly catheterizations or plug removal.</procedureInfo>
+<procedureInfo secId="2" spotId="27" slideimage="/443/443-27b.gif" image="/443/443-27.gif">At 2 PM you voided 90 cc and recorded this in the VV column. At 4 PM you voided 150 cc and again recorded it in the VV column. You catheterize or remove the plug and produce 100 cc of urine, which is recorded in the PVR column. Basic Guidelines tell you that the next catheterization or plug removal can be moved out to 6 hours because your PVR was below 150 cc.</procedureInfo>
+<procedureInfo secId="2" spotId="28" slideimage="/443/443-28b.gif" image="/443/443-28.gif">During the evening you voided at 6PM and 8 PM and recorded these amounts in the VV column.</procedureInfo>
+<procedureInfo secId="2" spotId="29" slideimage="/443/443-29b.gif" image="/443/443-29.gif">At 10 PM your voided volume is 175 cc and your PVR on catheterization or plug removal is 125 cc. Because your PVR is again below 150 cc, you can increase the time between catheterization or plug removal from 6 hours to 8 hours.</procedureInfo>
+<procedureInfo secId="2" spotId="30" slideimage="/443/443-30b.gif" image="/443/443-30.gif">When you are self-catheterizing or removing the plug every 12 hours, you must set your alarm at night so that you awake and attempt to void every three to four hours. Record each void in the VV column of your Output Record.</procedureInfo>
+<procedureInfo secId="2" spotId="31" slideimage="/443/443-31b.gif" image="/443/443-31.gif">&lt;p&gt;The following problems or symptoms are reasons to contact your healthcare provider immediately:&lt;/p&gt;
+&lt;UL&gt;&lt;LI&gt;Little or no urine flow
+&lt;/LI&gt;&lt;LI&gt;Cloudy or foul-smelling urine
+&lt;/LI&gt;&lt;LI&gt;Sand-like material in the urine
+&lt;/LI&gt;&lt;LI&gt;Bloody urine&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="32" slideimage="/443/443-32b.gif" image="/443/443-32.gif">&lt;UL&gt;&lt;LI&gt;A red or swollen urinary opening
+&lt;/LI&gt;&lt;LI&gt;Difficulty inserting the catheter
+&lt;/LI&gt;&lt;LI&gt;Pain in the lower back or lower abdomen
+&lt;/LI&gt;&lt;LI&gt;Chills or temperature above 100.5�&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Output Record Sheet&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="2" >&lt;UL&gt;&lt;LI&gt;Pen or pencil&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="3" spotId="3" >&lt;UL&gt;&lt;LI&gt;Thermometer&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+</preopData>

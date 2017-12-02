@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<preopData>
+
+<pageHeader1>Storage of Insulins</pageHeader1>
+
+<pageHeader2></pageHeader2>
+
+<pageTitle>Storage of Insulins</pageTitle>
+
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+
+<prodId>447</prodId>
+
+<siteId>postcare</siteId>
+
+<phdivision></phdivision>
+
+<!--
+
+Input Task Name
+
+
+
+Do a 'Find & Replace All' with the new Task number
+
+
+
+//-->
+
+
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+
+
+<!--
+
+for bold text use:
+
+&lt;b&gt; B &lt;/b&gt;
+
+equals <b> B </b>
+
+
+
+for paragraphs text use:
+
+&lt;p&gt; all your text &lt;/p&gt;
+
+equals <p> all your text </p>
+
+
+
+for bullets text use:
+
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+
+equals <ul> <li> all your text </li> </ul> 
+
+
+
+//-->
+
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<!-- (2) CARE TASK //-->
+
+
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/447/audio_447.mov"  audioMapWM="/447/audio_447.wma"/>
+
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/447/video_447.mov" videoMapWM="/447/video_447.wmv"/>
+
+<topHtml secId="2" spotId="1"></topHtml>
+
+<botHtml secId="2"></botHtml>
+
+<procedureInfo secId="2" spotId="1" slideimage="/447/447-01b.gif" image="/447/447-01.gif">How you store your insulins before and after you open the vials or cartridges is most important.</procedureInfo>
+
+<procedureInfo secId="2" spotId="2" slideimage="/447/447-02b.gif" image="/447/447-02.gif">Unopened insulins are: 
+
+&lt;UL&gt;&lt;LI&gt;best kept in the refrigerator. 
+
+&lt;/LI&gt;&lt;LI&gt;This provides a constant temperature 
+
+&lt;/LI&gt;&lt;LI&gt;and they can be kept until the manufacturer's expiration date shown on the vial or pen.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="3" slideimage="/447/447-03b.gif" image="/447/447-03.gif">&lt;UL&gt;&lt;LI&gt;If unopened vials or pens are stored at room temperature, they can be kept for only more limited periods of time. 
+
+&lt;/LI&gt;&lt;LI&gt;At all times, the manufacturer's instructions should be studied and followed.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="4" slideimage="/447/447-04b.gif" image="/447/447-04.gif">Opened vials are:
+
+&lt;UL&gt;&lt;LI&gt;best stored in the refrigerator to provide a constant temperature. 
+
+&lt;/LI&gt;&lt;LI&gt;Whether refrigerated or not, opened vials are only good for 28 days.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+<procedureInfo secId="2" spotId="5" slideimage="/447/447-05b.gif" image="/447/447-05.gif">&lt;UL&gt;&lt;LI&gt;Once opened, whether stored in the refrigerator or at room temperature, pens or cartridges in use are only good for the limited period of time 
+
+&lt;/LI&gt;&lt;LI&gt;stated in the manufacturer's instructions.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+
+
+<!-- (3) SHOPPING LIST //-->
+
+
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+
+<botHtml secId="3"></botHtml>
+
+
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Refrigerator&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+
+
+
+
+
+</preopData>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<preopData>
+<pageHeader>PostCare.com </pageHeader>
+<pageTitle>PostCare.com </pageTitle>
+<siteId>postcare</siteId>
+
+<homeLink siteId="postcare">PostCare Home</homeLink>
+<centerLink centerId="basic">PostCare Basic Tasks Center</centerLink>
+<centerLink centerId="urinary">PostCare Urinary Care Center</centerLink>
+<centerLink centerId="diabetes">PostCare Diabetes Series</centerLink>
+
+<prodLink prodId="411">Handwashing</prodLink>
+<prodLink prodId="412">Gloving</prodLink>
+<prodLink prodId="422">Assisting with Feeding</prodLink>
+<prodLink prodId="428">Use of Peak Flow Meter</prodLink>
+<prodLink prodId="417">Getting Out of Bed After Abdominal or Chest Surgery</prodLink>
+<prodLink prodId="434">Using a Transfer Belt</prodLink>
+<prodLink prodId="453">Female Perineal Wash</prodLink>
+<prodLink prodId="452">Male Perineal Wash</prodLink>
+<prodLink prodId="424">Assist with Tub Bath</prodLink>
+<prodLink prodId="454">Assist with Shower</prodLink>
+<prodLink prodId="425">Subcutaneous Injection</prodLink>
+<prodLink prodId="420">Wound Care</prodLink>
+<prodLink prodId="410">Closed Urinary Drainage System</prodLink>
+<prodLink prodId="442mr">Male Intermittent Self-Catheterization Single Use Catheters</prodLink>
+<prodLink prodId="442fr">Female Intermittent Self-CatheterizationSingle Use Catheters</prodLink>
+<prodLink prodId="442m">Male Intermittent Self-Catheterization</prodLink>
+<prodLink prodId="442f">Female Intermittent Self-Catheterization</prodLink>
+<prodLink prodId="390">Caring for a Male External Urinary Collecting System</prodLink>
+<prodLink prodId="438">Emptying a Urinary Drainage Bag</prodLink>
+<prodLink prodId="418">Care and Drainage of a Leg Bag</prodLink>
+<prodLink prodId="443">Recording Urine Output</prodLink>
+<prodLink prodId="441">Care of Suprapubic Catheter</prodLink>
+<prodLink prodId="446">Monitoring Your Blood Sugar</prodLink>
+<prodLink prodId="447t">Types of Insulin</prodLink>
+<prodLink prodId="447s">Storage of Insulins</prodLink>
+<prodLink prodId="448p">Insulin Pens</prodLink>
+<prodLink prodId="448i">Injecting Insulin</prodLink>
+<prodLink prodId="448m">Mixing Insulin</prodLink>
+
+</preopData>	

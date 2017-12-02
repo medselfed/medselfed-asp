@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preopData>
+<pageHeader>Diabetes Series</pageHeader>
+<siteId>postcare</siteId>
+<startImage src="/image/center/diabetes.gif" />
+<centerElement prodId="446" prodImage="/image/446/446.gif">Monitoring Your Blood Sugar</centerElement>
+<centerElement prodId="447t" prodImage="/image/447t/447t.gif">Types of Insulin</centerElement>
+<centerElement prodId="447s" prodImage="/image/447s/447s.gif">Storage of Insulins</centerElement>
+<centerElement prodId="448p" prodImage="/image/448p/448p.gif">Insulin Pens</centerElement>
+<centerElement prodId="448i" prodImage="/image/448i/448i.gif">Injecting Insulin</centerElement>
+<centerElement prodId="448m" prodImage="/image/448m/448m.gif">Mixing Insulin</centerElement>
+</preopData>

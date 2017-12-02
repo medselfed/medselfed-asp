@@ -1,0 +1,198 @@
+<!-- format:HTML -->
+
+<HTML>
+<HEAD>
+
+<TITLE>
+preoptest
+</TITLE>
+<!-- begin keywords -->
+<meta http-equiv=Keywords name=Keywords content="">
+<!-- end keywords -->
+<!-- begin desc -->
+<meta http-equiv=Description name=Description content="">
+<!-- end desc -->
+<link rel="stylesheet" type="text/css" href="../stylesheet.css">
+</HEAD>
+<BODY bgcolor="#FFFFFF" leftmargin=0 rightmargin=0 topmargin=0 marginheight="0" marginwidth="0">
+
+<!-- //Hide from old browsers
+
+// pre-load images
+var myimages=new Array()
+function preloadimages(){
+	for (i=0;i<preloadimages.arguments.length;i++){
+	myimages[i]=new Image()
+	myimages[i].src=preloadimages.arguments[i]
+	}
+}
+
+preloadimages("images/womens_module_sub_04_ON.gif");
+preloadimages("images/womens_module_sub_06_ON.gif");
+preloadimages("images/womens_module_sub_08_ON.gif");
+
+
+// -- End Hiding Here -->
+<!-- //Hide from old browsers
+
+// pre-load images
+var myimages=new Array()
+function preloadimages(){
+	for (i=0;i<preloadimages.arguments.length;i++){
+	myimages[i]=new Image()
+	myimages[i].src=preloadimages.arguments[i]
+	}
+}
+
+preloadimages("images/heart_module_sub_04_ON.gif");
+preloadimages("images/heart_module_sub_06_ON.gif");
+preloadimages("images/heart_module_sub_08_ON.gif");
+
+
+// -- End Hiding Here -->
+<!-- //Hide from old browsers
+
+/*
+	PLEASE NOTE: You must include browser.js or popupWin.Focus() will never fire
+*/
+function openPopUp (theurl,thewindowname,thewidth,theheight){
+	/*
+		Opens a window with the specified source, window name, height, and width.
+		this window WILL have scrollbars, title bar, nav bar, status bar etc.
+	*/
+	var theargs = "width="+thewidth+",height="+theheight+"top=100,left=100";
+	window.open(theurl,thewindowname,theargs);
+
+	if (window.focus){
+		if (!(navigator.type == navigator.ie && ((navigator.version >= 4) && (navigator.version < 5)))){
+			popupWin.focus();
+		}
+	}
+
+}   // openPopUp
+
+function openBareWindow(theurl, thewindowname, thewidth, theheight){  
+	/*
+		Opens a window with the specified url, title, height, and width
+		but with NO decorations (scroll bar, toolbar, etc.)
+	*/
+	popupWin = window.open(theurl,thewindowname,"scrollbars=yes,menubar=yes,toolbar=yes,status=yes,top=0,left=0,screenx=0,screeny=0,width=" + thewidth + ",height=" + theheight + ",resizable=no");
+	if (window.focus && navigator.type){
+		if (!(navigator.type == navigator.ie && ((navigator.version >= 4) && (navigator.version < 5)))){
+			popupWin.focus();
+		}
+	}
+}   // openBareWindow
+
+
+
+//********************************************************************************************************8
+//openWindow is here for backward compatibility. Use openPopup or openBareWindow
+function openWindowNobar(theurl) 
+{
+	popupWin = window.open(theurl,'remote','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,top=0,left=0,width=660,height=350')
+	if (window.focus && navigator.type){
+		if (!(navigator.type == navigator.ie && ((navigator.version >= 4) && (navigator.version < 5)))){
+			popupWin.focus();
+		}
+	}
+}	//openWindow
+
+function openWindow(theurl) 
+{
+	popupWin = window.open(theurl,'remote','toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,top=0,left=0,width=660,height=350')
+	if (window.focus && navigator.type){
+		if (!(navigator.type == navigator.ie && ((navigator.version >= 4) && (navigator.version < 5)))){
+			popupWin.focus();
+		}
+	}
+}	//openWindow
+// -- End Hiding Here -->
+
+<table width=765 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td><img src="/regions/toledo/content/img/header_1.gif" width=500 height=33 border=0></td>
+<form><td background="/regions/toledo/content/img/header_2.gif" width=265 align=right>
+
+									<SELECT name="fastfind" class="INPUT" onchange="window.location.href=this.form.fastfind.options[this.form.fastfind.selectedIndex].value">
+										<option value="">QUICK FIND</option>
+					<option value="/regions/toledo/content/prereg.asp">Surgical & OB Online Pre-Registration</option>
+
+					<option value="http://www.ehealthconnection.com/regions/toledo/content/health_plan1.asp">Insurance Plan Information</option>
+					<option value="http://www.ehealthconnection.com/regions/toledo/content/Mercy_Lab_UsersGuide_Intro.asp">Laboratory Services</option>
+					<option value="http://www.ehealthconnection.com/regions/toledo/content/Weight_Management.asp">Mercy Weight Management Center</option>
+					<option value="http://www.ehealthconnection.com/regions/toledo/content/CareNet_Brochure.asp">CareNet</option>
+					<option value="http://216.68.156.42/regions/toledo/content/EAP_Services.asp">Employee Assistance Program</option>
+					<option value="http://www.ehealthconnection.com/regions/toledo/content/clinics_show.asp?clinic_id=442">It's My Time/Smoking Cessation</option>
+
+					<option value="http://www.ehealthconnection.com/regions/toledo/content/Occupational_Health_Home.asp">Mercy Occupational Health Services</option>
+					<option value="http://216.68.156.42/regions/toledo/content/enewsletter_registration_page.asp">eNewsletter Registration</option>
+					<option value="http://216.68.156.42/regions/toledo/content/community_resources_show.asp?clinic_id=138">NW Ohio Smoke Free Restaurants</option>
+
+									</select>
+
+
+&nbsp;&nbsp;</td></form>
+</tr>
+</table>
+
+<table width=765 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td valign=top background=/regions/toledo/content/img/menu_3.gif>
+<a href="/regions/toledo"><img src="/regions/toledo/content/img/menu_1.gif" width=166 height=45 border=0></a><br>
+<img src="/regions/toledo/content/img/menu_2.gif" width=165 height=34 border=0><br>
+<img src="/regions/toledo/content/img/trans.gif" width=1 height=225 border=0><br>
+	<SCRIPT language=JavaScript src="http://www.ehealthconnection.com/regions/toledo/content/js/menu_array.asp" type=text/javascript></SCRIPT>
+	<SCRIPT language=JavaScript src="/regions/toledo/content/js/mmenu.js" type=text/javascript></SCRIPT>
+
+<a href="https://mercyweb.org/heartcenter/profile/index.aspx?ReturnUrl=/heartcenter/profile/main2.aspx"><img src="/regions/toledo/content/images/1Health_tracker_tile.jpg" width=164 height=51 border=0></a><br>
+
+<a href="/regions/toledo/content/web_nursery.asp"><img src="/regions/toledo/content/images/11web_nursery_tile.jpg" width=164 height=51 border=0></a><br>
+
+<a href="https://mercyweb.org/childrens/profile/index.aspx"><img src="/regions/toledo/content/images/1My_Childs_Health_Tile.jpg" width=164 height=51 border=0></a><br>
+
+<a href="/regions/toledo/content/ask_a_nurse.asp"><img src="/regions/toledo/content/images/1Ask_A_Mercy_Nurse_tile.jpg" width=164 height=51 border=0></a><br>
+
+<a href="/regions/toledo/content/video2.asp"><img src="/regions/toledo/content/images/1Mercy_Cam_tile.gif" width=164 height=51 border=0></a><br>
+
+
+
+</td>
+<td valign=top>
+
+<img src="img/header_wellness.gif" width=592 height=45 border=0>
+<center>
+<table width=580 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td valign=top>
+
+<!-- Begin Content -->
+{CONTENTAREA}
+<!-- End Content -->
+</td></tr></table></center>
+<img src="img/trans.gif" width=592 height=1 border=0>
+</td>
+<td valign=top background="/regions/toledo/content/img/right_stroke_bg.gif"><img src="/regions/toledo/content/img/right_stroke.gif" width=7 height=366 border=0></td>
+</tr>
+</table>
+<table width=400 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td><img src="/regions/toledo/content/img/footer.gif" width=765 height=11 border=0></td>
+</tr>
+</table>
+<table width=778 cellpadding=0 cellspacing=0 border=0>
+	<tr>
+
+		<td width=778><center><a href="/regions/toledo/content/disclaimer.asp"><font face=arial,verdana,helvetica size=1 color="#FF6600">Disclaimer</font></a> <font face=verdana,arial,helvetica size=1 color="#006A87">//</font> <a href="/regions/toledo/content/privacy.asp"><font face=arial,verdana,helvetica size=1 color="#FF6600">Privacy Statement</font></a> <font face=verdana,arial,helvetica size=1 color="#006A87">//</font> <a href="../content/hippa.asp"><font face=arial,verdana,helvetica size=1 color="#FF6600">Notice of Privacy Practices</font></a><br><font face=arial,verdana,helvetica size=1 color="#006A87">© 2002 Catholic Healthcare Partners
+</font></center></td>
+	</tr>
+</table>
+<map name="wm_home">
+<area shape="rect" coords="282,0,578,31" href="womens_module.asp" title="Mercy Women's Care Online">
+
+</map>
+<map name="hm_home">
+<area shape="rect" coords="307,0,578,31" href="heart_module.asp" title="Mercy Heart Center Online">
+</map>
+</BODY>
+</HTML>

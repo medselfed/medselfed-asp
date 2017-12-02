@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<preopData>
+<pageHeader1>Mixing Insulin</pageHeader1>
+<pageHeader2></pageHeader2>
+<pageTitle>Mixing Insulin</pageTitle>
+<directory templateDir="/asp" image="/image" videoMedia="/media" audioMedia="/media" slideimage="/image" />
+<prodId>448m</prodId>
+<siteId>postcare</siteId>
+<phdivision></phdivision>
+<!--
+Input Task Name
+
+Do a 'Find & Replace All' with the new Task number
+
+//-->
+
+<navElement secId="2" template="/template1.asp">Care Task</navElement>
+
+<!--
+for bold text use:
+&lt;b&gt; B &lt;/b&gt;
+equals <b> B </b>
+
+for paragraphs text use:
+&lt;p&gt; all your text &lt;/p&gt;
+equals <p> all your text </p>
+
+for bullets text use:
+&lt;UL&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;LI&gt; all your text &lt;/LI&gt;&lt;/UL&gt;
+equals <ul> <li> all your text </li> </ul> 
+
+//-->
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (2) CARE TASK //-->
+
+<audioImage secId="2" image="/000/postcare/host_audio_pc.gif" audioMapQT="/448m/audio_448m.mov"  audioMapWM="/448m/audio_448m.wma"/>
+<videoImage secId="2" spotId="1" image="/000/movie.gif" videoMapQT="/448m/video_448m.mov" videoMapWM="/448m/video_448m.wmv"/>
+<topHtml secId="2" spotId="1"></topHtml>
+<botHtml secId="2"></botHtml>
+<procedureInfo secId="2" spotId="1" slideimage="/448m/448m-01b.gif" image="/448m/448m-01.gif">Your doctor or diabetes educator may ask you to mix a short-acting or clear insulin</procedureInfo>
+<procedureInfo secId="2" spotId="2" slideimage="/448m/448m-02b.gif" image="/448m/448m-02.gif">with an intermediate or long acting cloudy insulin in the same syringe so that both can be given at the same time.</procedureInfo>
+<procedureInfo secId="2" spotId="3" slideimage="/448m/448m-03b.gif" image="/448m/448m-03.gif">&lt;UL&gt;&lt;LI&gt;The only insulin that cannot be mixed is insulin glargine.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="4" slideimage="/448m/448m-04b.gif" image="/448m/448m-04.gif">&lt;UL&gt;&lt;LI&gt;In this example, the doctor has asked you to mix 10 units of regular, clear, insulin with 15 units of NPH cloudy insulin, to a total combined dose of 25 units.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="5" slideimage="/448m/448m-05b.gif" image="/448m/448m-05.gif">&lt;UL&gt;&lt;LI&gt;Always, draw "clear before cloudy" insulin into the syringe. This is to prevent cloudy insulin from entering the clear insulin bottle.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="6" slideimage="/448m/448m-06b.gif" image="/448m/448m-06.gif">&lt;UL&gt;&lt;LI&gt;Always do this procedure in the correct order, as shown in the following sequence.&lt;/LI&gt;&lt;/UL&gt;</procedureInfo>
+<procedureInfo secId="2" spotId="7" slideimage="/448m/448m-07b.gif" image="/448m/448m-07.gif">Roll the bottle of the cloudy insulin between your hands to mix it.</procedureInfo>
+<procedureInfo secId="2" spotId="8" slideimage="/448m/448m-08b.gif" image="/448m/448m-08.gif">Clean both bottle tops with an alcohol wipe.</procedureInfo>
+<procedureInfo secId="2" spotId="9" slideimage="/448m/448m-09b.gif" image="/448m/448m-09.gif">Pull back the plunger of the syringe to the dose of the long-acting (cloudy) insulin ...</procedureInfo>
+<procedureInfo secId="2" spotId="10" slideimage="/448m/448m-10b.gif" image="/448m/448m-10.gif">... in this example 15 units. You now have 15 units of air in the syringe.</procedureInfo>
+<procedureInfo secId="2" spotId="11" slideimage="/448m/448m-11b.gif" image="/448m/448m-11.gif">Check the insulin bottle to ensure you have the correct cloudy type of insulin.</procedureInfo>
+<procedureInfo secId="2" spotId="12" slideimage="/448m/448m-12b.gif" image="/448m/448m-12.gif">With the insulin bottle held firmly on a counter or tabletop, insert the needle through the rubber cap into the bottle.</procedureInfo>
+<procedureInfo secId="2" spotId="13" slideimage="/448m/448m-13b.gif" image="/448m/448m-13.gif">Push the plunger down so that the air goes from the syringe into the bottle. Remove the needle and syringe. This primes the bottle for when you withdraw the insulin later.</procedureInfo>
+<procedureInfo secId="2" spotId="14" slideimage="/448m/448m-14b.gif" image="/448m/448m-14.gif">Pull back the plunger of the syringe to the dose of the shorter acting clear insulin ...</procedureInfo>
+<procedureInfo secId="2" spotId="15" slideimage="/448m/448m-15b.gif" image="/448m/448m-15.gif">... in this example 10 units. You now have 10 units of air in the syringe.</procedureInfo>
+<procedureInfo secId="2" spotId="16" slideimage="/448m/448m-16b.gif" image="/448m/448m-16.gif">Check the insulin bottle to ensure you have the correct clear type of insulin.</procedureInfo>
+<procedureInfo secId="2" spotId="17" slideimage="/448m/448m-17b.gif" image="/448m/448m-17.gif">With the insulin bottle held firmly on a counter or tabletop, insert the needle through the rubber cap into the bottle.</procedureInfo>
+<procedureInfo secId="2" spotId="18" slideimage="/448m/448m-18b.gif" image="/448m/448m-18.gif">Push the plunger down so that the air goes from the syringe into the bottle.
+</procedureInfo>
+<procedureInfo secId="2" spotId="19" slideimage="/448m/448m-19b.gif" image="/448m/448m-19.gif">Turn the bottle upside down so that the air in it goes to the top.</procedureInfo>
+<procedureInfo secId="2" spotId="20" slideimage="/448m/448m-20b.gif" image="/448m/448m-20.gif">With the tip of the needle kept in the liquid, withdraw the dose of clear insulin, in this example, 10 units.</procedureInfo>
+<procedureInfo secId="2" spotId="21" slideimage="/448m/448m-21b.gif" image="/448m/448m-21.gif">Remove the needle and syringe.</procedureInfo>
+<procedureInfo secId="2" spotId="22" slideimage="/448m/448m-22b.gif" image="/448m/448m-22.gif">Go back to the longer-acting, cloudy insulin bottle.</procedureInfo>
+<procedureInfo secId="2" spotId="23" slideimage="/448m/448m-23b.gif" image="/448m/448m-23.gif">Turn it upside down. Insert the needle into the liquid and slowly pull back the plunger to measure your total dose,</procedureInfo>
+<procedureInfo secId="2" spotId="24" slideimage="/448m/448m-24b.gif" image="/448m/448m-24.gif">... in this example, 25 units. You are now ready to give your injection.</procedureInfo>
+
+
+<!-- iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii //-->
+
+<!-- (3) SHOPPING LIST //-->
+
+<topHtml secId="3" spotId="1">&lt;B class="largeviolet"&gt;T&lt;/B&gt;he equipment that you will need to assemble before starting the care task includes: &lt;p&gt;   &lt;/p&gt;</topHtml>
+<botHtml secId="3"></botHtml>
+
+<procedureInfo secId="3" spotId="1" >&lt;UL&gt;&lt;LI&gt;Alcohol wipe&lt;/LI&gt;&lt;LI&gt;</procedureInfo>
+
+
+</preopData>
